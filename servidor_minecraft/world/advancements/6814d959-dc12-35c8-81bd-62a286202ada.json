@@ -20618,6 +20618,12 @@
     },
     "done": true
   },
+  "memory_of_the_past:first_level_up": {
+    "criteria": {
+      "first_level_up_0": "2024-12-24 02:51:51 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/combat/veridium_sword": {
     "criteria": {
       "has_veridium_ingot": "2024-12-24 03:08:33 +0000"
@@ -20633,12 +20639,6 @@
   "aether_redux:recipes/tools/veridium_axe": {
     "criteria": {
       "has_veridium_ingot": "2024-12-24 03:08:33 +0000"
-    },
-    "done": true
-  },
-  "memory_of_the_past:first_level_up": {
-    "criteria": {
-      "first_level_up_0": "2024-12-24 02:51:51 +0000"
     },
     "done": true
   },
