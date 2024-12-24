@@ -15259,3 +15259,156 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 04:59:29.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> que vestia
 [24Dec2024 04:59:38.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> una raid xd
 [24Dec2024 04:59:46.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> pa provar a ver si no crashea
+[24Dec2024 05:01:14.166] [Server thread/DEBUG] [pointblank/]: 74166 handling client fire request
+[24Dec2024 05:01:14.166] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 937880569 to 0
+[24Dec2024 05:01:14.166] [Server thread/DEBUG] [pointblank/]: 74166 - obtained hit result in 0ms
+[24Dec2024 05:01:14.166] [Server thread/DEBUG] [pointblank/]: 74166 - obtained hit result in 0ms
+[24Dec2024 05:01:14.166] [Server thread/DEBUG] [pointblank/]: 74166 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 1ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.167] [Server thread/DEBUG] [pointblank/]: 74167 - obtained hit result in 0ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 - obtained hit result in 1ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 - obtained hit result in 0ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 - obtained hit result in 0ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 - obtained hit result in 0ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 - obtained hit result in 0ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 - obtained hit result in 0ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 - obtained hit result in 0ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 - obtained hit result in 0ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 - obtained hit result in 0ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 - obtained hit result in 0ms
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: 74168 obtained hit results
+[24Dec2024 05:01:14.168] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6a77da08
+[24Dec2024 05:01:14.169] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.169] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.169] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@72778e8a
+[24Dec2024 05:01:14.169] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.169] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.169] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@405c59c8
+[24Dec2024 05:01:14.169] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.169] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.169] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@796ae9a3
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2fddf429
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5e0cdcbb
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@285b3263
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.174] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@210d0766
+[24Dec2024 05:01:14.176] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.176] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.176] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@61b1c3d2
+[24Dec2024 05:01:14.176] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.176] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.176] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5960325b
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2859cb3e
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6126cf64
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ee63fc1
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@56cc26ac
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@302a0770
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.177] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6720b3fe
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@580790ec
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6f492406
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@f38af18
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6de54242
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@9012fe2
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2fce43d0
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.179] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@65c4695e
+[24Dec2024 05:01:14.179] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.179] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.179] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@22f4c0f6
+[24Dec2024 05:01:14.179] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.179] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.179] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@220a9575
+[24Dec2024 05:01:14.179] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.179] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.179] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7f878227
+[24Dec2024 05:01:14.183] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.183] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.183] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3db81ebf
+[24Dec2024 05:01:14.183] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.183] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.183] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4b6f8540
+[24Dec2024 05:01:14.183] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.183] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.183] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@8baa0b0
+[24Dec2024 05:01:14.183] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.184] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:14.184] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4d6024ad
+[24Dec2024 05:01:14.184] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=44.74, y=69.00, z=4.31]
+[24Dec2024 05:01:14.184] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.04, y=69.00, z=4.21]
+[24Dec2024 05:01:15.116] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 937880569 to 1
+[24Dec2024 05:01:23.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> rxd
+[24Dec2024 05:01:24.114] [Server thread/DEBUG] [pointblank/]: 84114 handling client fire request
+[24Dec2024 05:01:24.114] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 487605944 to 4
+[24Dec2024 05:01:24.115] [Server thread/DEBUG] [pointblank/]: 84115 - obtained hit result in 0ms
+[24Dec2024 05:01:24.115] [Server thread/DEBUG] [pointblank/]: 84115 obtained hit results
+[24Dec2024 05:01:24.115] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5e072a8e
+[24Dec2024 05:01:24.122] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=39.06, y=69.50, z=1.28] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=42.65, y=69.00, z=2.16]
+[24Dec2024 05:01:24.123] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=39.06, y=69.50, z=1.28] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=39.06, y=69.50, z=1.28]
+[24Dec2024 05:01:27.469] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 487605944 to 5
+[24Dec2024 05:02:24.012] [Server thread/DEBUG] [pointblank/]: 44012 handling client fire request
+[24Dec2024 05:02:24.012] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 487605944 to 4
+[24Dec2024 05:02:24.013] [Server thread/DEBUG] [pointblank/]: 44013 - obtained hit result in 1ms
+[24Dec2024 05:02:24.013] [Server thread/DEBUG] [pointblank/]: 44013 obtained hit results
+[24Dec2024 05:02:24.013] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@27e5d6ba
+[24Dec2024 05:02:24.017] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=38.90, y=69.00, z=-7.62] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=41.11, y=69.00, z=-7.70]
+[24Dec2024 05:02:24.017] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=38.90, y=69.00, z=-7.62] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=38.90, y=69.00, z=-7.62]
+[24Dec2024 05:02:33.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 was slain by Doom_Slayer246
+[24Dec2024 05:02:34.817] [Server thread/DEBUG] [twilightforest/]: Player Alexten22 (c5bf4235-1120-3589-9f45-0251854bc284) respawned and received items held in storage
+[24Dec2024 05:03:08.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:03:08.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:03:31.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe
+[24Dec2024 05:03:35.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> nunca me dijiste
+[24Dec2024 05:06:12.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> zzz
+[24Dec2024 05:06:26.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe
+[24Dec2024 05:06:33.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> no hai mas bloond moon
+[24Dec2024 05:06:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> no mas oro nbi hierro
+[24Dec2024 05:08:08.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:08:08.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:08:19.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> no
