@@ -20672,5 +20672,59 @@
     },
     "done": true
   },
+  "aether:recipes/combat/blue_cape_blue_wool": {
+    "criteria": {
+      "has_blue_wool": "2024-12-24 04:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2024-12-24 04:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2024-12-24 04:30:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2024-12-24 04:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-24 04:42:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blue_flag": {
+    "criteria": {
+      "has_blue_flag": "2024-12-24 04:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2024-12-24 04:30:33 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_while_blinded": {
+    "criteria": {
+      "kill_while_blinded": "2024-12-24 04:39:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2024-12-24 04:30:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

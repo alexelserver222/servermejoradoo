@@ -2542,3 +2542,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 04:25:35.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
 [24Dec2024 04:25:35.743] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
 [24Dec2024 04:25:35.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind
+[24Dec2024 04:34:56.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-8} BlockPos{x=33, y=60, z=-7}
+[24Dec2024 04:34:57.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-8} BlockPos{x=32, y=59, z=-7}
+[24Dec2024 04:34:58.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-8} BlockPos{x=35, y=59, z=-7}
+[24Dec2024 04:34:59.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=60, z=-7} BlockPos{x=36, y=59, z=-7}
+[24Dec2024 04:39:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 has made the advancement [Peekaboo, I (still) see you!]
+[24Dec2024 04:43:22.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> K XD
+[24Dec2024 04:43:27.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> Q
+[24Dec2024 04:43:37.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ni idea
+[24Dec2024 04:44:03.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe no fui yo
+[24Dec2024 04:44:07.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> fue zambrano
+[24Dec2024 04:44:30.204] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24Dec2024 04:44:31.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved too quickly! -9.244620946565135,0.5345999791860621,-4.221010671576378
+[24Dec2024 04:48:48.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> yo tampoco lo tengo
