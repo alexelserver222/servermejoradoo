@@ -18365,5 +18365,29 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 06:14:43 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_the_recipe": "2024-12-24 06:14:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-24 06:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2024-12-24 06:23:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
