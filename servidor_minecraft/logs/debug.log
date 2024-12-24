@@ -15222,3 +15222,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 04:48:08.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 04:48:08.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 04:48:48.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> yo tampoco lo tengo
+[24Dec2024 04:52:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> corro mira
+[24Dec2024 04:52:52.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ven
+[24Dec2024 04:53:08.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:53:08.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:53:18.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> en donde estoy aplanando
+[24Dec2024 04:53:27.943] [Server thread/DEBUG] [ModernFix/]: Structure additionalstructures:spruce_log_2 is being run through DFU (hash defd9502cbdd9571a194af95050d476ae83282c0847de40391dcde3dd8fc8429), this will cause launch time delays
+[24Dec2024 04:53:29.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[24Dec2024 04:53:29.784] [Server thread/DEBUG] [ModernFix/]: Structure additionalstructures:stone_rock_2 is being run through DFU (hash 09be76fda74a74d72aa34aaa2d0ebae57c5e4d67ee1f03c23fb2224f9b552696), this will cause launch time delays
+[24Dec2024 04:54:14.133] [Server thread/DEBUG] [pointblank/]: 54133 handling client fire request
+[24Dec2024 04:54:14.134] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 487605944 to 4
+[24Dec2024 04:54:14.134] [Server thread/DEBUG] [pointblank/]: 54134 - obtained hit result in 0ms
+[24Dec2024 04:54:14.134] [Server thread/DEBUG] [pointblank/]: 54134 obtained hit results
+[24Dec2024 04:54:14.134] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@af06473
+[24Dec2024 04:54:14.144] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=1.95, y=67.00, z=-19.12] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=11.99, y=63.00, z=-28.62]
+[24Dec2024 04:54:14.144] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=1.95, y=67.00, z=-19.12] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=1.95, y=67.00, z=-19.12]
+[24Dec2024 04:54:15.819] [Server thread/DEBUG] [pointblank/]: 55819 handling client fire request
+[24Dec2024 04:54:15.819] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 487605944 to 3
+[24Dec2024 04:54:15.819] [Server thread/DEBUG] [pointblank/]: 55819 - obtained hit result in 0ms
+[24Dec2024 04:54:15.819] [Server thread/DEBUG] [pointblank/]: 55819 obtained hit results
+[24Dec2024 04:54:15.819] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@28494367
+[24Dec2024 04:54:15.825] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=1.95, y=67.00, z=-19.12] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=9.49, y=63.00, z=-33.29]
+[24Dec2024 04:54:15.825] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=1.95, y=67.00, z=-19.12] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=1.95, y=67.00, z=-19.12]
+[24Dec2024 04:54:17.070] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 487605944 to 5
+[24Dec2024 04:54:55.773] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 937880569 to 1
+[24Dec2024 04:55:01.466] [Server thread/DEBUG] [pointblank/]: 1466 handling client fire request
+[24Dec2024 04:55:01.467] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 487605944 to 4
+[24Dec2024 04:55:01.467] [Server thread/DEBUG] [pointblank/]: 1467 - obtained hit result in 0ms
+[24Dec2024 04:55:01.467] [Server thread/DEBUG] [pointblank/]: 1467 obtained hit results
+[24Dec2024 04:55:01.467] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f5b182f
+[24Dec2024 04:55:01.479] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.46, y=64.06, z=2.76] sends hit scan notification to ServerPlayer['Alexten22'/120, l='ServerLevel[world]', x=9.54, y=63.00, z=-22.72]
+[24Dec2024 04:55:01.479] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.46, y=64.06, z=2.76] sends hit scan notification to ServerPlayer['Doom_Slayer246'/511, l='ServerLevel[world]', x=36.46, y=64.06, z=2.76]
+[24Dec2024 04:55:02.782] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 487605944 to 5
+[24Dec2024 04:58:08.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:58:08.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:59:29.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> que vestia
+[24Dec2024 04:59:38.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> una raid xd
+[24Dec2024 04:59:46.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> pa provar a ver si no crashea

@@ -18359,5 +18359,11 @@
     },
     "done": true
   },
+  "goety:goety/kill_a_wraith": {
+    "criteria": {
+      "kill_a_wraith": "2024-12-24 04:53:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
