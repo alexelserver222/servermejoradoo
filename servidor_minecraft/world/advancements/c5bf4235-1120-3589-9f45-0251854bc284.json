@@ -11,18 +11,6 @@
     },
     "done": true
   },
-  "stellarity:cursed_tome/root": {
-    "criteria": {
-      "requirement": "2024-12-25 03:58:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-12-25 03:58:58 +0000"
-    },
-    "done": true
-  },
   "infinite_abyss:logged_in": {
     "criteria": {
       "logged_in": "2024-12-25 03:58:57 +0000"
@@ -32,6 +20,42 @@
   "infinity_cave:technical/armor/boots": {
     "criteria": {
       "empty": "2024-12-25 03:58:57 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/armor/chestplate": {
+    "criteria": {
+      "empty": "2024-12-25 03:58:57 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/armor/helmet": {
+    "criteria": {
+      "empty": "2024-12-25 03:58:57 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2024-12-25 03:58:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-25 03:58:57 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-25 03:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-25 03:58:58 +0000"
     },
     "done": true
   },
@@ -74,12 +98,6 @@
   "goety_spillage:root": {
     "criteria": {
       "tick": "2024-12-25 03:58:58 +0000"
-    },
-    "done": true
-  },
-  "infinity_cave:technical/armor/chestplate": {
-    "criteria": {
-      "empty": "2024-12-25 03:58:57 +0000"
     },
     "done": true
   },
@@ -137,39 +155,9 @@
     },
     "done": true
   },
-  "infinity_cave:technical/armor/helmet": {
-    "criteria": {
-      "empty": "2024-12-25 03:58:57 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/root": {
-    "criteria": {
-      "join": "2024-12-25 03:59:21 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2024-12-25 03:58:59 +0000"
-    },
-    "done": true
-  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-25 03:58:58 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:root": {
-    "criteria": {
-      "sample_trigger": "2024-12-25 03:58:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-25 03:58:57 +0000"
     },
     "done": true
   },
@@ -179,15 +167,378 @@
     },
     "done": true
   },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-25 03:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-25 04:35:04 +0000",
+      "minecraft:windswept_hills": "2024-12-25 04:39:11 +0000",
       "minecraft:dark_forest": "2024-12-25 03:58:59 +0000",
       "minecraft:river": "2024-12-25 03:59:37 +0000",
       "minecraft:swamp": "2024-12-25 04:00:43 +0000",
       "minecraft:forest": "2024-12-25 03:59:39 +0000",
+      "minecraft:windswept_forest": "2024-12-25 04:39:39 +0000",
       "minecraft:plains": "2024-12-25 04:00:29 +0000"
     },
     "done": false
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2024-12-25 03:59:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/transportation/highsproot_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-25 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-25 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-25 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2024-12-25 05:01:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "roast_chicken": "2024-12-25 05:05:18 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/shield_smithing_singleton": {
+    "criteria": {
+      "has_item": "2024-12-25 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/shield_vanilla_smithing_singleton": {
+    "criteria": {
+      "has_item": "2024-12-25 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/ec_tipped_arrow_recipe": {
+    "criteria": {
+      "has_item": "2024-12-25 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/tipped_arrow_fletching_recipe": {
+    "criteria": {
+      "has_item": "2024-12-25 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/weapon_potion_dipping_recipe": {
+    "criteria": {
+      "has_item": "2024-12-25 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/shield_smithing": {
+    "criteria": {
+      "has_item": "2024-12-25 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/ec_shield_decoration": {
+    "criteria": {
+      "has_item": "2024-12-25 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-25 05:13:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-25 05:13:55 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
