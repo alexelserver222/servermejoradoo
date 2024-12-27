@@ -18851,15 +18851,15 @@
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2024-12-27 04:35:29 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/basalt/wall": {
     "criteria": {
       "has_item": "2024-12-27 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-27 04:35:29 +0000"
     },
     "done": true
   },
