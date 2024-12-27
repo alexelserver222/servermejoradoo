@@ -17452,3 +17452,491 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [27Dec2024 05:05:10.272] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
 [27Dec2024 05:05:14.923] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
 [27Dec2024 05:05:16.260] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[27Dec2024 05:05:23.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_7
+[27Dec2024 05:05:23.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_3
+[27Dec2024 05:05:23.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_empty
+[27Dec2024 05:05:25.496] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_1
+[27Dec2024 05:05:25.508] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_1
+[27Dec2024 05:05:25.521] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_2
+[27Dec2024 05:05:25.534] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_2
+[27Dec2024 05:05:27.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[27Dec2024 05:05:28.066] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[27Dec2024 05:05:43.303] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[27Dec2024 05:05:44.153] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/mossy_ruin/main is being run through DFU (hash 5756eba6d66e376554e7cde213a1b31ade0cbb63ae974a94e3cf9177cd9ac78e), this will cause launch time delays
+[27Dec2024 05:05:44.197] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/mossy_ruin/connector is being run through DFU (hash 37d78c35901c8cb330ad42bed71a2bf93d8eeab9945d8ee709d3277b8b6e2375), this will cause launch time delays
+[27Dec2024 05:05:44.244] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/mossy_ruin/outer2 is being run through DFU (hash 375a66fe3e289c65b063c42c5648d7c7df3e4d972518a4fbe86b869dfd6f400b), this will cause launch time delays
+[27Dec2024 05:05:48.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5997ms or 119 ticks behind
+[27Dec2024 05:06:06.911] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_5
+[27Dec2024 05:06:06.912] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_4
+[27Dec2024 05:06:26.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:06:26.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:06:36.187] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[27Dec2024 05:06:36.336] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[27Dec2024 05:06:36.375] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool3
+[27Dec2024 05:06:36.611] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_10 is being run through DFU (hash 98cdcd6c458bc3739d34eb74acd36285e31d857e49f0c30fe25416ab3f035602), this will cause launch time delays
+[27Dec2024 05:06:37.498] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[27Dec2024 05:06:39.649] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[27Dec2024 05:06:43.596] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[27Dec2024 05:06:46.266] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[27Dec2024 05:06:46.278] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/plains/villagers/unemployed_plains is being run through DFU (hash c9b968c87fd34293f04814ef2dcebc6be4aafb305e1266ca4ba8980731018970), this will cause launch time delays
+[27Dec2024 05:06:46.287] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight2 is being run through DFU (hash bdb2e3e0151dbfe85370a027fdb9f291780d0fc92627f13f612910548cbc234f), this will cause launch time delays
+[27Dec2024 05:06:46.297] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term3 is being run through DFU (hash 815d826fcc91aabfd7fabd8e9fdf252504627fb7674055b8ded6680715fa6806), this will cause launch time delays
+[27Dec2024 05:06:46.305] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t2 is being run through DFU (hash 90cd79756951abebab3b7d26a66d78c13a7e2ff1c79b2c7c2cf3dbdb47749ae0), this will cause launch time delays
+[27Dec2024 05:06:46.313] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend1 is being run through DFU (hash dfd55ed6fb8dbad706164993e7e1aab1fc814fe23a2f7be8b621c994b4118f0f), this will cause launch time delays
+[27Dec2024 05:06:46.451] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight1 is being run through DFU (hash 4a018179f4091762355585a516df34c84496d4f75f78d5877f224bc666545ffa), this will cause launch time delays
+[27Dec2024 05:06:46.461] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/intersection_big is being run through DFU (hash e1d39000b62f7e92df288f95bf6da184026d6b5cb67c6adef7380d2e9f5290c7), this will cause launch time delays
+[27Dec2024 05:06:46.471] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend2 is being run through DFU (hash 84e95bfde4d28347074b278cfacb2be185c2fc11a1afb1cfb8e6c356c9bb66ba), this will cause launch time delays
+[27Dec2024 05:06:46.472] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term1 is being run through DFU (hash 4e17199e1fd91b3aeeb258eb757ab84cc78d7cac13c8a0d97456cee903cf8fa3), this will cause launch time delays
+[27Dec2024 05:06:46.473] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/inter1 is being run through DFU (hash 4e8fc473da2220f2e0fb44202ebdf37c63d78f44f4c52f84fc357bb5e72190e4), this will cause launch time delays
+[27Dec2024 05:06:46.475] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t1 is being run through DFU (hash b9cac668944bcf60fe9691756ee628f5e82f7f2d81f39fc6d2498dea8fe9e89d), this will cause launch time delays
+[27Dec2024 05:06:46.477] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term2 is being run through DFU (hash 42d9ab04a9e2740e7009c385bd8ce365082f20271eb28e3e32b91db2c9feca16), this will cause launch time delays
+[27Dec2024 05:07:11.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1678, y=-86, z=-105} BlockPos{x=-1681, y=-87, z=-110}
+[27Dec2024 05:07:29.771] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[27Dec2024 05:07:29.782] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[27Dec2024 05:07:29.791] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[27Dec2024 05:07:29.798] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_tree_hole
+[27Dec2024 05:07:29.807] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[27Dec2024 05:07:29.814] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[27Dec2024 05:07:29.821] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_log
+[27Dec2024 05:07:29.829] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_2
+[27Dec2024 05:07:47.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[27Dec2024 05:07:53.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[27Dec2024 05:08:05.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[27Dec2024 05:08:10.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:netherrack_spiral/top/netherrack
+[27Dec2024 05:08:16.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_10
+[27Dec2024 05:08:16.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of goety:graveyard/podzol
+[27Dec2024 05:08:16.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of goety:graveyard/chest
+[27Dec2024 05:08:16.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of goety:graveyard/treasure
+[27Dec2024 05:08:17.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:trader_house/trader_house
+[27Dec2024 05:08:19.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
+[27Dec2024 05:08:28.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[27Dec2024 05:08:30.228] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:small_player_house/small_player_house
+[27Dec2024 05:08:41.627] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:houses/flower_hole is being run through DFU (hash f5aeb1b59d16e871c4967b47adc2c8ddfecdde4d36d41d402b2daecaf13a1c2a), this will cause launch time delays
+[27Dec2024 05:08:41.955] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_08 is being run through DFU (hash 03673c988a4e037dc1f4cb5fe7f9441c58b69fceece6acdffe4ecee00247d5ff), this will cause launch time delays
+[27Dec2024 05:08:42.228] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[27Dec2024 05:08:44.019] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_13 is being run through DFU (hash be147b02042888c3ee04f32b1ec22eba46a28181be72f3defe68bcfa98203d41), this will cause launch time delays
+[27Dec2024 05:09:40.781] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[27Dec2024 05:09:40.789] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_2
+[27Dec2024 05:09:40.796] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[27Dec2024 05:09:40.796] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[27Dec2024 05:09:40.796] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_1
+[27Dec2024 05:09:41.678] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[27Dec2024 05:09:41.685] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_1
+[27Dec2024 05:09:41.702] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_jungle_log
+[27Dec2024 05:09:41.716] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_1
+[27Dec2024 05:09:41.729] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_jungle_tree_1
+[27Dec2024 05:09:41.736] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_1
+[27Dec2024 05:09:41.757] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:big_jungle_log
+[27Dec2024 05:09:41.764] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
+[27Dec2024 05:09:41.771] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_3
+[27Dec2024 05:09:41.778] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:birch_log
+[27Dec2024 05:09:41.784] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[27Dec2024 05:09:41.792] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_2
+[27Dec2024 05:09:41.806] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[27Dec2024 05:09:41.819] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[27Dec2024 05:09:41.839] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_spruce_log
+[27Dec2024 05:09:41.846] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_1
+[27Dec2024 05:09:41.900] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:watertower
+[27Dec2024 05:09:44.637] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:09:44.638] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:09:44.638] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:09:44.639] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:09:44.639] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:09:44.919] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:09:44.920] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:09:44.920] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:09:44.920] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:09:51.465] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_1
+[27Dec2024 05:09:51.476] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_1
+[27Dec2024 05:09:51.486] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_2
+[27Dec2024 05:09:51.497] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_2
+[27Dec2024 05:09:51.508] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_3
+[27Dec2024 05:09:58.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[27Dec2024 05:10:05.099] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_4
+[27Dec2024 05:10:05.108] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_1
+[27Dec2024 05:10:05.118] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_3
+[27Dec2024 05:10:05.129] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_2
+[27Dec2024 05:10:05.139] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_1
+[27Dec2024 05:10:05.150] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_2
+[27Dec2024 05:10:16.191] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/staircase1
+[27Dec2024 05:10:23.565] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[27Dec2024 05:10:23.572] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[27Dec2024 05:10:25.129] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[27Dec2024 05:10:28.848] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[27Dec2024 05:10:30.278] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[27Dec2024 05:10:30.357] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[27Dec2024 05:10:35.545] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:10:35.546] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:10:35.546] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:10:35.546] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:10:37.816] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:10:37.816] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:10:37.817] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:10:37.993] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[27Dec2024 05:10:40.519] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[27Dec2024 05:10:41.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[27Dec2024 05:10:43.551] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[27Dec2024 05:10:45.523] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
+[27Dec2024 05:10:46.422] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[27Dec2024 05:10:46.599] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:bees/bees
+[27Dec2024 05:10:49.811] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/plains/town_centers/plains_market is being run through DFU (hash fe2543aac67f4b68823666594fd962dcb67495bc2f8b75c65fc163f1db793664), this will cause launch time delays
+[27Dec2024 05:10:49.853] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/town_centers/savanna_market is being run through DFU (hash b2f0cd38979b2eac22587025fb1cac335656958b012db6357d88b7084339f827), this will cause launch time delays
+[27Dec2024 05:10:49.868] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/town_centers/snowy_meeting_point_2 is being run through DFU (hash fad90418528f18252254458f0db7e470ad6a8a9137234909ae5e16ebe9c89742), this will cause launch time delays
+[27Dec2024 05:10:49.888] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/taiga/town_centers/taiga_market is being run through DFU (hash bf7a4dd74f6bce039720d726f7efdf41e0fd819e6cffb6d03e21e82e6602b31d), this will cause launch time delays
+[27Dec2024 05:10:50.018] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:jungle/jungle_tower_bottom
+[27Dec2024 05:10:50.026] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean_warm/ocean_warm_tower_bottom
+[27Dec2024 05:10:50.035] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:badlands/badlands_tower_bottom
+[27Dec2024 05:10:50.044] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[27Dec2024 05:10:50.052] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean/ocean_tower_bottom
+[27Dec2024 05:10:50.061] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:desert/desert_tower_bottom
+[27Dec2024 05:10:50.069] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[27Dec2024 05:10:50.079] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[27Dec2024 05:10:52.301] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:giant_mushroom/giant_red_mushroom_stem_01 is being run through DFU (hash 4ac9200a4f7a173b0db6bd2d0064522ed1034854f8f089a7357fdf6f2536884c), this will cause launch time delays
+[27Dec2024 05:10:55.754] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_09 is being run through DFU (hash 511904dab45dd62e6d9ec30c18ca368ecbc2c8301fbac7f599a58a20d8788e16), this will cause launch time delays
+[27Dec2024 05:10:55.849] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:oriental_hut/oriental_hut
+[27Dec2024 05:10:58.827] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_ruin_1
+[27Dec2024 05:10:58.836] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ruin_1
+[27Dec2024 05:10:59.823] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_01
+[27Dec2024 05:11:03.703] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[27Dec2024 05:11:08.058] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[27Dec2024 05:11:08.403] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_5
+[27Dec2024 05:11:08.416] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_4
+[27Dec2024 05:11:08.427] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_2
+[27Dec2024 05:11:08.438] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[27Dec2024 05:11:08.450] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_3
+[27Dec2024 05:11:08.559] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:azalea_pavilion/azalea_pavilion
+[27Dec2024 05:11:12.331] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[27Dec2024 05:11:12.370] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_oak is being run through DFU (hash ced3f83cb0bb94a7668ecf3162ef7127e9b7f6d5c8c62d2758db6b29cb4e873f), this will cause launch time delays
+[27Dec2024 05:11:12.371] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_swamp is being run through DFU (hash c52afd4e83bda37ebedaf088747670c9197f38abe2fc0edbc9066fd872cd182d), this will cause launch time delays
+[27Dec2024 05:11:12.373] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_desert is being run through DFU (hash 2d2dc3520a9a0cdf1a33aaba5626b89d8a857745194715abada6b16133967549), this will cause launch time delays
+[27Dec2024 05:11:12.373] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_spruce is being run through DFU (hash 6875aaabb8458e4388924690b53d9d69dd22a80bc6288b9185c33b279939bcde), this will cause launch time delays
+[27Dec2024 05:11:12.374] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_dark_oak is being run through DFU (hash 7fcecb623f33d568703c9e6215b8f60b3beb4a7cbda0a46073c2222855af07b3), this will cause launch time delays
+[27Dec2024 05:11:12.375] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_birch is being run through DFU (hash 6c6c7537d8817f56ff019aba186e82a98de2e928617dcc2a498ad76675219478), this will cause launch time delays
+[27Dec2024 05:11:12.387] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_snowy is being run through DFU (hash 62dc12c66bcefef4d5ffc28536a4d16a7ecc6eb7aa2ecb0b3a098b962877844e), this will cause launch time delays
+[27Dec2024 05:11:12.388] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_jungle is being run through DFU (hash 61e9dbe02c35adbeb7183fe233ee0ffecf38669a5bac1ed37e4f14519ea4e3ef), this will cause launch time delays
+[27Dec2024 05:11:12.389] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_oak is being run through DFU (hash caf24344ca0a8636eaaaabddb93ce85bb1278469a6e877be7fc7e57bdf8bbec3), this will cause launch time delays
+[27Dec2024 05:11:12.390] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_dark_oak is being run through DFU (hash 897eb1a85ed0d1da5bc25226224490f6be9641d5ae8798a27b14223046e83e68), this will cause launch time delays
+[27Dec2024 05:11:12.391] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_mangrove is being run through DFU (hash 2b2683707a17974e0eb925ff0b163a6f048cbd5f4cda80cc692bb280002f4af8), this will cause launch time delays
+[27Dec2024 05:11:12.392] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_dark_oak is being run through DFU (hash dcc757167a5409d21d0e59e4ab3ff7381ac1ea647b3d97b9417c71661c2f284d), this will cause launch time delays
+[27Dec2024 05:11:12.393] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_acacia is being run through DFU (hash 63ba303479d914baa70c46b3c9ea82aacd2bfdbc4c7931625f3d99053b9c9d87), this will cause launch time delays
+[27Dec2024 05:11:12.393] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_spruce is being run through DFU (hash bb02976b88e2395d69c80cdf44bb2dc2eb1d975c199889bd7da9286dc714036c), this will cause launch time delays
+[27Dec2024 05:11:12.395] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_snowy is being run through DFU (hash 33935775bd492becc11730c84e0d39f33bed6d7192705a52218ae47ca3e45601), this will cause launch time delays
+[27Dec2024 05:11:12.395] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_jungle is being run through DFU (hash a6487c10145dc78c32e85bfaaacad4c3bc1879eab50a18f5e55aff06472f6fa1), this will cause launch time delays
+[27Dec2024 05:11:12.396] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_dark_oak is being run through DFU (hash 68329545bc2dcdcac7c7c66ddcfa3265f9a3c7b7235889b4c9269e82027d8a97), this will cause launch time delays
+[27Dec2024 05:11:12.397] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_birch is being run through DFU (hash 8daf78b8f264ec6b3aa78b5e9ea2e28450a718af68e5760404a132321a7aa6a1), this will cause launch time delays
+[27Dec2024 05:11:12.408] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_jungle is being run through DFU (hash 365ebf3f57271c1ebab600a8d3e41bcb89131faab587755efda066848b153d94), this will cause launch time delays
+[27Dec2024 05:11:12.409] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_acacia is being run through DFU (hash 877855e3fd7caf300ba5e39f080d938a06b3d3fa4c5f857a1a089c6858fb6edb), this will cause launch time delays
+[27Dec2024 05:11:12.410] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_dark_oak is being run through DFU (hash 589878cab189b9ec3609caf092491ad71b461d0a016680fc30a07c05a2bc5279), this will cause launch time delays
+[27Dec2024 05:11:12.410] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_spruce is being run through DFU (hash 3299cc61ca1a2f1f1e8d582447e9409ca44f261e745e62fb496cf0fd6c4540c6), this will cause launch time delays
+[27Dec2024 05:11:12.411] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_snowy is being run through DFU (hash eb4fc119383d6d4e5c26d8c524b73962bf572b773f054d95d01c7f9154472dc9), this will cause launch time delays
+[27Dec2024 05:11:12.412] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_spruce is being run through DFU (hash ad8425bead9c3f92200708d682a9c082dfd6883582a1847b94cdf03dd0a964f1), this will cause launch time delays
+[27Dec2024 05:11:12.412] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_oak is being run through DFU (hash cf9791ae880cfb2f48283ac00e20fe496b48d5a74f5bb8f70aff2159983122ff), this will cause launch time delays
+[27Dec2024 05:11:12.413] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_dark_oak is being run through DFU (hash 5e4272ed678f777fda41b2b8c7b278d735ff33921203cf2b37b3784b024bad09), this will cause launch time delays
+[27Dec2024 05:11:12.414] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_birch is being run through DFU (hash 477c8fbab5b93062e27997c046c05744dd5c70a963228f58aa0c172ef217d580), this will cause launch time delays
+[27Dec2024 05:11:12.415] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_mangrove is being run through DFU (hash d95cfaf85dfb354cf32e4db575eb64bc3343e650c72abb8528721003dab05562), this will cause launch time delays
+[27Dec2024 05:11:12.415] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_swamp is being run through DFU (hash 6c843cc0fbd730e16202361361c94ae8605b44bda1c717faa87b517dcc14974c), this will cause launch time delays
+[27Dec2024 05:11:12.416] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_desert is being run through DFU (hash 846d99bcf80624125ba8508d65f2a41ba01f02386d0d25bf9fff84ef9f324fc6), this will cause launch time delays
+[27Dec2024 05:11:12.416] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_mangrove is being run through DFU (hash 2497ae2cf28f3e4d2d600be7251bb9fd816c7b96578a5d6b17cbfc9f4926ef87), this will cause launch time delays
+[27Dec2024 05:11:12.417] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_swamp is being run through DFU (hash d93a81722902d3d023c77123d1b289ea5d943eca583f2db3ab4ddada2a23718d), this will cause launch time delays
+[27Dec2024 05:11:12.418] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_birch is being run through DFU (hash 82f82c2d8c381b83a471bc8feb41a1e9297efa2fef70c95bd2a8af125a4be8d4), this will cause launch time delays
+[27Dec2024 05:11:12.425] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_desert is being run through DFU (hash ab333b4316f4a5675d782a34a9eecce3a71392246ecb1f96df56a75a4b8413e5), this will cause launch time delays
+[27Dec2024 05:11:12.426] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_acacia is being run through DFU (hash d7f0588b5c79a5fca7485f04dd4787bba0a5062edbe5d0e8f8981986f1360c5d), this will cause launch time delays
+[27Dec2024 05:11:12.427] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_wandering_farmer_dark_oak is being run through DFU (hash 58194e1a96c30d7eaccc51a7b5bfe271b67cb4b48246d66728e0fb8e78c718fb), this will cause launch time delays
+[27Dec2024 05:11:12.428] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_cherry is being run through DFU (hash 46fe86d5a6130a07478c9bb787a688f5f122653d6de2839347b1248a0f0e37d0), this will cause launch time delays
+[27Dec2024 05:11:12.428] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_jungle is being run through DFU (hash 914e067f41ada9397f4aa5c0b258743cb1873a6d9374d0f8688e5880879cbd69), this will cause launch time delays
+[27Dec2024 05:11:12.429] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_swamp is being run through DFU (hash 5a169090d209934acf6e482feab28fb2d657930e25bfeefd1f5402e74ca5a4c9), this will cause launch time delays
+[27Dec2024 05:11:12.429] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_mangrove is being run through DFU (hash 1a04bba0fc04bc91c25623db8a2da4c479c8c778f79e0881572d3d25f20708df), this will cause launch time delays
+[27Dec2024 05:11:12.430] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_cherry is being run through DFU (hash 4a34dc095ccfe73e42d9327f8b2119df58e4555cdcd588a8acf513203d7f2f90), this will cause launch time delays
+[27Dec2024 05:11:12.430] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_mangrove is being run through DFU (hash 2c5f9aea79fafb3f49ef442cff4451053b9c20edb8e81f0d8ee24b751dd9eac2), this will cause launch time delays
+[27Dec2024 05:11:12.431] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_dark_oak is being run through DFU (hash 0fd3a56aacfa2974e2ef389288f88224223267ebf94eb7d15081a86141d69b52), this will cause launch time delays
+[27Dec2024 05:11:12.431] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_birch is being run through DFU (hash a32925b2ad353bbbb9c9a463fd7a003d27f670a4e4105f1456a0560626227f0f), this will cause launch time delays
+[27Dec2024 05:11:12.439] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_mangrove is being run through DFU (hash d0c73612e4c3d62ab9425ef6764e66b7abfb1b46ba31f1ea6d04da8112d1177e), this will cause launch time delays
+[27Dec2024 05:11:12.440] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_snowy is being run through DFU (hash f811e0da52deb70f63e327ab6de0a407c7b6a246c2d27c30e8b69515e14748f6), this will cause launch time delays
+[27Dec2024 05:11:12.440] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_jungle is being run through DFU (hash 8f824323bdd5e918d3294b4d47e6ac3a9702df41556d1a1e1fc6deaba3a7c8e6), this will cause launch time delays
+[27Dec2024 05:11:12.441] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_acacia is being run through DFU (hash abf3462ef5e7e59df7b05fa2b4f77445c20a9721eecfa642cd077143d63fd248), this will cause launch time delays
+[27Dec2024 05:11:12.441] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_acacia is being run through DFU (hash bcbe7e02ceb770ba9320af3f34ed3b43ee95f385ad18afadb2f79523e8354dd9), this will cause launch time delays
+[27Dec2024 05:11:12.442] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_desert is being run through DFU (hash b3977395f434ea66192455520de2a44b359157f0fc59d2e0f328e5914bdecae6), this will cause launch time delays
+[27Dec2024 05:11:12.442] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_oak is being run through DFU (hash cda702c3168a62e38edde6ce24455def5024f5e8783c2cdce92a2da416b5e096), this will cause launch time delays
+[27Dec2024 05:11:12.443] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_snowy is being run through DFU (hash df7c023c1bcd4ac623c2051d6fb1306aa4e20160a0d30ab21a84ebe99eff606b), this will cause launch time delays
+[27Dec2024 05:11:12.451] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_desert is being run through DFU (hash 1b802611b90b9c7e1e22bb87114ec1ce037577c5fcee48299b8f74325a11c3c0), this will cause launch time delays
+[27Dec2024 05:11:12.451] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_cherry is being run through DFU (hash 282a4da33def03e0ce2da9c46cfe46a824699f97145493404d32a32427fedcae), this will cause launch time delays
+[27Dec2024 05:11:12.452] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_desert is being run through DFU (hash db999c72381af8d60f7b60bcfa0697e64a731b25ea0ee66c8eac99808a29d726), this will cause launch time delays
+[27Dec2024 05:11:12.452] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_snowy is being run through DFU (hash 19aec05963606b76b20222a72947d50c706dcfc031a3a245abc98545ab032c8f), this will cause launch time delays
+[27Dec2024 05:11:12.453] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_acacia is being run through DFU (hash 59060f2ea42efe9f9df1f20aa715af52cd495b928c46f9381437ea6b7b78b0a1), this will cause launch time delays
+[27Dec2024 05:11:12.453] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_loom is being run through DFU (hash 8f37cb7e885d81566455c32aea96a147a93755dcaba2b845e5ec7489a2d8a421), this will cause launch time delays
+[27Dec2024 05:11:12.454] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_trader is being run through DFU (hash 0effec3f38e4969622b318408e1d3c87637fcb8e0ff075e9dfcfc9f8740fe2c8), this will cause launch time delays
+[27Dec2024 05:11:12.454] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_spruce is being run through DFU (hash 17039eb8ecc74a500484afd2b5988494d3255e1b1b55015a4cf31e1a4fecd94b), this will cause launch time delays
+[27Dec2024 05:11:12.455] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_spruce is being run through DFU (hash 24a169260ea2f7524dd3b9fe85b50f2f177fe2ec5c4878a6b70180ce1f2c7843), this will cause launch time delays
+[27Dec2024 05:11:12.455] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_spruce is being run through DFU (hash 7884ff63adb03466a79e33a0543d41ec5c6063a36457e7c15f656cdd97b4cbef), this will cause launch time delays
+[27Dec2024 05:11:12.456] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_spruce is being run through DFU (hash 0a95bd33acd6405f4b5fed88d102708b575468607c81e5f0591f37f93c658bdb), this will cause launch time delays
+[27Dec2024 05:11:12.456] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_spruce is being run through DFU (hash f4c9e7c87cc97a6a709cd445aa3b63cc3869f9c1a365afd600e25f285b65dc79), this will cause launch time delays
+[27Dec2024 05:11:12.457] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_acacia is being run through DFU (hash 9dd9d39e8533d516db94ada6a56d79c405d7688ffc18eebb1151befedb43573a), this will cause launch time delays
+[27Dec2024 05:11:12.457] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_acacia is being run through DFU (hash 18a356efd6e4e344f13f7222bc3334713c1691a10e5c78141829b72b5fd36ed8), this will cause launch time delays
+[27Dec2024 05:11:12.458] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_acacia is being run through DFU (hash 07580b692de38d0f4ccdd44ec051640a3963d92b74075af5be4eb1d45c309f82), this will cause launch time delays
+[27Dec2024 05:11:12.458] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_birch is being run through DFU (hash 3fff9754fa31ae55a5181cf6384ee7a258bcdae8a2b60e3483e78f5d010f7904), this will cause launch time delays
+[27Dec2024 05:11:12.459] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_birch is being run through DFU (hash 09d327a183050cf1d62896dae2d0acc9c8fd17962cbdbf1e7c3d5cce593db1a9), this will cause launch time delays
+[27Dec2024 05:11:12.459] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_birch is being run through DFU (hash a55a371fc5b05ee678a8a42b08f5f69e49216a21761e4b0f7fc72ee1cbd2d8a6), this will cause launch time delays
+[27Dec2024 05:11:12.460] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_birch is being run through DFU (hash cd8a5a1332eae60db10cd86b947227e3a4bcf2735fe76d5f623b9b82c948b5b2), this will cause launch time delays
+[27Dec2024 05:11:12.460] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_desert is being run through DFU (hash 705ae1cc5d7631e63fda4a1f6ad3d98b3c16fb2bd7c551dd405aebb85a272981), this will cause launch time delays
+[27Dec2024 05:11:12.461] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_desert is being run through DFU (hash 4297845be159395bf1061b0b60d015a142cc8515e708fb3abc2fbfe21c3ee2da), this will cause launch time delays
+[27Dec2024 05:11:12.461] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_desert is being run through DFU (hash 640ac7e6858940734e2bdda3676ed50560628f90323bf4b68459b38567595361), this will cause launch time delays
+[27Dec2024 05:11:12.462] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_mangrove is being run through DFU (hash 14b5508469ffaba301346d11d3ac251150b56f1614245bcb0f372100c799c7e5), this will cause launch time delays
+[27Dec2024 05:11:12.462] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_mangrove is being run through DFU (hash 09e7aa54f79fb9455e02d339d84380bfca2c96baf635f337736e483af373f2ac), this will cause launch time delays
+[27Dec2024 05:11:12.463] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_mangrove is being run through DFU (hash df6ff6ed27dc5146b97ff70a6f572336c2fb698b9a2cf56ece6d7ec3bfc0a12a), this will cause launch time delays
+[27Dec2024 05:11:12.463] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_dark_oak is being run through DFU (hash 859f0b24eeecc741738657ccd0a2cb5a04959a60b9b2e90e2f90e43b01d82a78), this will cause launch time delays
+[27Dec2024 05:11:12.464] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_dark_oak is being run through DFU (hash 0246bd118a68ecab1d1568221cc2884d4cc1aff230460c6f643a0196e55da033), this will cause launch time delays
+[27Dec2024 05:11:12.464] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_oak is being run through DFU (hash 16ec8b2e830cd96cf20985658eca6bb44675d4015fa2ea78f34d99815158a7ca), this will cause launch time delays
+[27Dec2024 05:11:12.465] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_oak is being run through DFU (hash 1a3641acf65ca5351894f926328ec5bae62653b4462fcb711741fd2fa1234cbc), this will cause launch time delays
+[27Dec2024 05:11:12.466] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_oak is being run through DFU (hash 675336fa11637aa89902c538bd5d857b3d9f385c92bf789d3698fa6450c9808c), this will cause launch time delays
+[27Dec2024 05:11:12.466] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_oak is being run through DFU (hash fe8d942a858f614eee87c60b60a6fb66f47ccfc34243e91215c993e91748ef2a), this will cause launch time delays
+[27Dec2024 05:11:12.467] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_oak is being run through DFU (hash c96ff2a9361f6b97db82b167f2a89bc9de37d9da0780a9c47ba62796aa183153), this will cause launch time delays
+[27Dec2024 05:11:12.468] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_cherry is being run through DFU (hash 23dc0223674948d578e7aeb846962be02758c8407d604f53c422d83b30cd544c), this will cause launch time delays
+[27Dec2024 05:11:12.468] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_cherry is being run through DFU (hash 3a8e1b1f73bf8d638ead3651a4dcdcc41fc307da95c5e66df43d1013c6d555c8), this will cause launch time delays
+[27Dec2024 05:11:12.469] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_cherry is being run through DFU (hash a48485c53abee1e7a73efcc4345be471507f49b2aa83ce62eba00f9dc782d971), this will cause launch time delays
+[27Dec2024 05:11:12.470] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_cherry is being run through DFU (hash 95c573b47d5429ce75e04acfdc9e887749f34dacb485bce46f7eb2c22ea56802), this will cause launch time delays
+[27Dec2024 05:11:12.470] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_cherry is being run through DFU (hash 9afbe86464e7d5b9f6590f3af3771c8abb7fdb055c59454c79630f92ce132416), this will cause launch time delays
+[27Dec2024 05:11:12.471] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_cherry is being run through DFU (hash fafa5d8432fccea267fd09187fcce08065f34f9dbcf9cf3d49674e279ca30cb9), this will cause launch time delays
+[27Dec2024 05:11:12.472] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_swamp is being run through DFU (hash e0b4ce4eaf983350843f048766dad2f3c085e4f5e24a537ff5904a8ebfe1b4a3), this will cause launch time delays
+[27Dec2024 05:11:12.472] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_swamp is being run through DFU (hash 22edabae7a0301ce72514dfa5a578b68442df6d98da85b089879948d2fa5816d), this will cause launch time delays
+[27Dec2024 05:11:12.473] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_swamp is being run through DFU (hash d3849ff9141d0501f1229eea2e798e1f9c4385ab261d1688904b68a6dcc0f0ac), this will cause launch time delays
+[27Dec2024 05:11:12.474] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_jungle is being run through DFU (hash 67374ff016109fc183c33c18e1f5e3d8c15d5f975a498021b309cd703a74a94a), this will cause launch time delays
+[27Dec2024 05:11:12.475] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_jungle is being run through DFU (hash 2052a16449188190153d36cddacdacbf34683046bb951f8ea0c98ba1e6dfe980), this will cause launch time delays
+[27Dec2024 05:11:12.475] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_jungle is being run through DFU (hash 91f89b1cf89af95837ceeb769e377f3ab5b2c2f8810fa90c8f2e28f958893cd8), this will cause launch time delays
+[27Dec2024 05:11:12.476] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_jungle is being run through DFU (hash 0a33a40294ae33ba63ca7a2fd91388aaec706301cbcd989a31b57992c42cbf3e), this will cause launch time delays
+[27Dec2024 05:11:12.477] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_snowy is being run through DFU (hash e64bab2a6f251658013dc792f964b42557f9f6c05792e7c4770f8019a0701fcb), this will cause launch time delays
+[27Dec2024 05:11:12.478] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_snowy is being run through DFU (hash fa6ea84b110f0b2c8592133e08247714543720a77e87edb838b09c28844cbf44), this will cause launch time delays
+[27Dec2024 05:11:12.478] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_snowy is being run through DFU (hash 99a85b86964fe6a58d65bae4af83d9e7778279fcee8363b4348becbf2755d419), this will cause launch time delays
+[27Dec2024 05:11:12.479] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_cartographer is being run through DFU (hash 6e6312ee2b2a8a569a9a85ab877afa9d3764779a1faafef97bede8bdea9dd21e), this will cause launch time delays
+[27Dec2024 05:11:12.480] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_cleric is being run through DFU (hash 8ca276de099594ff75a4bc46f982ea7cfb1e0b99b9d698d7edcbe678fc304b79), this will cause launch time delays
+[27Dec2024 05:11:12.480] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_farmer is being run through DFU (hash 7ba67ef9bc65ea2f6e93b0a980b47f980c7050e5d8974f9e1bb7a487c17fa333), this will cause launch time delays
+[27Dec2024 05:11:12.481] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_fisher is being run through DFU (hash 1f92f021d097bb4edb904b780850ebcdddb3449fc4d76961a08de0066b767834), this will cause launch time delays
+[27Dec2024 05:11:12.481] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_fletcher is being run through DFU (hash 8ded96c8156d618eb5c04356c97fa596b0e881d73010bfb471ad513564a601f8), this will cause launch time delays
+[27Dec2024 05:11:12.482] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_grindstone is being run through DFU (hash b5c8ed512cda24a2c36d0e515bd2563cfcf98cb476a8ba6846582eca2dff292f), this will cause launch time delays
+[27Dec2024 05:11:12.482] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_leather_worker is being run through DFU (hash 88d66ed2e8aeca6e4ee8318fe0a5973c9239b638dc25fae622103eb78de585a3), this will cause launch time delays
+[27Dec2024 05:11:12.483] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_librarian is being run through DFU (hash 6c098669be678d9f70acfaf0af33e7138bcaa1f325b27a7838c9038e67157c78), this will cause launch time delays
+[27Dec2024 05:11:12.483] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_smithing_table is being run through DFU (hash b6b78e102ebd79cd2369bd2edeca31f106da478b679aab0df709c4885071709e), this will cause launch time delays
+[27Dec2024 05:11:12.484] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_stonecutter is being run through DFU (hash d7c4e4fff4d117d33e5ab6bbd7b1ff8ff8039a3b1217e857c76d3d6de2f4247d), this will cause launch time delays
+[27Dec2024 05:11:12.484] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_armorer is being run through DFU (hash 01ed3fc532ffe58634105d1662dc7faf275eb3d048eecdcbc37840e077c92d0b), this will cause launch time delays
+[27Dec2024 05:11:12.485] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_butcher is being run through DFU (hash da7407133e69c7f924c318f41c432b1e2527ddbf30f58d2de7ff2b64abda6dca), this will cause launch time delays
+[27Dec2024 05:11:12.485] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_villager is being run through DFU (hash 3a7ae2cf2152cadacb40ed60a300da54748bbb907ee9b8a0d56df751c8f13a3d), this will cause launch time delays
+[27Dec2024 05:11:12.700] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:oasis_shrine/oasis_shrine
+[27Dec2024 05:11:12.763] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[27Dec2024 05:11:12.813] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of goety:secluded_igloo/secluded_igloo
+[27Dec2024 05:11:16.683] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/frog_statue2 is being run through DFU (hash fecac60c658ff25d093bc0bbacf2e73d0dbb39a19b08a798ee241ce44db79e9b), this will cause launch time delays
+[27Dec2024 05:11:16.887] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[27Dec2024 05:11:17.148] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[27Dec2024 05:11:19.932] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[27Dec2024 05:11:19.941] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[27Dec2024 05:11:21.431] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/main/conduit_ruin_ring_1 is being run through DFU (hash 99578f135da90d1c76ce07b9b9c9271b3cf5eac6b4ca5b2606eb3076bed41b95), this will cause launch time delays
+[27Dec2024 05:11:25.389] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[27Dec2024 05:11:25.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 05:11:26.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:11:26.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:11:29.538] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_1
+[27Dec2024 05:11:29.547] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_1
+[27Dec2024 05:11:29.556] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[27Dec2024 05:11:29.565] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_2
+[27Dec2024 05:11:29.573] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_2
+[27Dec2024 05:11:29.581] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[27Dec2024 05:11:32.524] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[27Dec2024 05:11:37.305] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[27Dec2024 05:11:37.311] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[27Dec2024 05:11:37.318] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[27Dec2024 05:11:37.327] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[27Dec2024 05:11:37.337] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[27Dec2024 05:11:40.232] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/temple/desert_ruins_temple_main_start is being run through DFU (hash dc2a4ec534c4d55d033ffc0406e0ba887d202aa4a626c4926a56b5c78a574e87), this will cause launch time delays
+[27Dec2024 05:11:41.102] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[27Dec2024 05:11:41.593] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[27Dec2024 05:11:44.545] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[27Dec2024 05:11:44.551] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots is being run through DFU (hash 1fcf0be77235eb2856b015f542c7567c1ee719faf21946285911305a59f6ef65), this will cause launch time delays
+[27Dec2024 05:11:44.572] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[27Dec2024 05:11:44.592] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[27Dec2024 05:11:44.604] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[27Dec2024 05:11:44.621] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[27Dec2024 05:11:44.655] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:guardian_meeting/guardian_meeting
+[27Dec2024 05:11:45.256] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_8 is being run through DFU (hash aa2afa2d5de66cead416df85ea4a32fc04854c642105d5d8b3e50e03ba56d1a1), this will cause launch time delays
+[27Dec2024 05:11:50.113] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:other_decoration/mushroom_statue is being run through DFU (hash 4bc7484fd21027d50fc6e4f2e0e14e23a5e9e82e4ec4942ee34848c4207f5452), this will cause launch time delays
+[27Dec2024 05:11:51.811] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:11:51.813] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:11:51.813] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:11:51.814] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:11:53.291] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_1
+[27Dec2024 05:11:53.302] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_2
+[27Dec2024 05:11:54.394] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:11:54.424] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:11:54.424] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:11:54.424] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:11:54.425] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:11:57.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1780, y=65, z=290} BlockPos{x=-1903, y=79, z=594}
+[27Dec2024 05:11:57.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1780, y=65, z=290} BlockPos{x=-1904, y=78, z=594}
+[27Dec2024 05:11:58.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1780, y=65, z=290} BlockPos{x=-1904, y=77, z=594}
+[27Dec2024 05:11:59.619] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[27Dec2024 05:12:04.644] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[27Dec2024 05:12:06.064] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:world_tree_manor/world_tree_manor
+[27Dec2024 05:12:06.236] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor/large1
+[27Dec2024 05:12:06.258] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/which_witch_is_which
+[27Dec2024 05:12:06.951] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew2
+[27Dec2024 05:12:07.570] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_6
+[27Dec2024 05:12:09.843] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[27Dec2024 05:12:13.320] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of goety:mangrove_tower/mangrove_tower
+[27Dec2024 05:12:15.122] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:water_shrine/water_shrine
+[27Dec2024 05:12:18.487] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[27Dec2024 05:12:19.853] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:luxury_villa/luxury_villa
+[27Dec2024 05:12:19.895] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:abandoned_villa/abandoned_villa
+[27Dec2024 05:12:19.927] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:modern_villa/modern_villa
+[27Dec2024 05:12:21.647] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[27Dec2024 05:12:21.803] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:jungle_tower/jungle_tower
+[27Dec2024 05:12:26.171] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:illager_house_1
+[27Dec2024 05:12:36.838] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:abandoned_witch_house/abandoned_witch_house
+[27Dec2024 05:12:42.396] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[27Dec2024 05:12:48.297] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:48.298] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:48.743] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[27Dec2024 05:12:48.761] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_0 is being run through DFU (hash 8fa188369b14e9fd33fc26d16e7a5b3589222ecaf1739e731218c7fc9bdc42be), this will cause launch time delays
+[27Dec2024 05:12:48.904] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_17 is being run through DFU (hash 5cc8d79612fb87ee253b6446a055f95ef273582846969490033ec961e454ae36), this will cause launch time delays
+[27Dec2024 05:12:48.905] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_9 is being run through DFU (hash 16d1ede724733ae81a07ac76b871c1ee2d319377628a30324e62b978fd58d614), this will cause launch time delays
+[27Dec2024 05:12:48.907] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_2 is being run through DFU (hash 7591243f15878ba055b9aaaddbaf2db31b09e0cbe57d2506d8bfbdaf9d2e9253), this will cause launch time delays
+[27Dec2024 05:12:48.915] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_8 is being run through DFU (hash 9636bf03ae732a21e46bd4a89d4b95d99d10dc64bf986dcf3ffa8f1f166677e0), this will cause launch time delays
+[27Dec2024 05:12:48.916] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_10 is being run through DFU (hash 66b860e9d65a728ec77001669103b8a19b1eb73dd310eb7b1c1f46ec79412d28), this will cause launch time delays
+[27Dec2024 05:12:48.917] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_2 is being run through DFU (hash 8dbe0413d814a4d247fd15af92565d45853024ca2d41717bc692fd4f08c59055), this will cause launch time delays
+[27Dec2024 05:12:48.918] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_15 is being run through DFU (hash b1f752a8808f104d3927116e3c240df7a004d6bb368c42339ce119af7229e7be), this will cause launch time delays
+[27Dec2024 05:12:48.919] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_14 is being run through DFU (hash ec9ed2ac371b6d15dc0c74fa68347c1e15ab795d36624f7edff9fb360e2eb372), this will cause launch time delays
+[27Dec2024 05:12:48.920] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_6 is being run through DFU (hash ec8f10d2dd8dc12b080a6401e1517453f3e9840d14051091c9db180632a69ce5), this will cause launch time delays
+[27Dec2024 05:12:48.921] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_12 is being run through DFU (hash 716f5e58e6bd639ee848aa154abbc3f0876c62e8bcd76afd78584e64c3b1b058), this will cause launch time delays
+[27Dec2024 05:12:48.922] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_4 is being run through DFU (hash ce3c2f5d34fcd2842dbf37368cd28fc0a503239c115ac017fa6745d58ec3cebf), this will cause launch time delays
+[27Dec2024 05:12:48.923] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_13 is being run through DFU (hash b8d0f0918979d80f6b90ac6bb07d0b4bde968ac87dbcabff3badb2ef36ca375f), this will cause launch time delays
+[27Dec2024 05:12:48.923] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_11 is being run through DFU (hash 80176ec32753a450cd929c8c05d3437141c92c91f03ccef82a444d9cf2c9fef1), this will cause launch time delays
+[27Dec2024 05:12:48.925] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_3 is being run through DFU (hash fe5c6e9663030b4016e6c6206052de4be9ca84aa13c3f040819a69544ee9b57b), this will cause launch time delays
+[27Dec2024 05:12:48.925] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_16 is being run through DFU (hash 051c697fdcb6d9ba60b59c805b446f52844feb03e1935e4b82d3f7899cdde82d), this will cause launch time delays
+[27Dec2024 05:12:48.926] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_7 is being run through DFU (hash 8f4912ed9140638ec98668e82f630991021b62796cf571b7067262b909eddf63), this will cause launch time delays
+[27Dec2024 05:12:48.927] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_5 is being run through DFU (hash ceb126469d074bbc11bc1d0f5089656c663fbd36bccce10b5545f9b83440c87d), this will cause launch time delays
+[27Dec2024 05:12:48.928] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_0 is being run through DFU (hash 4a213e4c41bb4215060487ab2e2a91fa14e23292b782f3dfa0f2ae47b06db518), this will cause launch time delays
+[27Dec2024 05:12:48.929] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_1 is being run through DFU (hash 81cbda83562e6a93ce47df5661a374c4329e2b54eb2e732e5b2b031224650ea6), this will cause launch time delays
+[27Dec2024 05:12:48.933] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_0 is being run through DFU (hash a507bbc9cdd996779da1bbf7f5a2fae28cb8de01b0828b096310995bf42b6f46), this will cause launch time delays
+[27Dec2024 05:12:48.936] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_6 is being run through DFU (hash aa04001176bee4c15902dd75eb682bdf15c6ad4fe677f933941eb4245727fe01), this will cause launch time delays
+[27Dec2024 05:12:48.939] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_4 is being run through DFU (hash 5b19ff671c5d4d84e795097519c1ee8e9b4f1d38c000bb7d15f5f12f3d95f958), this will cause launch time delays
+[27Dec2024 05:12:48.944] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_3 is being run through DFU (hash 4a44fca0fdc52a18cc7c00aa8fb990c29f4ab5adaecb62165af188a5c9cd7118), this will cause launch time delays
+[27Dec2024 05:12:48.951] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_2 is being run through DFU (hash 0e773702dfd7903966a6c66c9be4c26bf3f12da690406ecd26dedf9f9978c252), this will cause launch time delays
+[27Dec2024 05:12:48.956] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_3 is being run through DFU (hash 77ce20e83bc59cba13b4034c57957121c9da3d23fd133389460b25340ed78b62), this will cause launch time delays
+[27Dec2024 05:12:48.959] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_spawner_1 is being run through DFU (hash 6faba2551547219adf4cbc800ade68cddb6a5a5305ce3e02796f1b8b699ce2cd), this will cause launch time delays
+[27Dec2024 05:12:48.965] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_0 is being run through DFU (hash 6aecc171c6929a39bce4c75ed36717f58933bb024f157672bb60d9506b2d23a5), this will cause launch time delays
+[27Dec2024 05:12:48.968] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_0 is being run through DFU (hash 21d73ab966a24b1220e22250d20b3987ca27192727a9f5c2001b1f458a53337f), this will cause launch time delays
+[27Dec2024 05:12:48.971] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_4 is being run through DFU (hash 4a3462cc199e7ee6f9e46e9a5820a55a6632bf4069393c2f270d4c710d77b56a), this will cause launch time delays
+[27Dec2024 05:12:48.973] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_2 is being run through DFU (hash 5ccfcf76488c9da318da5a390390e6cfb02568f9ee5b8900242bb30570eb0c27), this will cause launch time delays
+[27Dec2024 05:12:48.975] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_5 is being run through DFU (hash 00beef40df7e2c447816dd5e92d14073d158f36b9948385538c85d16ebeadd10), this will cause launch time delays
+[27Dec2024 05:12:48.977] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_1 is being run through DFU (hash d5414a501181e1e71a8e360bb449e36a1eaf1ba8b9f4fad85b5c3eddd2edf3ee), this will cause launch time delays
+[27Dec2024 05:12:48.980] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_terminator_0 is being run through DFU (hash 92756234c71261ffa822988e7a28bd73bd58b367b99be0e6bfb0fbca9c19bd9f), this will cause launch time delays
+[27Dec2024 05:12:48.982] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_spawner_0 is being run through DFU (hash 57e4f869833b448d7d7dfab16d398138486920e00b9bf055732aeb9759a3b342), this will cause launch time delays
+[27Dec2024 05:12:49.142] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_dungeon
+[27Dec2024 05:12:49.158] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:maya_temple
+[27Dec2024 05:12:49.225] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[27Dec2024 05:12:49.253] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[27Dec2024 05:12:51.729] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:51.730] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:53.475] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:oriental_sanctuary/oriental_sanctuary
+[27Dec2024 05:12:54.714] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:54.715] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:55.148] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:55.149] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:55.149] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:55.149] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:55.149] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:12:55.306] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/camp/barrels is being run through DFU (hash c28f3514b0ef20a404f60693c59fe4a6a86759977d1a6b622803bb5d0cb95799), this will cause launch time delays
+[27Dec2024 05:12:55.317] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/3/top is being run through DFU (hash 650d40991420c09b2cfdf15565ad6237acbc8c2ad7b0687eab982f4304271535), this will cause launch time delays
+[27Dec2024 05:12:55.344] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/desert/copper_house2 is being run through DFU (hash f40899ccfdbf4a2680d15fe5e9327ff1465573515183916a642ff1e582ab5875), this will cause launch time delays
+[27Dec2024 05:12:55.365] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[27Dec2024 05:12:55.373] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/graveyard2 is being run through DFU (hash ca73f7bbc15d477d8dd303bf1691e22b3c080a0c2dab91304e22a48868227382), this will cause launch time delays
+[27Dec2024 05:12:55.389] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/ruin1
+[27Dec2024 05:12:58.748] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[27Dec2024 05:13:00.572] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[27Dec2024 05:13:00.580] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[27Dec2024 05:13:08.992] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_29 is being run through DFU (hash bb28b28cbbf82aaac84e418a24d4c13d4b2bbb58480df5a1c0aadbeb709bf08d), this will cause launch time delays
+[27Dec2024 05:13:09.795] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew1
+[27Dec2024 05:13:12.588] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[27Dec2024 05:13:13.784] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_06 is being run through DFU (hash 1f580368cac5999df0a7c333976a7c447630e45aeb8c134c8c3f34cc1b3842b6), this will cause launch time delays
+[27Dec2024 05:13:20.078] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:mushroom_grave/mushroom_grave_01 is being run through DFU (hash 7e8b1a464799973dd5d61614e5d1a23a359defe09d4677fefeac6665c016c4d0), this will cause launch time delays
+[27Dec2024 05:13:20.181] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:creeping_crypt/crypt_entry/creeping_crypit_entry_house is being run through DFU (hash 43e97dda7471fb26115fda2d32c698c696097014af4dfdb106a9eaf986b25461), this will cause launch time delays
+[27Dec2024 05:13:29.331] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:meteor
+[27Dec2024 05:13:29.340] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:lava_fountain
+[27Dec2024 05:13:31.489] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_13 is being run through DFU (hash d4362e561c101506fa37d85fe07d6114919a7872b91a9d043007733e2ff4a15e), this will cause launch time delays
+[27Dec2024 05:13:32.637] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_3
+[27Dec2024 05:13:32.645] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_4
+[27Dec2024 05:13:32.653] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_2
+[27Dec2024 05:13:32.660] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_1
+[27Dec2024 05:13:34.665] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_07 is being run through DFU (hash 042aead2a5019deacd4a39966d7feff4af55d050552da627c9d3b7635b8b2c0f), this will cause launch time delays
+[27Dec2024 05:13:34.754] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_04 is being run through DFU (hash 905a57ec840629a1c816db6c1afcf5f3a3481bec7d3e7e2630c4ba5aee5de0b7), this will cause launch time delays
+[27Dec2024 05:13:35.381] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:shrine_of_savanna/shrine_of_savanna
+[27Dec2024 05:13:35.531] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[27Dec2024 05:13:38.552] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:other_decoration/fox_hut is being run through DFU (hash 7b64e8d448ac700db3150c4895bead839d2e7503b016da58b8d955de7d57df9c), this will cause launch time delays
+[27Dec2024 05:13:41.755] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/table1 is being run through DFU (hash e7203f59f788fe4bc8024f12ea14745262a1f009e0885ac9a02058f0566cbe3f), this will cause launch time delays
+[27Dec2024 05:13:46.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1918, y=78, z=670} BlockPos{x=-2044, y=87, z=933}
+[27Dec2024 05:13:48.014] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oasis_1
+[27Dec2024 05:13:48.022] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oasis_2
+[27Dec2024 05:13:55.221] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_2
+[27Dec2024 05:13:55.232] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_1
+[27Dec2024 05:13:55.243] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_3
+[27Dec2024 05:13:55.407] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
+[27Dec2024 05:13:55.417] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_2
+[27Dec2024 05:13:59.427] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond2
+[27Dec2024 05:14:00.751] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:00.752] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:00.753] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:00.918] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:01.760] [Worker-Main-2/DEBUG] [ModernFix/]: Structure shrines:balloon/balloon_6 is being run through DFU (hash d6b1826e2401c60165e0d5bcfedb1893dc5a6a03f62e2ab7a185598c67336d9c), this will cause launch time delays
+[27Dec2024 05:14:15.760] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pool1 is being run through DFU (hash dfddb602e984f304d701eab3878292cf7f577e8cabe02f7f723062aca2b5e079), this will cause launch time delays
+[27Dec2024 05:14:16.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 05:14:17.060] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/spider_spawner
+[27Dec2024 05:14:20.208] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_9
+[27Dec2024 05:14:29.326] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:29.327] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:29.327] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:29.328] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:29.340] [Worker-Main-2/DEBUG] [ModernFix/]: Structure undead_revamp2:irontomb is being run through DFU (hash c3455c0f7f3a45d2a678a6c3913daf30cb9b499ee60333fc77c5ca5ae0517efe), this will cause launch time delays
+[27Dec2024 05:14:29.735] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:29.742] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:29.743] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:29.743] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:29.743] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:31.667] [Worker-Main-3/DEBUG] [ModernFix/]: Structure shrines:mayan_temple/mayan_temple is being run through DFU (hash ac964110d966a9f33cf2ef6fe98f4b408516b77dfdc6816bc4df40281b3682f1), this will cause launch time delays
+[27Dec2024 05:14:31.719] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:flooded_temple/flooded_temple
+[27Dec2024 05:14:31.728] [Worker-Main-3/DEBUG] [ModernFix/]: Structure shrines:mineral_temple/mineral_temple is being run through DFU (hash a5ba7a9f19776d23f9cac98b98e248751e371f833260279667e58a590beacc84), this will cause launch time delays
+[27Dec2024 05:14:31.753] [Worker-Main-3/DEBUG] [ModernFix/]: Structure shrines:high_temple/high_temple is being run through DFU (hash 3eb720ec2e27336442a39fbe454f4d8cb328fa1ab535f561aac226ac8b86d2f7), this will cause launch time delays
+[27Dec2024 05:14:31.794] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:small_temple/small_temple
+[27Dec2024 05:14:33.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2248, y=32, z=1016} BlockPos{x=-2248, y=31, z=1016}
+[27Dec2024 05:14:40.413] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:40.414] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:40.414] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:43.365] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_17 is being run through DFU (hash 8c678a1516a24e6ac364b6b88c322dd04470a6d2486ac05bed12a38345207130), this will cause launch time delays
+[27Dec2024 05:14:46.700] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:46.701] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:46.701] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:46.701] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:14:46.837] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snowman_1
+[27Dec2024 05:14:46.844] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snowman_2
+[27Dec2024 05:14:48.664] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:stone_fountain is being run through DFU (hash 0213404a1aa434fa15983969396acb43a08fd81bc979ca4d88a1770e87e5a9c9), this will cause launch time delays
+[27Dec2024 05:14:48.705] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:harvest/camp/tent is being run through DFU (hash 3c3b8ec96ab6ad7556bc713334ee5397d0092a412736dc09e18cbdafc6baf11a), this will cause launch time delays
+[27Dec2024 05:14:48.723] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[27Dec2024 05:14:48.743] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/tower/desert_small1 is being run through DFU (hash a293eeb16f31f494d894f417f75f763e6743810b68be3dcefbd57dfc547681e2), this will cause launch time delays
+[27Dec2024 05:14:52.106] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_04 is being run through DFU (hash 292045c39a7bf9e7665c20db773c2ed653685b8391f044e5b35fb53cb71b9832), this will cause launch time delays
+[27Dec2024 05:14:53.256] [Worker-Main-2/DEBUG] [ModernFix/]: Structure shrines:balloon/balloon_2 is being run through DFU (hash a85966c23e583865f477e72e55be63ddb3b103dcb9d5601b437be78c518bd00e), this will cause launch time delays
+[27Dec2024 05:15:01.618] [Worker-Main-3/DEBUG] [ModernFix/]: Structure goety:mobs/crusher is being run through DFU (hash 553237ad4abb6a21935dd5431a545b53c617af305cfb9aae3ebbffe39f4d538b), this will cause launch time delays
+[27Dec2024 05:15:01.621] [Worker-Main-3/DEBUG] [ModernFix/]: Structure goety:mobs/pillager is being run through DFU (hash 6ae4183e7b3114520285ed6e4c73d3aa4b8d77a8fc62c4f8b50b9afda469ea88), this will cause launch time delays
+[27Dec2024 05:15:01.625] [Worker-Main-3/DEBUG] [ModernFix/]: Structure goety:mobs/storm_caster is being run through DFU (hash dc9f2ab848f0f0d176ad06ee1ce634b8739dede3d0cceeeeb1b2cff33cd1d3ce), this will cause launch time delays
+[27Dec2024 05:15:01.626] [Worker-Main-3/DEBUG] [ModernFix/]: Structure goety:mobs/ravager is being run through DFU (hash 0b2bec2fa76c4a45f4047fbbc0b507f7ef77b70d96a515cb67db11df9748dce6), this will cause launch time delays
+[27Dec2024 05:15:18.187] [Worker-Main-2/DEBUG] [ModernFix/]: Structure shrines:tall_player_house/tall_player_house_3 is being run through DFU (hash 637a2f0c7443afafbe76163cb1404a92aa05650f77c879f13297ad215c8c9575), this will cause launch time delays
+[27Dec2024 05:15:18.440] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:scarecrow
+[27Dec2024 05:15:18.748] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[27Dec2024 05:15:18.763] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[27Dec2024 05:15:18.770] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[27Dec2024 05:15:18.777] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[27Dec2024 05:15:18.785] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[27Dec2024 05:15:18.792] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[27Dec2024 05:15:18.806] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[27Dec2024 05:15:18.814] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[27Dec2024 05:15:18.821] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[27Dec2024 05:15:18.828] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[27Dec2024 05:15:34.335] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_enterance_2 is being run through DFU (hash 0530d942791e0ede6323db972cf0ec63f4ca40401c257284c12b1d7edacca85d), this will cause launch time delays
+[27Dec2024 05:15:34.881] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_07 is being run through DFU (hash 767a5d86c479c452da0739030ae366937978b46a338baea6f743b3d64d68803a), this will cause launch time delays
+[27Dec2024 05:15:35.638] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:infested_prison/infested_prison
+[27Dec2024 05:15:36.967] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_grave/crashed_carriage is being run through DFU (hash cb4c7576283492f43f08b1c9542f9e4c80143b74ac3018d6cf122cbc71b28240), this will cause launch time delays
+[27Dec2024 05:15:37.095] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
