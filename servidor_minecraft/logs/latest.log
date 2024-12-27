@@ -2446,3 +2446,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 21:07:54.788] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -15], pos: MutableBlockPos{x=240, y=33, z=-235}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
 [27Dec2024 21:08:59.140] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, -14], pos: MutableBlockPos{x=207, y=53, z=-221}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [27Dec2024 21:08:59.141] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, -14], pos: MutableBlockPos{x=202, y=53, z=-222}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 21:10:59.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-60, y=67, z=-13} BlockPos{x=-59, y=66, z=-14}
+[27Dec2024 21:10:59.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-60, y=67, z=-13} BlockPos{x=-59, y=66, z=-14}
+[27Dec2024 21:10:59.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-60, y=67, z=-13} BlockPos{x=-59, y=66, z=-14}
+[27Dec2024 21:11:10.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 fell from a high place
+[27Dec2024 21:11:28.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved too quickly! 10.26694980661605,0.0,0.07444432590126304
+[27Dec2024 21:11:44.627] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, -12], pos: MutableBlockPos{x=275, y=101, z=-191}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 21:11:44.628] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, -12], pos: MutableBlockPos{x=282, y=88, z=-192}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/fire]
+[27Dec2024 21:16:00.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14, y=18, z=98} BlockPos{x=-16, y=19, z=71}
+[27Dec2024 21:17:42.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-40, y=16, z=-42} BlockPos{x=-41, y=13, z=-43}
+[27Dec2024 21:18:08.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-58} BlockPos{x=-47, y=6, z=-61}
+[27Dec2024 21:18:08.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-58} BlockPos{x=-47, y=6, z=-63}
+[27Dec2024 21:18:08.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-58} BlockPos{x=-47, y=5, z=-63}
+[27Dec2024 21:18:08.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=5, z=-63} BlockPos{x=-47, y=6, z=-61}
+[27Dec2024 21:18:08.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=5, z=-63} BlockPos{x=-47, y=5, z=-64}
+[27Dec2024 21:18:08.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-47, y=5, z=-64}
+[27Dec2024 21:18:09.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-47, y=7, z=-63}
+[27Dec2024 21:18:13.245] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 21:18:13.247] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 21:18:29.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-46, y=8, z=-48}
+[27Dec2024 21:18:29.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=6, z=-62} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-40, y=6, z=-48} BlockPos{x=-45, y=8, z=-48}
+[27Dec2024 21:18:29.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=7, z=-48} BlockPos{x=-41, y=6, z=-48}
+[27Dec2024 21:18:47.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=14, z=-44} BlockPos{x=-9, y=12, z=-44}
+[27Dec2024 21:19:06.569] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [13, -17], pos: MutableBlockPos{x=210, y=50, z=-257}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 21:19:06.570] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [13, -16], pos: MutableBlockPos{x=211, y=51, z=-252}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 21:20:03.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 was simmered in stygian blood
+[27Dec2024 21:22:20.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=41, z=1}
+[27Dec2024 21:23:36.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=42, z=8} BlockPos{x=53, y=32, z=26}
+[27Dec2024 21:27:26.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 was simmered in stygian blood
