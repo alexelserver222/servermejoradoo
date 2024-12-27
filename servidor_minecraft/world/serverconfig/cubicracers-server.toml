@@ -8,16 +8,6 @@
 #Settings for all the drop rates from the item box
 [item_box_drop_rates]
 
-	[item_box_drop_rates.Fake_box]
-		#Drop rate of Fake_box
-		#Range: 0.0 ~ 100.0
-		value = 10.0
-
-	[item_box_drop_rates.Star]
-		#Drop rate of Star
-		#Range: 0.0 ~ 100.0
-		value = 3.0
-
 	[item_box_drop_rates.Green_shell]
 		#Drop rate of Green_shell
 		#Range: 0.0 ~ 100.0
@@ -47,6 +37,16 @@
 		#Drop rate of Bob_omb
 		#Range: 0.0 ~ 100.0
 		value = 8.0
+
+	[item_box_drop_rates.Fake_box]
+		#Drop rate of Fake_box
+		#Range: 0.0 ~ 100.0
+		value = 10.0
+
+	[item_box_drop_rates.Star]
+		#Drop rate of Star
+		#Range: 0.0 ~ 100.0
+		value = 3.0
 
 #Settings of all the karts
 [karts_settings]
