@@ -1624,6 +1624,7 @@
       "minecraft:blaze": "2024-11-13 22:16:53 +0000",
       "minecraft:pillager": "2024-11-13 20:52:32 +0000",
       "minecraft:skeleton": "2024-10-31 22:08:34 +0000",
+      "minecraft:ghast": "2024-12-27 21:38:39 +0000",
       "minecraft:hoglin": "2024-12-02 00:06:06 +0000",
       "minecraft:vindicator": "2024-11-13 20:54:52 +0000",
       "minecraft:magma_cube": "2024-12-02 00:27:03 +0000",
@@ -12658,6 +12659,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2024-12-27 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/pillar": {
+    "criteria": {
+      "has_item": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
   "aether:bronze_dungeon": {
     "criteria": {
       "kill_slider": "2024-12-27 20:59:40 +0000"
@@ -12688,29 +12725,45 @@
     },
     "done": true
   },
-  "infinity_cave:technical/hit_match/player_hurt_entity": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "nbit9": "2024-12-27 21:36:01 +0000",
-      "nbit15": "2024-12-27 21:36:01 +0000",
-      "nbit4": "2024-12-27 21:36:01 +0000",
-      "nbit14": "2024-12-27 21:36:01 +0000",
-      "nbit5": "2024-12-27 21:36:01 +0000",
-      "nbit13": "2024-12-27 21:36:01 +0000",
-      "nbit12": "2024-12-27 21:36:01 +0000",
-      "nbit2": "2024-12-27 21:36:01 +0000",
-      "bit7": "2024-12-27 21:36:01 +0000",
-      "bit8": "2024-12-27 21:36:01 +0000",
-      "bit6": "2024-12-27 21:36:01 +0000",
-      "bit3": "2024-12-27 21:36:01 +0000",
-      "bit1": "2024-12-27 21:36:01 +0000",
-      "nbit11": "2024-12-27 21:36:01 +0000",
-      "nbit10": "2024-12-27 21:36:01 +0000"
+      "blacksmith": "2024-12-27 21:41:06 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
   },
   "ancient_aether:recipes/misc/mosaic_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "smithing_templates": "2024-12-27 21:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
     },
     "done": true
   },
@@ -12720,9 +12773,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/aerogel_wall": {
     "criteria": {
       "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-27 21:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2024-12-27 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/fence": {
+    "criteria": {
+      "has_item": "2024-12-27 21:45:07 +0000"
     },
     "done": true
   },
@@ -12738,9 +12827,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/aerogel_slab": {
     "criteria": {
       "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
     },
     "done": true
   },
