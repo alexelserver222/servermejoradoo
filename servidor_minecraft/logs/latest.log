@@ -3085,3 +3085,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 22:10:38.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=73, z=-226} BlockPos{x=19, y=72, z=-226}
 [27Dec2024 22:15:07.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Luisitoazp10 to 0.500000, 100.000000, 0.500000]
 [27Dec2024 22:17:57.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MimicEntity['chees'/68, l='ServerLevel[world]', x=2.45, y=108.13, z=-33.50] died: chees was slain by [Lv.75] IronGolem - 72 / 100 72%
+[27Dec2024 22:21:29.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueplayer66[/127.82.80.181:45805] logged in with entity id 59248 at (9.758626836475859, 72.0, 76.669281775781)
+[27Dec2024 22:21:32.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 joined the game
+[27Dec2024 22:21:32.999] [Server thread/INFO] [Jade/]: Syncing config to blueplayer66 (8b4ea4f2-6f3b-3ab8-a711-7f704a565475)
+[27Dec2024 22:21:33.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
+[27Dec2024 22:22:14.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> pishe azul
+[27Dec2024 22:24:58.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 has made the advancement [Who is Cutting Onions?]
+[27Dec2024 22:25:23.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved wrongly!
+[27Dec2024 22:26:13.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=67, z=-31} BlockPos{x=45, y=67, z=-30}
+[27Dec2024 22:28:32.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 was slain by Doom_Slayer246
+[27Dec2024 22:28:59.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 was slain by Doom_Slayer246
+[27Dec2024 22:30:53.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved wrongly!

@@ -11414,15 +11414,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "bred": "2024-12-27 02:46:56 +0000"
+      "traded": "2024-12-27 01:45:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
+  "the_bumblezone:music_discs/obtain_all_music_discs": {
     "criteria": {
-      "has_quartz": "2024-12-27 02:25:58 +0000"
+      "obtain_music_disc_honey_bee_rat_faced_boy": "2024-12-27 01:45:52 +0000"
+    },
+    "done": false
+  },
+  "expanded_combat:recipes/combat/fletched_sticks_conditional_fletching": {
+    "criteria": {
+      "has_item": "2024-12-27 02:21:33 +0000"
     },
     "done": true
   },
@@ -11456,23 +11462,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2024-12-27 02:25:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-27 02:25:54 +0000"
     },
     "done": true
-  },
-  "the_bumblezone:music_discs/obtain_all_music_discs": {
-    "criteria": {
-      "obtain_music_disc_honey_bee_rat_faced_boy": "2024-12-27 01:45:52 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
@@ -11480,15 +11474,45 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/fletched_sticks_conditional_fletching": {
-    "criteria": {
-      "has_item": "2024-12-27 02:21:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2024-12-27 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-27 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-27 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-12-27 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-27 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-27 02:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-27 02:25:58 +0000"
     },
     "done": true
   },
@@ -11510,47 +11534,23 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2024-12-27 02:46:56 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-27 02:25:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-27 02:25:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-27 01:45:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-27 02:25:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "has_quartz_block": "2024-12-27 02:25:54 +0000"
+      "bred": "2024-12-27 02:46:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "has_quartz_block": "2024-12-27 02:25:54 +0000"
+      "minecraft:cow": "2024-12-27 02:46:56 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
