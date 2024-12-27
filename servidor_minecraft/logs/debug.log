@@ -17591,3 +17591,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 21:29:24.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=41.47, y=69.00, z=-7.83] sends hit scan notification to ServerPlayer['Luisitoazp10'/2371, l='ServerLevel[world]', x=40.69, y=64.00, z=-0.08]
 [27Dec2024 21:29:24.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=41.47, y=69.00, z=-7.83] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=41.47, y=69.00, z=-7.83]
 [27Dec2024 21:29:55.849] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 11885619 to 12
+[27Dec2024 21:31:28.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 21:31:28.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 21:36:01.716] [Server thread/DEBUG] [pointblank/]: Handling client projectile file request
+[27Dec2024 21:36:01.716] [Server thread/DEBUG] [pointblank/]: Received client projectile file request
+[27Dec2024 21:36:01.717] [Server thread/DEBUG] [pointblank/]: 61717 initializing projectile trajectory
+[27Dec2024 21:36:01.718] [Server thread/DEBUG] [pointblank/]: 61718 performed projectile shot
+[27Dec2024 21:36:01.718] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2037664811 to 5
+[27Dec2024 21:36:01.781] [Server thread/DEBUG] [pointblank/]: Creating state 1322dcb0-674b-47ad-8e9e-45ad68d96517
+[27Dec2024 21:36:28.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 21:36:28.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 21:39:40.385] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 21:39:40.387] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 21:39:40.409] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 21:39:40.428] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 21:39:40.444] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
