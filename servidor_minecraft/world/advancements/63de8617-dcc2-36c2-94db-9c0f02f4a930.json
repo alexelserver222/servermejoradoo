@@ -12646,5 +12646,11 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-12-27 20:47:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
