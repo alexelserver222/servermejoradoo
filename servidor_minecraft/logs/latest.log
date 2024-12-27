@@ -3132,3 +3132,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 22:55:09.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 was slain by Harpy
 [27Dec2024 22:55:10.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9046ms or 180 ticks behind
 [27Dec2024 23:01:03.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityTerrapin['AlexsmobsTerrapin - 9 / 10 90%'/59241, l='ServerLevel[world]', x=53.09, y=61.30, z=170.09] died: AlexsmobsTerrapin - 9 / 10 90% drowned
+[27Dec2024 23:04:50.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 23:04:53.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 23:05:16.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [Bypassing the Expiration Date]
+[27Dec2024 23:07:11.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 23:07:21.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 23:08:57.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 23:09:04.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 23:11:28.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has completed the challenge [I'm not sugar coating it]
+[27Dec2024 23:11:55.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=64, z=11} BlockPos{x=36, y=62, z=10}
+[27Dec2024 23:21:26.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 23:21:27.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 23:21:28.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 23:22:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]

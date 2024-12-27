@@ -11560,6 +11560,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "ancient_aether:recipes/transportation/sakura_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
@@ -11575,6 +11581,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
     },
     "done": true
   },
@@ -11602,9 +11614,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-27 23:17:12 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/peach_jam": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 23:14:38 +0000"
     },
     "done": true
   },
@@ -11614,9 +11638,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
     },
     "done": true
   },
@@ -11626,9 +11668,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2024-12-27 23:13:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-27 23:17:10 +0000"
     },
     "done": true
   },
@@ -11644,9 +11698,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-27 23:17:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_shrub": {
     "criteria": {
       "has_oak_sapling": "2024-12-27 22:58:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
     },
     "done": true
   },
@@ -11656,9 +11722,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-27 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-27 23:08:50 +0000"
     },
     "done": true
   },
@@ -11686,9 +11794,27 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
     },
     "done": true
   },
@@ -11710,15 +11836,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2024-12-27 23:09:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-27 23:17:10 +0000"
     },
     "done": true
   },
@@ -11734,6 +11890,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
@@ -11746,9 +11908,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
     },
     "done": true
   },
@@ -11764,9 +11938,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2024-12-27 23:11:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
     },
     "done": true
   },
@@ -11782,6 +11974,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2024-12-27 23:14:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/toast_with_jam": {
     "criteria": {
       "has_toast": "2024-12-27 22:37:00 +0000"
@@ -11791,6 +11995,12 @@
   "ancient_aether:recipes/transportation/highsproot_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2024-12-27 23:14:38 +0000"
     },
     "done": true
   },
@@ -11806,9 +12016,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-12-27 23:05:16 +0000"
     },
     "done": true
   },
@@ -11824,15 +12046,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2024-12-27 23:13:47 +0000"
     },
     "done": true
   },
