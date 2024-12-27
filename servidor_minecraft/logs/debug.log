@@ -17988,3 +17988,229 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [27Dec2024 05:25:10.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:netherrack_spiral/top/netherrack
 [27Dec2024 05:25:10.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith2
 [27Dec2024 05:25:10.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith
+[27Dec2024 05:26:26.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:26:26.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:28:04.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 05:28:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 05:29:14.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_fire
+[27Dec2024 05:29:14.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_6
+[27Dec2024 05:29:14.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_2
+[27Dec2024 05:29:14.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_4
+[27Dec2024 05:29:15.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_building_1
+[27Dec2024 05:29:23.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_fire
+[27Dec2024 05:29:23.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_1
+[27Dec2024 05:29:23.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_4
+[27Dec2024 05:29:23.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_6
+[27Dec2024 05:29:23.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_sword
+[27Dec2024 05:29:23.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_wither
+[27Dec2024 05:30:02.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_3
+[27Dec2024 05:30:02.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_empty
+[27Dec2024 05:30:10.491] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:30:10.495] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:30:10.496] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 handling client fire request
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1695019550 to 0
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.948] [Server thread/DEBUG] [pointblank/]: 28948 - obtained hit result in 0ms
+[27Dec2024 05:30:28.949] [Server thread/DEBUG] [pointblank/]: 28949 - obtained hit result in 1ms
+[27Dec2024 05:30:28.949] [Server thread/DEBUG] [pointblank/]: 28949 - obtained hit result in 0ms
+[27Dec2024 05:30:28.949] [Server thread/DEBUG] [pointblank/]: 28949 - obtained hit result in 0ms
+[27Dec2024 05:30:28.949] [Server thread/DEBUG] [pointblank/]: 28949 - obtained hit result in 0ms
+[27Dec2024 05:30:28.949] [Server thread/DEBUG] [pointblank/]: 28949 - obtained hit result in 0ms
+[27Dec2024 05:30:28.949] [Server thread/DEBUG] [pointblank/]: 28949 - obtained hit result in 0ms
+[27Dec2024 05:30:28.949] [Server thread/DEBUG] [pointblank/]: 28949 obtained hit results
+[27Dec2024 05:30:28.949] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b817a11
+[27Dec2024 05:30:28.950] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.950] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@396fb650
+[27Dec2024 05:30:28.951] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.951] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1875eb8
+[27Dec2024 05:30:28.954] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.954] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@24070e61
+[27Dec2024 05:30:28.954] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.954] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54a6a902
+[27Dec2024 05:30:28.954] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.954] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10bf58f0
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2bf6b6c1
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@379ec1d8
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@56919090
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c032a6a
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@22ddd395
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@638c5617
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39c35fe6
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1cb672ce
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50bb4bb6
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51869358
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7299cae1
+[27Dec2024 05:30:28.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d16e67e
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@577ae091
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3203a575
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e71af16
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@643e8db0
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@64c087ce
+[27Dec2024 05:30:28.957] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4bc7ae2e
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@48cdb15f
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@588ee6fb
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3810e4d3
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ed08b21
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.958] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6bb28ced
+[27Dec2024 05:30:28.959] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:28.959] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4424065e
+[27Dec2024 05:30:28.959] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-18.67, y=16.00, z=42.34]
+[27Dec2024 05:30:30.688] [Server thread/DEBUG] [pointblank/]: 30688 handling client fire request
+[27Dec2024 05:30:30.688] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1329403272 to 4
+[27Dec2024 05:30:30.688] [Server thread/DEBUG] [pointblank/]: 30688 - obtained hit result in 0ms
+[27Dec2024 05:30:30.688] [Server thread/DEBUG] [pointblank/]: 30688 obtained hit results
+[27Dec2024 05:30:30.688] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@73c83d80
+[27Dec2024 05:30:30.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-19.18, y=16.50, z=44.98] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-19.18, y=16.50, z=44.98]
+[27Dec2024 05:30:31.946] [Server thread/DEBUG] [pointblank/]: 31946 handling client fire request
+[27Dec2024 05:30:31.946] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1329403272 to 3
+[27Dec2024 05:30:31.947] [Server thread/DEBUG] [pointblank/]: 31947 - obtained hit result in 0ms
+[27Dec2024 05:30:31.947] [Server thread/DEBUG] [pointblank/]: 31947 obtained hit results
+[27Dec2024 05:30:31.947] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ebe7a53
+[27Dec2024 05:30:31.950] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-23.31, y=16.00, z=51.26] sends hit scan notification to ServerPlayer['Doom_Slayer246'/280, l='ServerLevel[world]', x=-23.31, y=16.00, z=51.26]
+[27Dec2024 05:30:33.141] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1329403272 to 5
+[27Dec2024 05:30:35.264] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/bridge/starting_pieces/entrance_base is being run through DFU (hash e574b5eac9b78308f5cafda23f10ac4093a9535895ef79138e650d42cf782deb), this will cause launch time delays
+[27Dec2024 05:30:35.321] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/bridge/walls/wall_base_1 is being run through DFU (hash 061fff67d1f63e46292d98342aa61ca3fcada4a7fdfd6324f98c18680b1540fb), this will cause launch time delays
+[27Dec2024 05:30:35.337] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/bridge/starting_pieces/entrance_face is being run through DFU (hash c02c172d57a9bc656df05d81337101698211a8f63bd75dbeb7b560867d5f5e37), this will cause launch time delays
+[27Dec2024 05:30:35.361] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/bridge/starting_pieces/entrance is being run through DFU (hash 4bd191fa73a69c5e7fa1e2d64860c75f375ad3de9454907fb08958c1f66f132f), this will cause launch time delays
+[27Dec2024 05:30:35.443] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/bridge/walls/wall_base_0 is being run through DFU (hash e6bb99dba53cab2dc32c48d4da56a5df5aefac1dfe7347a359749f02488d9018), this will cause launch time delays
+[27Dec2024 05:30:35.473] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/bridge/ramparts/rampart_1 is being run through DFU (hash dc0096986d76570c1da63e2f292cbce95b00465ce8c27e5dd1730c0814ae2ab0), this will cause launch time delays
+[27Dec2024 05:30:35.504] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/bridge/bridge_pieces/bridge is being run through DFU (hash b187bb02db11f3aadbf08e0952b9d92278a4a83bf54955e5896c4810f63d6611), this will cause launch time delays
+[27Dec2024 05:30:35.543] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/bridge/rampart_plates/plate_0 is being run through DFU (hash 546277c8f6811e1359e1c9df5f68991a73fbf34705db59e3398d0063836bc9eb), this will cause launch time delays
+[27Dec2024 05:30:35.547] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/bridge/legs/leg_1 is being run through DFU (hash 5c91a50ddfd84e5c61b0e00536e3c5c6cfe11250794bf2e54b2b751d52220136), this will cause launch time delays
+[27Dec2024 05:30:38.866] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:30:38.867] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:30:47.789] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1695019550 to 1
+[27Dec2024 05:30:58.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=23, z=32} BlockPos{x=1, y=19, z=70}
+[27Dec2024 05:31:10.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/nether_well
+[27Dec2024 05:31:10.332] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:crimson_tower/base/bottom/0
+[27Dec2024 05:31:10.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:crimson_tower/interior/chest
+[27Dec2024 05:31:10.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:crimson_tower/base/top/0
+[27Dec2024 05:31:10.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:crimson_tower/interior/blaze
+[27Dec2024 05:31:13.991] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, -4], pos: MutableBlockPos{x=286, y=102, z=-64}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:31:13.991] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, -4], pos: MutableBlockPos{x=286, y=101, z=-64}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:31:13.991] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [17, -4], pos: MutableBlockPos{x=286, y=100, z=-64}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:31:14.018] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, -6], pos: MutableBlockPos{x=297, y=52, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/fire]
+[27Dec2024 05:31:14.019] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, -6], pos: MutableBlockPos{x=293, y=52, z=-94}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/fire]
+[27Dec2024 05:31:26.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:31:26.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:32:05.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/lava_basin
+[27Dec2024 05:32:05.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/entrances/entrance_0
+[27Dec2024 05:32:05.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_1
+[27Dec2024 05:32:05.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_2
+[27Dec2024 05:32:05.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/stairs/lower_stairs
+[27Dec2024 05:32:05.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_3
+[27Dec2024 05:32:05.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/centers/center_2
+[27Dec2024 05:32:05.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/mid_wall_main
+[27Dec2024 05:32:05.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_1
+[27Dec2024 05:32:05.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/medium_outer_wall
+[27Dec2024 05:32:05.038] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/bottom/corner_0
+[27Dec2024 05:32:05.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/center_roof
+[27Dec2024 05:32:05.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/mid_wall_side
+[27Dec2024 05:32:05.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/lava_basin_side
+[27Dec2024 05:32:05.053] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/bottom_wall_0
+[27Dec2024 05:32:05.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/top_wall
+[27Dec2024 05:32:05.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_2
+[27Dec2024 05:32:05.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_0
+[27Dec2024 05:32:05.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_0
+[27Dec2024 05:32:05.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_1
+[27Dec2024 05:32:05.064] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/main_entrance
+[27Dec2024 05:32:05.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_1
+[27Dec2024 05:32:05.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/lava_basin_main
+[27Dec2024 05:32:05.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/middle/corner_1
+[27Dec2024 05:32:05.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/outer_wall
+[27Dec2024 05:32:05.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/middle/corner_0
+[27Dec2024 05:32:05.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_2
+[27Dec2024 05:32:05.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_3
+[27Dec2024 05:32:05.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/house_1
+[27Dec2024 05:32:05.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/tall_outer_wall
+[27Dec2024 05:32:05.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/wall_roof
+[27Dec2024 05:32:05.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/top/corner_1
+[27Dec2024 05:32:05.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_1
+[27Dec2024 05:32:05.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/top/corner_0
+[27Dec2024 05:32:05.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_0
+[27Dec2024 05:32:05.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_0
+[27Dec2024 05:32:05.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/fire_room
+[27Dec2024 05:32:05.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/roofed_bridge
+[27Dec2024 05:32:05.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/entrance_wall
+[27Dec2024 05:32:05.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_2
+[27Dec2024 05:32:05.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/lava_wall
+[27Dec2024 05:32:05.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/corner_roof
+[27Dec2024 05:32:05.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:nether_shrine/nether_shrine_003
+[27Dec2024 05:32:11.736] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [7, -13], pos: MutableBlockPos{x=123, y=105, z=-204}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:32:11.737] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [7, -13], pos: MutableBlockPos{x=123, y=105, z=-205}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:32:11.737] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [7, -13], pos: MutableBlockPos{x=124, y=106, z=-208}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:32:11.737] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [7, -13], pos: MutableBlockPos{x=127, y=106, z=-208}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:32:48.005] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [9, -16], pos: MutableBlockPos{x=145, y=38, z=-243}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/fire]
+[27Dec2024 05:32:48.006] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [9, -16], pos: MutableBlockPos{x=145, y=37, z=-242}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/fire]
+[27Dec2024 05:32:48.800] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=36, z=-235}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.800] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=35, z=-235}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.800] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=36, z=-234}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.801] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=35, z=-234}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.801] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=36, z=-233}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.801] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=35, z=-233}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.801] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=177, y=36, z=-233}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.801] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=177, y=35, z=-233}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.801] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=36, z=-232}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.801] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=35, z=-232}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.801] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=36, z=-231}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.802] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=35, z=-231}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.802] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -16], pos: MutableBlockPos{x=179, y=38, z=-244}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:32:48.802] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -16], pos: MutableBlockPos{x=176, y=36, z=-241}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:32:48.802] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=177, y=36, z=-238}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:32:48.802] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=36, z=-236}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:32:48.802] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [11, -15], pos: MutableBlockPos{x=176, y=36, z=-235}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 05:32:48.815] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, -15], pos: MutableBlockPos{x=194, y=36, z=-233}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.815] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, -15], pos: MutableBlockPos{x=192, y=38, z=-235}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.815] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, -15], pos: MutableBlockPos{x=194, y=37, z=-238}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:48.815] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, -15], pos: MutableBlockPos{x=195, y=37, z=-229}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 05:32:53.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Doom_Slayer246 to Alexten22]
+[27Dec2024 05:32:55.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 lost connection: Disconnected
+[27Dec2024 05:32:55.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 left the game
+[27Dec2024 05:36:26.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:36:26.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
