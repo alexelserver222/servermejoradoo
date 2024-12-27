@@ -3113,3 +3113,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 22:34:02.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=69, z=-3} BlockPos{x=-10, y=62, z=-14}
 [27Dec2024 22:37:33.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=69, z=-3} BlockPos{x=11, y=107, z=-24}
 [27Dec2024 22:37:33.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=69, z=-3} BlockPos{x=11, y=107, z=-23}
+[27Dec2024 22:42:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 was slain by Doom_Slayer246
+[27Dec2024 22:42:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 was slain by Doom_Slayer246
+[27Dec2024 22:42:54.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=63, z=6} BlockPos{x=37, y=63, z=2}
+[27Dec2024 22:42:54.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=63, z=6} BlockPos{x=37, y=63, z=2}
+[27Dec2024 22:42:54.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=63, z=1} BlockPos{x=36, y=63, z=3}
+[27Dec2024 22:43:06.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 was slain by Doom_Slayer246
+[27Dec2024 22:43:17.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=63, z=2} BlockPos{x=31, y=62, z=4}
+[27Dec2024 22:43:18.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=63, z=4} BlockPos{x=31, y=62, z=3}
+[27Dec2024 22:43:18.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=63, z=3} BlockPos{x=31, y=62, z=2}
+[27Dec2024 22:43:34.020] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[27Dec2024 22:44:23.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luisitoazp10 lost connection: Disconnected
+[27Dec2024 22:44:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 left the game
