@@ -21947,6 +21947,12 @@
     },
     "done": true
   },
+  "aether_redux:recipes/combat/sentry_ring": {
+    "criteria": {
+      "has_sentry_chip": "2024-12-27 22:36:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
     "criteria": {
       "has_upgrade_base": "2024-12-27 21:37:41 +0000"
@@ -21962,6 +21968,12 @@
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
       "has_scute": "2024-12-27 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/runelight": {
+    "criteria": {
+      "has_sentry_chip": "2024-12-27 22:36:26 +0000"
     },
     "done": true
   },
