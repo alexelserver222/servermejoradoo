@@ -2425,3 +2425,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 20:47:13.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
 [27Dec2024 20:48:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
 [27Dec2024 20:48:13.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 20:59:40.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 has reached the goal [Like a Bossaru!]
+[27Dec2024 20:59:40.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slider['AetherSlider - 358 / 400 89%'/9816, l='ServerLevel[world]', x=52.91, y=135.00, z=-258.00] died: AetherSlider - 358 / 400 89% was slain by Luisitoazp10
+[27Dec2024 21:00:00.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 has reached the goal [The Power of the Gods]
+[27Dec2024 21:00:50.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:50.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:50.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:50.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:50.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:50.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:51.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:03:40.428] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[27Dec2024 21:05:53.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=65, z=8} BlockPos{x=-4, y=84, z=22}
+[27Dec2024 21:05:59.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity KawausoEntity['[Lv.75] Kawauso'/19699, l='ServerLevel[world]', x=-2.50, y=83.00, z=21.50] died: [Lv.75] Kawauso was slain by Doom_Slayer246
+[27Dec2024 21:06:22.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 tried to swim in lava
+[27Dec2024 21:07:19.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 fell from a high place
+[27Dec2024 21:07:54.782] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -15], pos: MutableBlockPos{x=240, y=86, z=-225}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 21:07:54.786] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -15], pos: MutableBlockPos{x=240, y=85, z=-225}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 21:07:54.786] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -15], pos: MutableBlockPos{x=240, y=84, z=-225}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 21:07:54.788] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -15], pos: MutableBlockPos{x=240, y=33, z=-235}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 21:08:59.140] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, -14], pos: MutableBlockPos{x=207, y=53, z=-221}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 21:08:59.141] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, -14], pos: MutableBlockPos{x=202, y=53, z=-222}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]

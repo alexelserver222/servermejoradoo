@@ -12646,9 +12646,75 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/aerogel_stairs_from_aerogel_stonecutting": {
+    "criteria": {
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2024-12-27 20:59:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/aerogel_stairs": {
+    "criteria": {
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/aerogel_wall_from_aerogel_stonecutting": {
+    "criteria": {
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/aerogel_slab_from_aerogel_stonecutting": {
+    "criteria": {
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_chestplate_repairing": {
+    "criteria": {
+      "has_zanite_chestplate": "2024-12-27 21:00:10 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/misc/mosaic_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "smithing_templates": "2024-12-27 21:00:10 +0000"
+    },
+    "done": true
+  },
+  "aether:hammer_loot": {
+    "criteria": {
+      "hammer_loot": "2024-12-27 21:00:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/aerogel_wall": {
+    "criteria": {
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/building_blocks/aerogel_glass": {
+    "criteria": {
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_water_bottle": {
     "criteria": {
       "has_water": "2024-12-27 20:47:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/aerogel_slab": {
+    "criteria": {
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
     },
     "done": true
   },

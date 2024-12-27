@@ -16096,3 +16096,438 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 20:52:07.058] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 671885697 to 5
 [27Dec2024 20:56:28.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 20:56:28.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 20:59:40.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 has reached the goal [Like a Bossaru!]
+[27Dec2024 20:59:40.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slider['AetherSlider - 358 / 400 89%'/9816, l='ServerLevel[world]', x=52.91, y=135.00, z=-258.00] died: AetherSlider - 358 / 400 89% was slain by Luisitoazp10
+[27Dec2024 21:00:00.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 has reached the goal [The Power of the Gods]
+[27Dec2024 21:00:50.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:50.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:50.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:50.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:50.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:50.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:00:51.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=135, z=-261} BlockPos{x=60, y=136, z=-272}
+[27Dec2024 21:01:28.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 21:01:28.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 21:03:37.267] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Dec2024 21:03:37.267] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Dec2024 21:03:37.268] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Dec2024 21:03:37.268] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Dec2024 21:03:37.269] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Dec2024 21:03:37.269] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Dec2024 21:03:37.271] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Dec2024 21:03:37.271] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Dec2024 21:03:37.271] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Dec2024 21:03:40.428] [Server thread/DEBUG] [ModernFix/]: Structure aether:silver_dungeon/rear is being run through DFU (hash f350ba3850acea1b213f7ad27b82a3866e2564b5837fc6d489a47f4168defa17), this will cause launch time delays
+[27Dec2024 21:03:40.428] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[27Dec2024 21:03:40.934] [Server thread/DEBUG] [ModernFix/]: Structure aether:silver_dungeon/boss_room is being run through DFU (hash 97108e16eeb275e171837bd962a5757842ba01498e1a6270f9aee4c3f7d637fa), this will cause launch time delays
+[27Dec2024 21:03:41.063] [Server thread/DEBUG] [ModernFix/]: Structure aether:silver_dungeon/skeleton is being run through DFU (hash d6c506a20d59defdff4ca5767c480de173aaac22ae41be7dff4ddce88d472b9f), this will cause launch time delays
+[27Dec2024 21:03:41.124] [Server thread/DEBUG] [ModernFix/]: Structure aether:silver_dungeon/floor is being run through DFU (hash 80c76e2649c5cbb7c4bb1ff39a1aa5d6592a22afec2b8df54a0a8758a13f2ad2), this will cause launch time delays
+[27Dec2024 21:03:41.125] [Server thread/DEBUG] [ModernFix/]: Structure aether:silver_dungeon/wall is being run through DFU (hash 3482ad6f9014961620615b98277d93f1e07f9b37621de523a78a3ff5b54af471), this will cause launch time delays
+[27Dec2024 21:03:41.126] [Server thread/DEBUG] [ModernFix/]: Structure aether:silver_dungeon/chest_room is being run through DFU (hash 82f9801d070538ecf09e650418294084ac4462cd3a08fcfd9934f4fc54c03d26), this will cause launch time delays
+[27Dec2024 21:03:41.129] [Server thread/DEBUG] [ModernFix/]: Structure aether:silver_dungeon/door is being run through DFU (hash f9441de830f54c5da0e0bd80c44577834d62d0e8e9531a84bf7721688c35c8d8), this will cause launch time delays
+[27Dec2024 21:03:41.131] [Server thread/DEBUG] [ModernFix/]: Structure aether:silver_dungeon/staircase is being run through DFU (hash 4f4f186a44e55661db1dd108497a41331990b6b6c6725a8af44f92258689d3ae), this will cause launch time delays
+[27Dec2024 21:03:41.133] [Server thread/DEBUG] [ModernFix/]: Structure aether:silver_dungeon/tall_staircase is being run through DFU (hash 3e8f74dab913c5bff1fbace13e7139430428fbdd0cba71823f968b5a8c8148ed), this will cause launch time delays
+[27Dec2024 21:03:41.136] [Server thread/DEBUG] [ModernFix/]: Structure aether:silver_dungeon/boss_door is being run through DFU (hash e3c0945c46455284b64d1b2acfbd3342458140c3dbb81c270798f91582299ddc), this will cause launch time delays
+[27Dec2024 21:03:41.583] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[27Dec2024 21:03:41.598] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Dec2024 21:03:41.607] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Dec2024 21:03:41.608] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Dec2024 21:03:41.616] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27Dec2024 21:03:41.616] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27Dec2024 21:05:14.130] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[27Dec2024 21:05:48.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:netherrack_spiral/base/0
+[27Dec2024 21:05:48.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:netherrack_spiral/top/netherrack
+[27Dec2024 21:05:48.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith2
+[27Dec2024 21:05:48.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith
+[27Dec2024 21:05:48.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[27Dec2024 21:05:49.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[27Dec2024 21:05:50.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[27Dec2024 21:05:50.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_fire
+[27Dec2024 21:05:50.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_6
+[27Dec2024 21:05:50.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_2
+[27Dec2024 21:05:50.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_4
+[27Dec2024 21:05:50.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[27Dec2024 21:05:51.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[27Dec2024 21:05:51.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[27Dec2024 21:05:53.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=65, z=8} BlockPos{x=-4, y=84, z=22}
+[27Dec2024 21:05:53.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_building_1
+[27Dec2024 21:05:59.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity KawausoEntity['[Lv.75] Kawauso'/19699, l='ServerLevel[world]', x=-2.50, y=83.00, z=21.50] died: [Lv.75] Kawauso was slain by Doom_Slayer246
+[27Dec2024 21:06:22.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 tried to swim in lava
+[27Dec2024 21:06:25.480] [Server thread/DEBUG] [twilightforest/]: Player Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada) respawned and received items held in storage
+[27Dec2024 21:06:28.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 21:06:28.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 21:07:06.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[27Dec2024 21:07:06.655] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[27Dec2024 21:07:07.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[27Dec2024 21:07:07.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[27Dec2024 21:07:07.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[27Dec2024 21:07:07.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[27Dec2024 21:07:07.615] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[27Dec2024 21:07:07.619] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[27Dec2024 21:07:07.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[27Dec2024 21:07:07.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[27Dec2024 21:07:08.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[27Dec2024 21:07:08.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[27Dec2024 21:07:08.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[27Dec2024 21:07:19.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 fell from a high place
+[27Dec2024 21:07:21.052] [Server thread/DEBUG] [twilightforest/]: Player Luisitoazp10 (63de8617-dcc2-36c2-94db-9c0f02f4a930) respawned and received items held in storage
+[27Dec2024 21:07:38.964] [Server thread/DEBUG] [pointblank/]: 58964 handling client fire request
+[27Dec2024 21:07:38.965] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 29
+[27Dec2024 21:07:38.965] [Server thread/DEBUG] [pointblank/]: 58965 - obtained hit result in 0ms
+[27Dec2024 21:07:38.965] [Server thread/DEBUG] [pointblank/]: 58965 obtained hit results
+[27Dec2024 21:07:38.965] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@552ffc80
+[27Dec2024 21:07:38.965] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:39.087] [Server thread/DEBUG] [pointblank/]: 59087 handling client fire request
+[27Dec2024 21:07:39.087] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 28
+[27Dec2024 21:07:39.088] [Server thread/DEBUG] [pointblank/]: 59088 - obtained hit result in 0ms
+[27Dec2024 21:07:39.088] [Server thread/DEBUG] [pointblank/]: 59088 obtained hit results
+[27Dec2024 21:07:39.088] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1cd17d71
+[27Dec2024 21:07:39.088] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:39.223] [Server thread/DEBUG] [pointblank/]: 59223 handling client fire request
+[27Dec2024 21:07:39.223] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 27
+[27Dec2024 21:07:39.224] [Server thread/DEBUG] [pointblank/]: 59224 - obtained hit result in 1ms
+[27Dec2024 21:07:39.224] [Server thread/DEBUG] [pointblank/]: 59224 obtained hit results
+[27Dec2024 21:07:39.224] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1ba6aa1d
+[27Dec2024 21:07:39.224] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:39.318] [Server thread/DEBUG] [pointblank/]: 59318 handling client fire request
+[27Dec2024 21:07:39.319] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 26
+[27Dec2024 21:07:39.319] [Server thread/DEBUG] [pointblank/]: 59319 - obtained hit result in 0ms
+[27Dec2024 21:07:39.319] [Server thread/DEBUG] [pointblank/]: 59319 obtained hit results
+[27Dec2024 21:07:39.319] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@568b7798
+[27Dec2024 21:07:39.319] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:39.513] [Server thread/DEBUG] [pointblank/]: 59513 handling client fire request
+[27Dec2024 21:07:39.513] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 25
+[27Dec2024 21:07:39.513] [Server thread/DEBUG] [pointblank/]: 59513 - obtained hit result in 0ms
+[27Dec2024 21:07:39.513] [Server thread/DEBUG] [pointblank/]: 59513 obtained hit results
+[27Dec2024 21:07:39.514] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@21652cf6
+[27Dec2024 21:07:39.514] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:39.763] [Server thread/DEBUG] [pointblank/]: 59763 handling client fire request
+[27Dec2024 21:07:39.763] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 24
+[27Dec2024 21:07:39.764] [Server thread/DEBUG] [pointblank/]: 59764 - obtained hit result in 1ms
+[27Dec2024 21:07:39.764] [Server thread/DEBUG] [pointblank/]: 59764 obtained hit results
+[27Dec2024 21:07:39.764] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a76e90a
+[27Dec2024 21:07:39.767] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:39.864] [Server thread/DEBUG] [pointblank/]: 59864 handling client fire request
+[27Dec2024 21:07:39.864] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 23
+[27Dec2024 21:07:39.865] [Server thread/DEBUG] [pointblank/]: 59865 - obtained hit result in 0ms
+[27Dec2024 21:07:39.865] [Server thread/DEBUG] [pointblank/]: 59865 obtained hit results
+[27Dec2024 21:07:39.865] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@77df3239
+[27Dec2024 21:07:39.865] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:40.112] [Server thread/DEBUG] [pointblank/]: 60112 handling client fire request
+[27Dec2024 21:07:40.112] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 22
+[27Dec2024 21:07:40.112] [Server thread/DEBUG] [pointblank/]: 60112 - obtained hit result in 0ms
+[27Dec2024 21:07:40.112] [Server thread/DEBUG] [pointblank/]: 60112 obtained hit results
+[27Dec2024 21:07:40.112] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@79ecff0b
+[27Dec2024 21:07:40.113] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:40.763] [Server thread/DEBUG] [pointblank/]: 60763 handling client fire request
+[27Dec2024 21:07:40.763] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 21
+[27Dec2024 21:07:40.763] [Server thread/DEBUG] [pointblank/]: 60763 - obtained hit result in 0ms
+[27Dec2024 21:07:40.763] [Server thread/DEBUG] [pointblank/]: 60763 obtained hit results
+[27Dec2024 21:07:40.763] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@14b2f5e0
+[27Dec2024 21:07:40.763] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:41.063] [Server thread/DEBUG] [pointblank/]: 61063 handling client fire request
+[27Dec2024 21:07:41.064] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 20
+[27Dec2024 21:07:41.064] [Server thread/DEBUG] [pointblank/]: 61064 - obtained hit result in 0ms
+[27Dec2024 21:07:41.064] [Server thread/DEBUG] [pointblank/]: 61064 obtained hit results
+[27Dec2024 21:07:41.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3d403c21
+[27Dec2024 21:07:41.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:41.317] [Server thread/DEBUG] [pointblank/]: 61317 handling client fire request
+[27Dec2024 21:07:41.317] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 19
+[27Dec2024 21:07:41.317] [Server thread/DEBUG] [pointblank/]: 61317 - obtained hit result in 0ms
+[27Dec2024 21:07:41.317] [Server thread/DEBUG] [pointblank/]: 61317 obtained hit results
+[27Dec2024 21:07:41.318] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@74171f81
+[27Dec2024 21:07:41.318] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:41.566] [Server thread/DEBUG] [pointblank/]: 61566 handling client fire request
+[27Dec2024 21:07:41.566] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 18
+[27Dec2024 21:07:41.566] [Server thread/DEBUG] [pointblank/]: 61566 - obtained hit result in 0ms
+[27Dec2024 21:07:41.566] [Server thread/DEBUG] [pointblank/]: 61566 obtained hit results
+[27Dec2024 21:07:41.566] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@e4fc6d1
+[27Dec2024 21:07:41.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:41.813] [Server thread/DEBUG] [pointblank/]: 61813 handling client fire request
+[27Dec2024 21:07:41.813] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 17
+[27Dec2024 21:07:41.813] [Server thread/DEBUG] [pointblank/]: 61813 - obtained hit result in 0ms
+[27Dec2024 21:07:41.813] [Server thread/DEBUG] [pointblank/]: 61813 obtained hit results
+[27Dec2024 21:07:41.813] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@48f1ef22
+[27Dec2024 21:07:41.813] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:42.064] [Server thread/DEBUG] [pointblank/]: 62064 handling client fire request
+[27Dec2024 21:07:42.064] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 16
+[27Dec2024 21:07:42.065] [Server thread/DEBUG] [pointblank/]: 62065 - obtained hit result in 0ms
+[27Dec2024 21:07:42.065] [Server thread/DEBUG] [pointblank/]: 62065 obtained hit results
+[27Dec2024 21:07:42.065] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2c61b552
+[27Dec2024 21:07:42.065] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:42.215] [Server thread/DEBUG] [pointblank/]: 62215 handling client fire request
+[27Dec2024 21:07:42.215] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 15
+[27Dec2024 21:07:42.215] [Server thread/DEBUG] [pointblank/]: 62215 - obtained hit result in 0ms
+[27Dec2024 21:07:42.215] [Server thread/DEBUG] [pointblank/]: 62215 obtained hit results
+[27Dec2024 21:07:42.216] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@377f2ab1
+[27Dec2024 21:07:42.216] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:42.372] [Server thread/DEBUG] [pointblank/]: 62372 handling client fire request
+[27Dec2024 21:07:42.372] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 14
+[27Dec2024 21:07:42.372] [Server thread/DEBUG] [pointblank/]: 62372 - obtained hit result in 0ms
+[27Dec2024 21:07:42.372] [Server thread/DEBUG] [pointblank/]: 62372 obtained hit results
+[27Dec2024 21:07:42.372] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@bd76399
+[27Dec2024 21:07:42.372] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:42.463] [Server thread/DEBUG] [pointblank/]: 62463 handling client fire request
+[27Dec2024 21:07:42.463] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 13
+[27Dec2024 21:07:42.463] [Server thread/DEBUG] [pointblank/]: 62463 - obtained hit result in 0ms
+[27Dec2024 21:07:42.463] [Server thread/DEBUG] [pointblank/]: 62463 obtained hit results
+[27Dec2024 21:07:42.463] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@645901c0
+[27Dec2024 21:07:42.463] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:42.562] [Server thread/DEBUG] [pointblank/]: 62562 handling client fire request
+[27Dec2024 21:07:42.563] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 12
+[27Dec2024 21:07:42.563] [Server thread/DEBUG] [pointblank/]: 62563 - obtained hit result in 0ms
+[27Dec2024 21:07:42.563] [Server thread/DEBUG] [pointblank/]: 62563 obtained hit results
+[27Dec2024 21:07:42.563] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@581bfbd3
+[27Dec2024 21:07:42.564] [Server thread/DEBUG] [pointblank/]: Creating state a151a873-a3ff-421a-a975-92a1fce494e4
+[27Dec2024 21:07:42.567] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:42.668] [Server thread/DEBUG] [pointblank/]: 62668 handling client fire request
+[27Dec2024 21:07:42.669] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 11
+[27Dec2024 21:07:42.669] [Server thread/DEBUG] [pointblank/]: 62669 - obtained hit result in 0ms
+[27Dec2024 21:07:42.669] [Server thread/DEBUG] [pointblank/]: 62669 obtained hit results
+[27Dec2024 21:07:42.669] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@590642cd
+[27Dec2024 21:07:42.669] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:42.781] [Server thread/DEBUG] [pointblank/]: 62781 handling client fire request
+[27Dec2024 21:07:42.782] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 10
+[27Dec2024 21:07:42.782] [Server thread/DEBUG] [pointblank/]: 62782 - obtained hit result in 0ms
+[27Dec2024 21:07:42.782] [Server thread/DEBUG] [pointblank/]: 62782 obtained hit results
+[27Dec2024 21:07:42.782] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3d18806e
+[27Dec2024 21:07:42.782] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:42.865] [Server thread/DEBUG] [pointblank/]: 62865 handling client fire request
+[27Dec2024 21:07:42.866] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 9
+[27Dec2024 21:07:42.866] [Server thread/DEBUG] [pointblank/]: 62866 - obtained hit result in 0ms
+[27Dec2024 21:07:42.866] [Server thread/DEBUG] [pointblank/]: 62866 obtained hit results
+[27Dec2024 21:07:42.866] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@634b393e
+[27Dec2024 21:07:42.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.21, y=82.00, z=19.21]
+[27Dec2024 21:07:43.418] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 30
+[27Dec2024 21:07:52.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[27Dec2024 21:07:53.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/lava_basin
+[27Dec2024 21:07:53.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/entrances/entrance_0
+[27Dec2024 21:07:53.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_1
+[27Dec2024 21:07:53.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_2
+[27Dec2024 21:07:53.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/stairs/lower_stairs
+[27Dec2024 21:07:53.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_3
+[27Dec2024 21:07:53.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/centers/center_2
+[27Dec2024 21:07:53.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/mid_wall_main
+[27Dec2024 21:07:53.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_1
+[27Dec2024 21:07:53.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/medium_outer_wall
+[27Dec2024 21:07:53.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/bottom/corner_0
+[27Dec2024 21:07:53.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/center_roof
+[27Dec2024 21:07:53.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/mid_wall_side
+[27Dec2024 21:07:53.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/lava_basin_side
+[27Dec2024 21:07:53.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/bottom_wall_0
+[27Dec2024 21:07:53.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/top_wall
+[27Dec2024 21:07:53.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_2
+[27Dec2024 21:07:53.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_0
+[27Dec2024 21:07:53.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_0
+[27Dec2024 21:07:53.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_1
+[27Dec2024 21:07:53.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/main_entrance
+[27Dec2024 21:07:53.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_1
+[27Dec2024 21:07:53.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/lava_basin_main
+[27Dec2024 21:07:53.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/middle/corner_1
+[27Dec2024 21:07:53.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/outer_wall
+[27Dec2024 21:07:53.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/middle/corner_0
+[27Dec2024 21:07:53.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_2
+[27Dec2024 21:07:53.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_3
+[27Dec2024 21:07:53.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/house_1
+[27Dec2024 21:07:53.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/tall_outer_wall
+[27Dec2024 21:07:53.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/wall_roof
+[27Dec2024 21:07:53.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/top/corner_1
+[27Dec2024 21:07:53.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_1
+[27Dec2024 21:07:53.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/top/corner_0
+[27Dec2024 21:07:53.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_0
+[27Dec2024 21:07:53.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_0
+[27Dec2024 21:07:53.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/fire_room
+[27Dec2024 21:07:53.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/roofed_bridge
+[27Dec2024 21:07:53.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/entrance_wall
+[27Dec2024 21:07:53.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_2
+[27Dec2024 21:07:53.304] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/lava_wall
+[27Dec2024 21:07:53.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/corner_roof
+[27Dec2024 21:07:54.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[27Dec2024 21:07:54.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:nether_shrine/nether_shrine_003
+[27Dec2024 21:07:54.782] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -15], pos: MutableBlockPos{x=240, y=86, z=-225}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 21:07:54.786] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -15], pos: MutableBlockPos{x=240, y=85, z=-225}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 21:07:54.786] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -15], pos: MutableBlockPos{x=240, y=84, z=-225}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 21:07:54.788] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -15], pos: MutableBlockPos{x=240, y=33, z=-235}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[27Dec2024 21:08:59.140] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, -14], pos: MutableBlockPos{x=207, y=53, z=-221}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 21:08:59.141] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [12, -14], pos: MutableBlockPos{x=202, y=53, z=-222}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[27Dec2024 21:09:01.219] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[27Dec2024 21:09:01.223] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[27Dec2024 21:09:01.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_fire
+[27Dec2024 21:09:01.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_7
+[27Dec2024 21:09:01.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_1
+[27Dec2024 21:09:01.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_4
+[27Dec2024 21:09:01.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_6
+[27Dec2024 21:09:01.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_brute
+[27Dec2024 21:09:01.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_sword
+[27Dec2024 21:09:01.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_wither
+[27Dec2024 21:09:01.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[27Dec2024 21:09:01.462] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_1
+[27Dec2024 21:09:01.464] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[27Dec2024 21:09:01.466] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[27Dec2024 21:09:01.467] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[27Dec2024 21:09:01.468] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2
+[27Dec2024 21:09:01.471] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_2
+[27Dec2024 21:09:01.473] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[27Dec2024 21:09:37.020] [Server thread/DEBUG] [pointblank/]: 77020 handling client fire request
+[27Dec2024 21:09:37.020] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 29
+[27Dec2024 21:09:37.020] [Server thread/DEBUG] [pointblank/]: 77020 - obtained hit result in 0ms
+[27Dec2024 21:09:37.020] [Server thread/DEBUG] [pointblank/]: 77020 obtained hit results
+[27Dec2024 21:09:37.021] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ae11b32
+[27Dec2024 21:09:37.023] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.45, y=16.00, z=-9.74] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.45, y=16.00, z=-9.74]
+[27Dec2024 21:09:37.118] [Server thread/DEBUG] [pointblank/]: 77118 handling client fire request
+[27Dec2024 21:09:37.118] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 28
+[27Dec2024 21:09:37.118] [Server thread/DEBUG] [pointblank/]: 77118 - obtained hit result in 0ms
+[27Dec2024 21:09:37.118] [Server thread/DEBUG] [pointblank/]: 77118 obtained hit results
+[27Dec2024 21:09:37.118] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4a33db57
+[27Dec2024 21:09:37.120] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.49, y=16.00, z=-9.49] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.49, y=16.00, z=-9.49]
+[27Dec2024 21:09:37.172] [Server thread/DEBUG] [pointblank/]: 77172 handling client fire request
+[27Dec2024 21:09:37.172] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 27
+[27Dec2024 21:09:37.172] [Server thread/DEBUG] [pointblank/]: 77172 - obtained hit result in 0ms
+[27Dec2024 21:09:37.172] [Server thread/DEBUG] [pointblank/]: 77172 obtained hit results
+[27Dec2024 21:09:37.172] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7611f487
+[27Dec2024 21:09:37.173] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.54, y=16.00, z=-9.41] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.54, y=16.00, z=-9.41]
+[27Dec2024 21:09:37.270] [Server thread/DEBUG] [pointblank/]: 77270 handling client fire request
+[27Dec2024 21:09:37.270] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 26
+[27Dec2024 21:09:37.271] [Server thread/DEBUG] [pointblank/]: 77271 - obtained hit result in 1ms
+[27Dec2024 21:09:37.271] [Server thread/DEBUG] [pointblank/]: 77271 obtained hit results
+[27Dec2024 21:09:37.271] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6b18a836
+[27Dec2024 21:09:37.274] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.60, y=16.00, z=-9.81] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.60, y=16.00, z=-9.81]
+[27Dec2024 21:09:37.369] [Server thread/DEBUG] [pointblank/]: 77369 handling client fire request
+[27Dec2024 21:09:37.369] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 25
+[27Dec2024 21:09:37.370] [Server thread/DEBUG] [pointblank/]: 77370 - obtained hit result in 1ms
+[27Dec2024 21:09:37.370] [Server thread/DEBUG] [pointblank/]: 77370 obtained hit results
+[27Dec2024 21:09:37.370] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5c87f581
+[27Dec2024 21:09:37.370] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.63, y=16.00, z=-9.66] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.63, y=16.00, z=-9.66]
+[27Dec2024 21:09:37.468] [Server thread/DEBUG] [pointblank/]: 77468 handling client fire request
+[27Dec2024 21:09:37.468] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 24
+[27Dec2024 21:09:37.468] [Server thread/DEBUG] [pointblank/]: 77468 - obtained hit result in 0ms
+[27Dec2024 21:09:37.468] [Server thread/DEBUG] [pointblank/]: 77468 obtained hit results
+[27Dec2024 21:09:37.468] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7d339186
+[27Dec2024 21:09:37.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.65, y=16.00, z=-9.19] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.65, y=16.00, z=-9.19]
+[27Dec2024 21:09:37.568] [Server thread/DEBUG] [pointblank/]: 77568 handling client fire request
+[27Dec2024 21:09:37.568] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 23
+[27Dec2024 21:09:37.568] [Server thread/DEBUG] [pointblank/]: 77568 - obtained hit result in 0ms
+[27Dec2024 21:09:37.568] [Server thread/DEBUG] [pointblank/]: 77568 obtained hit results
+[27Dec2024 21:09:37.568] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@583bdb8e
+[27Dec2024 21:09:37.568] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.64, y=16.00, z=-8.91] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.64, y=16.00, z=-8.91]
+[27Dec2024 21:09:37.667] [Server thread/DEBUG] [pointblank/]: 77667 handling client fire request
+[27Dec2024 21:09:37.667] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 22
+[27Dec2024 21:09:37.667] [Server thread/DEBUG] [pointblank/]: 77667 - obtained hit result in 0ms
+[27Dec2024 21:09:37.667] [Server thread/DEBUG] [pointblank/]: 77667 obtained hit results
+[27Dec2024 21:09:37.667] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@31cf58a4
+[27Dec2024 21:09:37.667] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.67, y=16.00, z=-8.81] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.67, y=16.00, z=-8.81]
+[27Dec2024 21:09:37.720] [Server thread/DEBUG] [pointblank/]: 77720 handling client fire request
+[27Dec2024 21:09:37.720] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 21
+[27Dec2024 21:09:37.720] [Server thread/DEBUG] [pointblank/]: 77720 - obtained hit result in 0ms
+[27Dec2024 21:09:37.720] [Server thread/DEBUG] [pointblank/]: 77720 obtained hit results
+[27Dec2024 21:09:37.720] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@41209556
+[27Dec2024 21:09:37.720] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.74, y=16.00, z=-9.20] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.74, y=16.00, z=-9.20]
+[27Dec2024 21:09:37.818] [Server thread/DEBUG] [pointblank/]: 77818 handling client fire request
+[27Dec2024 21:09:37.818] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 20
+[27Dec2024 21:09:37.818] [Server thread/DEBUG] [pointblank/]: 77818 - obtained hit result in 0ms
+[27Dec2024 21:09:37.818] [Server thread/DEBUG] [pointblank/]: 77818 obtained hit results
+[27Dec2024 21:09:37.818] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7cfe5c51
+[27Dec2024 21:09:37.818] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.54, y=16.00, z=-9.66] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.54, y=16.00, z=-9.66]
+[27Dec2024 21:09:37.922] [Server thread/DEBUG] [pointblank/]: 77922 handling client fire request
+[27Dec2024 21:09:37.922] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 19
+[27Dec2024 21:09:37.923] [Server thread/DEBUG] [pointblank/]: 77923 - obtained hit result in 1ms
+[27Dec2024 21:09:37.923] [Server thread/DEBUG] [pointblank/]: 77923 obtained hit results
+[27Dec2024 21:09:37.923] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@695671c8
+[27Dec2024 21:09:37.923] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.37, y=16.00, z=-9.69] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.37, y=16.00, z=-9.69]
+[27Dec2024 21:09:38.017] [Server thread/DEBUG] [pointblank/]: 78017 handling client fire request
+[27Dec2024 21:09:38.017] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 18
+[27Dec2024 21:09:38.017] [Server thread/DEBUG] [pointblank/]: 78017 - obtained hit result in 0ms
+[27Dec2024 21:09:38.017] [Server thread/DEBUG] [pointblank/]: 78017 obtained hit results
+[27Dec2024 21:09:38.017] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@284c77b0
+[27Dec2024 21:09:38.020] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.05, y=16.00, z=-9.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-4.05, y=16.00, z=-9.44]
+[27Dec2024 21:09:38.074] [Server thread/DEBUG] [pointblank/]: 78074 handling client fire request
+[27Dec2024 21:09:38.074] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 17
+[27Dec2024 21:09:38.074] [Server thread/DEBUG] [pointblank/]: 78074 - obtained hit result in 0ms
+[27Dec2024 21:09:38.074] [Server thread/DEBUG] [pointblank/]: 78074 obtained hit results
+[27Dec2024 21:09:38.074] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@30da14ef
+[27Dec2024 21:09:38.076] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.90, y=16.00, z=-8.94] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.90, y=16.00, z=-8.94]
+[27Dec2024 21:09:38.166] [Server thread/DEBUG] [pointblank/]: 78166 handling client fire request
+[27Dec2024 21:09:38.167] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 16
+[27Dec2024 21:09:38.167] [Server thread/DEBUG] [pointblank/]: 78167 - obtained hit result in 0ms
+[27Dec2024 21:09:38.167] [Server thread/DEBUG] [pointblank/]: 78167 obtained hit results
+[27Dec2024 21:09:38.167] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7cb66a1
+[27Dec2024 21:09:38.167] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.82, y=16.00, z=-8.64] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.82, y=16.00, z=-8.64]
+[27Dec2024 21:09:38.306] [Server thread/DEBUG] [pointblank/]: 78306 handling client fire request
+[27Dec2024 21:09:38.306] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 15
+[27Dec2024 21:09:38.307] [Server thread/DEBUG] [pointblank/]: 78307 - obtained hit result in 0ms
+[27Dec2024 21:09:38.307] [Server thread/DEBUG] [pointblank/]: 78307 obtained hit results
+[27Dec2024 21:09:38.307] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d39ad92
+[27Dec2024 21:09:38.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.80, y=16.00, z=-8.98] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.80, y=16.00, z=-8.98]
+[27Dec2024 21:09:38.358] [Server thread/DEBUG] [pointblank/]: 78358 handling client fire request
+[27Dec2024 21:09:38.358] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 14
+[27Dec2024 21:09:38.359] [Server thread/DEBUG] [pointblank/]: 78359 - obtained hit result in 0ms
+[27Dec2024 21:09:38.359] [Server thread/DEBUG] [pointblank/]: 78359 obtained hit results
+[27Dec2024 21:09:38.359] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@11f3032d
+[27Dec2024 21:09:38.359] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.83, y=16.00, z=-9.50] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.83, y=16.00, z=-9.50]
+[27Dec2024 21:09:38.451] [Server thread/DEBUG] [pointblank/]: 78451 handling client fire request
+[27Dec2024 21:09:38.452] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 13
+[27Dec2024 21:09:38.452] [Server thread/DEBUG] [pointblank/]: 78452 - obtained hit result in 0ms
+[27Dec2024 21:09:38.452] [Server thread/DEBUG] [pointblank/]: 78452 obtained hit results
+[27Dec2024 21:09:38.452] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@710fd084
+[27Dec2024 21:09:38.452] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.70, y=16.00, z=-9.66] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.70, y=16.00, z=-9.66]
+[27Dec2024 21:09:38.545] [Server thread/DEBUG] [pointblank/]: 78545 handling client fire request
+[27Dec2024 21:09:38.545] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 12
+[27Dec2024 21:09:38.545] [Server thread/DEBUG] [pointblank/]: 78545 - obtained hit result in 0ms
+[27Dec2024 21:09:38.545] [Server thread/DEBUG] [pointblank/]: 78545 obtained hit results
+[27Dec2024 21:09:38.545] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3f88b331
+[27Dec2024 21:09:38.551] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.33, y=16.00, z=-9.54] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-3.33, y=16.00, z=-9.54]
+[27Dec2024 21:09:38.645] [Server thread/DEBUG] [pointblank/]: 78645 handling client fire request
+[27Dec2024 21:09:38.646] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 11
+[27Dec2024 21:09:38.646] [Server thread/DEBUG] [pointblank/]: 78646 - obtained hit result in 0ms
+[27Dec2024 21:09:38.646] [Server thread/DEBUG] [pointblank/]: 78646 obtained hit results
+[27Dec2024 21:09:38.646] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b9a3eab
+[27Dec2024 21:09:38.648] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-2.86, y=16.00, z=-9.33] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=-2.86, y=16.00, z=-9.33]
+[27Dec2024 21:09:39.133] [Server thread/DEBUG] [pointblank/]: 79133 handling client fire request
+[27Dec2024 21:09:39.133] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 10
+[27Dec2024 21:09:39.133] [Server thread/DEBUG] [pointblank/]: 79133 - obtained hit result in 0ms
+[27Dec2024 21:09:39.133] [Server thread/DEBUG] [pointblank/]: 79133 obtained hit results
+[27Dec2024 21:09:39.133] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@39685414
+[27Dec2024 21:09:39.133] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.05, y=16.00, z=-9.53] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.05, y=16.00, z=-9.53]
+[27Dec2024 21:09:39.186] [Server thread/DEBUG] [pointblank/]: 79186 handling client fire request
+[27Dec2024 21:09:39.186] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 9
+[27Dec2024 21:09:39.186] [Server thread/DEBUG] [pointblank/]: 79186 - obtained hit result in 0ms
+[27Dec2024 21:09:39.186] [Server thread/DEBUG] [pointblank/]: 79186 obtained hit results
+[27Dec2024 21:09:39.186] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@287c259b
+[27Dec2024 21:09:39.186] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.33, y=16.00, z=-9.59] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.33, y=16.00, z=-9.59]
+[27Dec2024 21:09:39.283] [Server thread/DEBUG] [pointblank/]: 79283 handling client fire request
+[27Dec2024 21:09:39.283] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 8
+[27Dec2024 21:09:39.283] [Server thread/DEBUG] [pointblank/]: 79283 - obtained hit result in 0ms
+[27Dec2024 21:09:39.283] [Server thread/DEBUG] [pointblank/]: 79283 obtained hit results
+[27Dec2024 21:09:39.283] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@582a1ea5
+[27Dec2024 21:09:39.283] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.91, y=16.00, z=-9.66] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=0.91, y=16.00, z=-9.66]
+[27Dec2024 21:09:39.427] [Server thread/DEBUG] [pointblank/]: 79427 handling client fire request
+[27Dec2024 21:09:39.427] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 7
+[27Dec2024 21:09:39.427] [Server thread/DEBUG] [pointblank/]: 79427 - obtained hit result in 0ms
+[27Dec2024 21:09:39.427] [Server thread/DEBUG] [pointblank/]: 79427 obtained hit results
+[27Dec2024 21:09:39.427] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@771dddc2
+[27Dec2024 21:09:39.428] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=1.51, y=16.00, z=-9.69] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=1.51, y=16.00, z=-9.69]
+[27Dec2024 21:09:39.490] [Server thread/DEBUG] [pointblank/]: 79490 handling client fire request
+[27Dec2024 21:09:39.490] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 6
+[27Dec2024 21:09:39.490] [Server thread/DEBUG] [pointblank/]: 79490 - obtained hit result in 0ms
+[27Dec2024 21:09:39.490] [Server thread/DEBUG] [pointblank/]: 79490 obtained hit results
+[27Dec2024 21:09:39.490] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@111fb5a6
+[27Dec2024 21:09:39.491] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=2.12, y=16.00, z=-9.70] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=2.12, y=16.00, z=-9.70]
+[27Dec2024 21:09:39.580] [Server thread/DEBUG] [pointblank/]: 79580 handling client fire request
+[27Dec2024 21:09:39.580] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 5
+[27Dec2024 21:09:39.580] [Server thread/DEBUG] [pointblank/]: 79580 - obtained hit result in 0ms
+[27Dec2024 21:09:39.580] [Server thread/DEBUG] [pointblank/]: 79580 obtained hit results
+[27Dec2024 21:09:39.580] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@19c84e16
+[27Dec2024 21:09:39.581] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=2.42, y=16.00, z=-9.71] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=2.42, y=16.00, z=-9.71]
+[27Dec2024 21:09:39.638] [Server thread/DEBUG] [pointblank/]: 79638 handling client fire request
+[27Dec2024 21:09:39.638] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 4
+[27Dec2024 21:09:39.638] [Server thread/DEBUG] [pointblank/]: 79638 - obtained hit result in 0ms
+[27Dec2024 21:09:39.638] [Server thread/DEBUG] [pointblank/]: 79638 obtained hit results
+[27Dec2024 21:09:39.638] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@338f55e2
+[27Dec2024 21:09:39.638] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=3.02, y=16.00, z=-9.72] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=3.02, y=16.00, z=-9.72]
+[27Dec2024 21:09:39.727] [Server thread/DEBUG] [pointblank/]: 79727 handling client fire request
+[27Dec2024 21:09:39.727] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 3
+[27Dec2024 21:09:39.728] [Server thread/DEBUG] [pointblank/]: 79728 - obtained hit result in 0ms
+[27Dec2024 21:09:39.728] [Server thread/DEBUG] [pointblank/]: 79728 obtained hit results
+[27Dec2024 21:09:39.728] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@c3393eb
+[27Dec2024 21:09:39.728] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=3.63, y=16.00, z=-9.72] sends hit scan notification to ServerPlayer['Doom_Slayer246'/347, l='ServerLevel[world]', x=3.63, y=16.00, z=-9.72]
+[27Dec2024 21:09:39.911] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 943573382 to 30
