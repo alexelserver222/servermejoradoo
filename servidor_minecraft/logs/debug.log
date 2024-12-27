@@ -17940,3 +17940,51 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [27Dec2024 05:15:35.638] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:infested_prison/infested_prison
 [27Dec2024 05:15:36.967] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_grave/crashed_carriage is being run through DFU (hash cb4c7576283492f43f08b1c9542f9e4c80143b74ac3018d6cf122cbc71b28240), this will cause launch time delays
 [27Dec2024 05:15:37.095] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[27Dec2024 05:15:50.857] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_11 is being run through DFU (hash f934119d96de80f53308cb0f99691eabff577fa45cfeba9a05197047c16e0c57), this will cause launch time delays
+[27Dec2024 05:15:50.995] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[27Dec2024 05:15:52.292] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_2
+[27Dec2024 05:16:00.396] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:16:00.398] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:16:00.545] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:16:26.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:16:26.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:17:22.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2228, y=-5, z=1027} BlockPos{x=-2227, y=-5, z=1027}
+[27Dec2024 05:17:22.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2227, y=-6, z=1027} BlockPos{x=-2227, y=-5, z=1027}
+[27Dec2024 05:17:44.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 05:17:49.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to Doom_Slayer246]
+[27Dec2024 05:19:00.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:00.693] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:00.694] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:00.695] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:08.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 05:19:15.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 05:19:33.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to Doom_Slayer246]
+[27Dec2024 05:19:52.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 05:19:53.134] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:53.134] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:53.134] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:53.135] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:53.135] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:58.808] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[27Dec2024 05:20:04.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 05:20:09.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to Doom_Slayer246]
+[27Dec2024 05:20:16.062] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[27Dec2024 05:20:52.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2264, y=-35, z=994} BlockPos{x=-2264, y=-36, z=994}
+[27Dec2024 05:20:52.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2264, y=-37, z=994} BlockPos{x=-2264, y=-36, z=994}
+[27Dec2024 05:21:08.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Alexten22: Location (-2297.9355174452066, -39.0, 1011.5091689229012) too far away from hit block BlockPos{x=-2298, y=-41, z=1011}.
+[27Dec2024 05:21:08.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Alexten22: Location (-2297.8674421161413, -39.0, 1011.5200505256653) too far away from hit block BlockPos{x=-2298, y=-41, z=1011}.
+[27Dec2024 05:21:09.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Alexten22: Location (-2297.8502484858036, -39.0, 1011.5132639408112) too far away from hit block BlockPos{x=-2298, y=-41, z=1011}.
+[27Dec2024 05:21:26.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:21:26.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:22:44.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 tried to swim in lava
+[27Dec2024 05:22:45.748] [Server thread/DEBUG] [twilightforest/]: Player Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada) respawned and received items held in storage
+[27Dec2024 05:22:51.640] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of shrines:harbour/start
+[27Dec2024 05:22:52.162] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[27Dec2024 05:22:52.176] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[27Dec2024 05:22:52.198] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[27Dec2024 05:23:07.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 05:23:24.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[27Dec2024 05:23:33.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 05:25:10.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:netherrack_spiral/top/netherrack
+[27Dec2024 05:25:10.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith2
+[27Dec2024 05:25:10.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith

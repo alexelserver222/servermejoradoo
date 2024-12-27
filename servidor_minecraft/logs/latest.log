@@ -2910,3 +2910,34 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [27Dec2024 05:14:46.701] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [27Dec2024 05:14:46.701] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [27Dec2024 05:14:46.701] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:16:00.396] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:16:00.398] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:16:00.545] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:17:22.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2228, y=-5, z=1027} BlockPos{x=-2227, y=-5, z=1027}
+[27Dec2024 05:17:22.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2227, y=-6, z=1027} BlockPos{x=-2227, y=-5, z=1027}
+[27Dec2024 05:17:44.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 05:17:49.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to Doom_Slayer246]
+[27Dec2024 05:19:00.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:00.693] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:00.694] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:00.695] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:08.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 05:19:15.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 05:19:33.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to Doom_Slayer246]
+[27Dec2024 05:19:52.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 05:19:53.134] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:53.134] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:53.134] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:53.135] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:19:53.135] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Dec2024 05:20:04.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 05:20:09.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to Doom_Slayer246]
+[27Dec2024 05:20:52.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2264, y=-35, z=994} BlockPos{x=-2264, y=-36, z=994}
+[27Dec2024 05:20:52.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2264, y=-37, z=994} BlockPos{x=-2264, y=-36, z=994}
+[27Dec2024 05:21:08.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Alexten22: Location (-2297.9355174452066, -39.0, 1011.5091689229012) too far away from hit block BlockPos{x=-2298, y=-41, z=1011}.
+[27Dec2024 05:21:08.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Alexten22: Location (-2297.8674421161413, -39.0, 1011.5200505256653) too far away from hit block BlockPos{x=-2298, y=-41, z=1011}.
+[27Dec2024 05:21:09.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Alexten22: Location (-2297.8502484858036, -39.0, 1011.5132639408112) too far away from hit block BlockPos{x=-2298, y=-41, z=1011}.
+[27Dec2024 05:22:44.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 tried to swim in lava
+[27Dec2024 05:23:07.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 05:23:24.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[27Dec2024 05:23:33.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
