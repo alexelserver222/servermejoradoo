@@ -17608,6 +17608,7 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "bellpepper_seed": "2024-12-27 21:54:45 +0000",
       "kiwi_seed": "2024-12-11 03:15:33 +0000",
       "soybean_seed": "2024-12-11 03:15:18 +0000",
       "barley_seed": "2024-12-11 03:17:15 +0000",
@@ -17624,6 +17625,7 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "bellpepper_seed": "2024-12-27 21:54:45 +0000",
       "corn_seed": "2024-12-11 03:17:15 +0000",
       "mustard_seed": "2024-12-11 03:17:12 +0000",
       "barley_seed": "2024-12-11 03:17:15 +0000",
@@ -21921,6 +21923,24 @@
     },
     "done": true
   },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2024-12-27 21:54:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2024-12-27 21:54:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2024-12-27 21:54:45 +0000"
+    },
+    "done": true
+  },
   "goety:goety/craft_totem_roots": {
     "criteria": {
       "totem_of_roots": "2024-12-27 20:41:11 +0000"
@@ -21930,6 +21950,18 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
     "criteria": {
       "has_upgrade_base": "2024-12-27 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/siren": {
+    "criteria": {
+      "kill": "2024-12-27 21:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2024-12-27 21:49:41 +0000"
     },
     "done": true
   },
