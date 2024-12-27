@@ -11644,6 +11644,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-27 22:58:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/buttered_toast": {
     "criteria": {
       "has_toast": "2024-12-27 22:37:00 +0000"
