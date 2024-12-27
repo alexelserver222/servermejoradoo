@@ -21921,5 +21921,11 @@
     },
     "done": true
   },
+  "goety:goety/craft_totem_roots": {
+    "criteria": {
+      "totem_of_roots": "2024-12-27 20:41:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

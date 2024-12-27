@@ -2405,3 +2405,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 20:36:27.907] [Server thread/INFO] [Jade/]: Syncing config to Luisitoazp10 (63de8617-dcc2-36c2-94db-9c0f02f4a930)
 [27Dec2024 20:36:27.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved too quickly! 4.638042708558304,0.0,-8.861984733973262
 [27Dec2024 20:36:27.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4385ms or 87 ticks behind
+[27Dec2024 20:39:15.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=62, z=-20} BlockPos{x=10, y=62, z=-21}
+[27Dec2024 20:39:15.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=62, z=-20} BlockPos{x=9, y=62, z=-21}
+[27Dec2024 20:39:24.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luisitoazp10 lost connection: Disconnected
+[27Dec2024 20:39:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 left the game
+[27Dec2024 20:40:15.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luisitoazp10[/127.218.94.246:37291] logged in with entity id 2371 at (9.003784906297131, 63.0, -21.046804446351544)
+[27Dec2024 20:40:17.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisitoazp10 joined the game
+[27Dec2024 20:40:17.107] [Server thread/INFO] [Jade/]: Syncing config to Luisitoazp10 (63de8617-dcc2-36c2-94db-9c0f02f4a930)
+[27Dec2024 20:40:45.147] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[27Dec2024 20:40:45.148] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[27Dec2024 20:40:45.148] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[27Dec2024 20:41:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 has made the advancement [Starter Kit]
+[27Dec2024 20:42:18.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 20:44:20.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 20:45:48.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[27Dec2024 20:46:03.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 20:46:14.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 20:46:18.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 20:47:13.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 20:48:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[27Dec2024 20:48:13.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
