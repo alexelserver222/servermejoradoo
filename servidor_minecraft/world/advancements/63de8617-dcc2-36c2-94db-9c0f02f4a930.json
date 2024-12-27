@@ -12695,6 +12695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-27 22:05:41 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/blackstone/pillar": {
     "criteria": {
       "has_item": "2024-12-27 21:45:07 +0000"
@@ -12704,6 +12710,12 @@
   "aether:bronze_dungeon": {
     "criteria": {
       "kill_slider": "2024-12-27 20:59:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:06:23 +0000"
     },
     "done": true
   },
@@ -12722,6 +12734,12 @@
   "aether:recipes/building_blocks/aerogel_slab_from_aerogel_stonecutting": {
     "criteria": {
       "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2024-12-27 22:07:29 +0000"
     },
     "done": true
   },
@@ -12785,6 +12803,24 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2024-12-27 22:10:27 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_leggings_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/aerogel_wall": {
     "criteria": {
       "has_aerogel": "2024-12-27 20:59:57 +0000"
@@ -12794,6 +12830,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-12-27 22:07:29 +0000"
     },
     "done": true
   },
@@ -12809,6 +12851,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/sterling_boots_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/blackstone/twisting": {
     "criteria": {
       "has_item": "2024-12-27 21:41:14 +0000"
@@ -12818,6 +12866,24 @@
   "netherexp:recipes/blackstone/fence": {
     "criteria": {
       "has_item": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2024-12-27 22:05:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_helmet_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
     },
     "done": true
   },

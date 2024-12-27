@@ -3909,7 +3909,8 @@
       "pine_log": "2024-11-06 02:07:59 +0000",
       "silver_birch_log": "2024-10-27 22:02:44 +0000",
       "cypress_log": "2024-11-09 03:59:41 +0000",
-      "maple_log": "2024-10-27 07:35:52 +0000"
+      "maple_log": "2024-10-27 07:35:52 +0000",
+      "socotra_log": "2024-12-27 21:58:45 +0000"
     },
     "done": false
   },
@@ -18860,6 +18861,96 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2024-12-27 04:35:29 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_heretic": {
+    "criteria": {
+      "kill_a_warlock": "2024-12-27 21:58:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:this_tree_bleeds_red": {
+    "criteria": {
+      "socotra_log": "2024-12-27 21:58:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 21:58:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/socotra_branch_from_socotra_log": {
+    "criteria": {
+      "has_log": "2024-12-27 21:58:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 21:58:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/socotra_shrub": {
+    "criteria": {
+      "has_socotra_sapling": "2024-12-27 21:58:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/socotra_trapdoor": {
+    "criteria": {
+      "has_socotra_planks": "2024-12-27 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/socotra_fence": {
+    "criteria": {
+      "has_socotra_planks": "2024-12-27 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/socotra_door": {
+    "criteria": {
+      "has_socotra_planks": "2024-12-27 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_slab": {
+    "criteria": {
+      "has_socotra_planks": "2024-12-27 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/socotra_pressure_plate": {
+    "criteria": {
+      "has_socotra_planks": "2024-12-27 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/socotra_fence_gate": {
+    "criteria": {
+      "has_socotra_planks": "2024-12-27 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/socotra_sign": {
+    "criteria": {
+      "has_socotra_planks": "2024-12-27 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_stairs": {
+    "criteria": {
+      "has_socotra_planks": "2024-12-27 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/socotra_button": {
+    "criteria": {
+      "has_socotra_planks": "2024-12-27 21:59:52 +0000"
     },
     "done": true
   },
