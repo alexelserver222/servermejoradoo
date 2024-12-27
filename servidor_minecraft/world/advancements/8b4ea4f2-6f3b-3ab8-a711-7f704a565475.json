@@ -493,6 +493,7 @@
       "autumnal_maple_forest": "2024-12-13 00:51:10 +0000",
       "frozen_tundra": "2024-12-13 00:26:16 +0000",
       "blackwood_taiga": "2024-12-14 00:52:59 +0000",
+      "rocky_meadow": "2024-12-27 23:24:52 +0000",
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
@@ -508,6 +509,7 @@
       "autumnal_maple_forest": "2024-12-13 00:51:10 +0000",
       "frozen_tundra": "2024-12-13 00:26:16 +0000",
       "blackwood_taiga": "2024-12-14 00:52:59 +0000",
+      "rocky_meadow": "2024-12-27 23:24:52 +0000",
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
@@ -11596,9 +11598,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/glacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
     },
     "done": true
   },
@@ -11617,6 +11631,12 @@
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-27 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-27 23:20:11 +0000"
     },
     "done": true
   },
@@ -11656,9 +11676,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/butter": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 23:20:32 +0000"
     },
     "done": true
   },
@@ -11671,6 +11703,12 @@
   "croptopia:recipes/misc/orange_sapling": {
     "criteria": {
       "has_orange": "2024-12-27 23:13:47 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/chocolate": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 23:20:11 +0000"
     },
     "done": true
   },
@@ -11770,6 +11808,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
@@ -11794,6 +11838,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
     "criteria": {
       "has_small_yellow_industrial_lamp": "2024-12-27 23:11:55 +0000"
@@ -11812,6 +11862,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-27 23:11:55 +0000"
@@ -11827,6 +11883,18 @@
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/cheese": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-27 23:20:11 +0000"
     },
     "done": true
   },
@@ -11857,6 +11925,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
     "criteria": {
       "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-27 23:20:11 +0000"
     },
     "done": true
   },
@@ -11929,6 +12003,24 @@
   "regions_unexplored:recipes/transportation/socotra_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-27 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-12-27 23:26:10 +0000"
     },
     "done": true
   },
@@ -12046,6 +12138,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/hot_cocoa": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 23:20:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
     "criteria": {
       "has_yellow_dye": "2024-12-27 23:11:55 +0000"
@@ -12058,9 +12162,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_toilet": {
     "criteria": {
       "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2024-12-27 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
     },
     "done": true
   },

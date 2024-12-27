@@ -3145,3 +3145,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 23:21:27.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
 [27Dec2024 23:21:28.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
 [27Dec2024 23:22:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 23:23:05.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[27Dec2024 23:23:08.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=65, z=-7} BlockPos{x=52, y=69, z=-33}
+[27Dec2024 23:23:09.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[27Dec2024 23:25:43.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=67, z=-25} BlockPos{x=49, y=69, z=-28}
+[27Dec2024 23:25:44.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=67, z=-25} BlockPos{x=51, y=69, z=-28}
+[27Dec2024 23:26:10.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has completed the challenge [My Bald Satanic Goth Girl Friend]
+[27Dec2024 23:26:10.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 has made the advancement [First big catch of the month!]
+[27Dec2024 23:26:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ???
+[27Dec2024 23:27:33.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[27Dec2024 23:28:46.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=68, z=-15} BlockPos{x=52, y=69, z=-15}
