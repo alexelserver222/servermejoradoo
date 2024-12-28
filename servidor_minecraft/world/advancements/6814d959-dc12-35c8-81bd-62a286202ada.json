@@ -17468,6 +17468,7 @@
       "time_wood": "2024-12-18 03:40:38 +0000",
       "twilight_oak_log": "2024-12-27 03:07:41 +0000",
       "twilight_oak_sapling": "2024-12-27 03:07:41 +0000",
+      "time_planks": "2024-12-28 01:27:46 +0000",
       "canopy_log": "2024-12-27 03:10:48 +0000"
     },
     "done": false
@@ -21923,15 +21924,57 @@
     },
     "done": true
   },
+  "goety:goety/craft_totem_roots": {
+    "criteria": {
+      "totem_of_roots": "2024-12-27 20:41:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-27 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2024-12-27 21:49:41 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fajitas": {
     "criteria": {
       "has_bellpepper": "2024-12-27 21:54:45 +0000"
     },
     "done": true
   },
-  "ad_astra:recipes/misc/iron_pillar": {
+  "croptopia:recipes/shaped_ajvar": {
     "criteria": {
-      "has_iron_pillar": "2024-12-27 23:07:12 +0000"
+      "has_bellpepper": "2024-12-27 21:54:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2024-12-27 21:54:45 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/siren": {
+    "criteria": {
+      "kill": "2024-12-27 21:56:45 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/sentry_ring": {
+    "criteria": {
+      "has_sentry_chip": "2024-12-27 22:36:26 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/runelight": {
+    "criteria": {
+      "has_sentry_chip": "2024-12-27 22:36:26 +0000"
     },
     "done": true
   },
@@ -21983,18 +22026,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/iron_plating_button": {
-    "criteria": {
-      "has_iron_plating_button": "2024-12-27 23:07:12 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_ajvar": {
-    "criteria": {
-      "has_bellpepper": "2024-12-27 21:54:45 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/steel_plating": {
     "criteria": {
       "has_steel_plating": "2024-12-27 23:03:21 +0000"
@@ -22013,12 +22044,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/iron_plating_stairs": {
-    "criteria": {
-      "has_iron_plating_stairs": "2024-12-27 23:07:12 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/space_boots": {
     "criteria": {
       "has_space_boots": "2024-12-27 23:03:21 +0000"
@@ -22031,18 +22056,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/iron_plating_pressure_plate": {
-    "criteria": {
-      "has_iron_plating_pressure_plate": "2024-12-27 23:07:12 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/bellpepper_seed": {
-    "criteria": {
-      "has_bellpepper": "2024-12-27 21:54:45 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/large_gas_tank": {
     "criteria": {
       "has_large_gas_tank": "2024-12-27 23:03:21 +0000"
@@ -22052,12 +22065,6 @@
   "ad_astra:recipes/misc/launch_pad": {
     "criteria": {
       "has_launch_pad": "2024-12-27 23:03:21 +0000"
-    },
-    "done": true
-  },
-  "goety:goety/craft_totem_roots": {
-    "criteria": {
-      "totem_of_roots": "2024-12-27 20:41:11 +0000"
     },
     "done": true
   },
@@ -22085,18 +22092,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/iron_plating_slab": {
-    "criteria": {
-      "has_iron_plating_slab": "2024-12-27 23:07:12 +0000"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/combat/sentry_ring": {
-    "criteria": {
-      "has_sentry_chip": "2024-12-27 22:36:26 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/steel_tank": {
     "criteria": {
       "has_steel_tank": "2024-12-27 23:03:21 +0000"
@@ -22106,12 +22101,6 @@
   "ad_astra:recipes/misc/steel_panel": {
     "criteria": {
       "has_steel_panel": "2024-12-27 23:03:21 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-27 21:37:41 +0000"
     },
     "done": true
   },
@@ -22139,12 +22128,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/iron_sliding_door": {
-    "criteria": {
-      "has_iron_sliding_door": "2024-12-27 23:07:12 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/steel_trapdoor": {
     "criteria": {
       "has_steel_trapdoor": "2024-12-27 23:03:21 +0000"
@@ -22166,18 +22149,6 @@
   "ad_astra:recipes/misc/reinforced_door": {
     "criteria": {
       "has_reinforced_door": "2024-12-27 23:03:21 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/siren": {
-    "criteria": {
-      "kill": "2024-12-27 21:56:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/turtle_helmet": {
-    "criteria": {
-      "has_scute": "2024-12-27 21:49:41 +0000"
     },
     "done": true
   },
@@ -22211,15 +22182,117 @@
     },
     "done": true
   },
-  "aether_redux:recipes/building_blocks/runelight": {
-    "criteria": {
-      "has_sentry_chip": "2024-12-27 22:36:26 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/engine_frame": {
     "criteria": {
       "has_engine_frame": "2024-12-27 23:03:21 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_pillar": {
+    "criteria": {
+      "has_iron_pillar": "2024-12-27 23:07:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_button": {
+    "criteria": {
+      "has_iron_plating_button": "2024-12-27 23:07:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_stairs": {
+    "criteria": {
+      "has_iron_plating_stairs": "2024-12-27 23:07:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_pressure_plate": {
+    "criteria": {
+      "has_iron_plating_pressure_plate": "2024-12-27 23:07:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating_slab": {
+    "criteria": {
+      "has_iron_plating_slab": "2024-12-27 23:07:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_sliding_door": {
+    "criteria": {
+      "has_iron_sliding_door": "2024-12-27 23:07:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/divine": {
+    "criteria": {
+      "has_item": "2024-12-28 00:48:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/time_plate": {
+    "criteria": {
+      "has_item": "2024-12-28 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/time_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-28 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/time_door": {
+    "criteria": {
+      "has_item": "2024-12-28 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/time_stairs": {
+    "criteria": {
+      "has_item": "2024-12-28 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/time_button": {
+    "criteria": {
+      "has_item": "2024-12-28 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/time_chest": {
+    "criteria": {
+      "has_item": "2024-12-28 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/time_fence": {
+    "criteria": {
+      "has_item": "2024-12-28 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/time_sign": {
+    "criteria": {
+      "has_item": "2024-12-28 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/time_gate": {
+    "criteria": {
+      "has_item": "2024-12-28 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/time_slab": {
+    "criteria": {
+      "has_item": "2024-12-28 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-12-28 01:27:58 +0000"
     },
     "done": true
   },

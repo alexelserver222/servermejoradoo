@@ -180,6 +180,7 @@
       "minecraft:taiga": "2024-12-24 02:17:36 +0000",
       "minecraft:frozen_river": "2024-12-14 20:07:22 +0000",
       "minecraft:sunflower_plains": "2024-12-24 02:55:36 +0000",
+      "minecraft:cherry_grove": "2024-12-28 00:41:44 +0000",
       "minecraft:birch_forest": "2024-12-13 00:56:10 +0000",
       "minecraft:beach": "2024-12-14 00:52:46 +0000",
       "minecraft:dark_forest": "2024-12-13 21:36:15 +0000",
@@ -497,6 +498,7 @@
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
+      "pine_slopes": "2024-12-28 00:44:07 +0000",
       "golden_boreal_taiga": "2024-12-14 01:36:11 +0000",
       "lupine_plains": "2024-12-24 01:33:16 +0000"
     },
@@ -513,6 +515,7 @@
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
+      "pine_slopes": "2024-12-28 00:44:07 +0000",
       "golden_boreal_taiga": "2024-12-14 01:36:11 +0000",
       "lupine_plains": "2024-12-24 01:33:16 +0000"
     },
@@ -922,7 +925,10 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "larch_log": "2024-12-28 00:46:09 +0000",
+      "baobab_log": "2024-12-28 00:47:07 +0000",
       "pine_log": "2024-12-13 00:52:08 +0000",
+      "cypress_log": "2024-12-28 00:46:09 +0000",
       "maple_log": "2024-12-13 00:51:49 +0000"
     },
     "done": false
@@ -3340,6 +3346,8 @@
       "minecraft:skeleton": "2024-12-13 01:07:47 +0000",
       "minecraft:vindicator": "2024-12-14 01:25:38 +0000",
       "minecraft:spider": "2024-12-13 01:04:51 +0000",
+      "minecraft:creeper": "2024-12-28 00:23:25 +0000",
+      "minecraft:zombified_piglin": "2024-12-28 02:23:47 +0000",
       "minecraft:witch": "2024-12-20 05:10:14 +0000",
       "minecraft:cave_spider": "2024-12-14 00:58:44 +0000",
       "minecraft:zombie": "2024-12-13 01:08:22 +0000",
@@ -8554,7 +8562,9 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2024-12-14 21:05:14 +0000",
-      "twilight_oak_log": "2024-12-14 21:05:06 +0000"
+      "time_sapling": "2024-12-28 00:46:04 +0000",
+      "twilight_oak_log": "2024-12-14 21:05:06 +0000",
+      "transformation_wood": "2024-12-28 00:47:07 +0000"
     },
     "done": false
   },
@@ -9256,7 +9266,9 @@
   },
   "croptopia:gather_tree_all": {
     "criteria": {
-      "avocado_sapling": "2024-12-17 09:03:54 +0000"
+      "avocado_sapling": "2024-12-17 09:03:54 +0000",
+      "almond_sapling": "2024-12-28 00:45:29 +0000",
+      "walnut_sapling": "2024-12-28 00:45:27 +0000"
     },
     "done": false
   },
@@ -11562,12 +11574,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
   "ancient_aether:recipes/transportation/sakura_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
@@ -11586,33 +11592,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/doughnut": {
-    "criteria": {
-      "has_milk": "2024-12-27 23:20:32 +0000"
-    },
-    "done": true
-  },
   "aether_redux:recipes/transportation/glacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/oatmeal": {
-    "criteria": {
-      "has_milk": "2024-12-27 23:20:32 +0000"
     },
     "done": true
   },
@@ -11628,27 +11616,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-27 23:17:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-27 23:20:11 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/croptopia_cooking/peach_jam": {
-    "criteria": {
-      "has_the_recipe": "2024-12-27 23:14:38 +0000"
     },
     "done": true
   },
@@ -11658,39 +11628,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_milk_bottle": {
-    "criteria": {
-      "has_milk": "2024-12-27 23:20:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/croptopia_cooking/butter": {
-    "criteria": {
-      "has_the_recipe": "2024-12-27 23:20:32 +0000"
     },
     "done": true
   },
@@ -11700,27 +11640,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/orange_sapling": {
-    "criteria": {
-      "has_orange": "2024-12-27 23:13:47 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/croptopia_cooking/chocolate": {
-    "criteria": {
-      "has_the_recipe": "2024-12-27 23:20:11 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2024-12-27 23:17:10 +0000"
     },
     "done": true
   },
@@ -11736,81 +11658,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2024-12-27 23:17:10 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/oak_shrub": {
-    "criteria": {
-      "has_oak_sapling": "2024-12-27 22:58:42 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/buttered_toast": {
-    "criteria": {
-      "has_toast": "2024-12-27 22:37:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/yellow_industrial_lamp": {
-    "criteria": {
-      "has_yellow_industrial_lamp": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-27 23:17:12 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2024-12-27 23:08:50 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/crema": {
-    "criteria": {
-      "has_milk": "2024-12-27 23:20:32 +0000"
     },
     "done": true
   },
@@ -11838,39 +11688,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/butter": {
-    "criteria": {
-      "has_milk": "2024-12-27 23:20:32 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
-    "criteria": {
-      "has_small_yellow_industrial_lamp": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
   "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/churros": {
-    "criteria": {
-      "has_milk": "2024-12-27 23:20:32 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
     },
     "done": true
   },
@@ -11886,27 +11706,9 @@
     },
     "done": true
   },
-  "farmerscroptopia:recipes/croptopia_cooking/cheese": {
-    "criteria": {
-      "has_the_recipe": "2024-12-27 23:20:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-27 23:20:11 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
-    "criteria": {
-      "has_honeycomb_block": "2024-12-27 23:09:16 +0000"
     },
     "done": true
   },
@@ -11916,39 +11718,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-12-27 23:20:11 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2024-12-27 23:17:10 +0000"
     },
     "done": true
   },
@@ -11964,12 +11736,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
@@ -11982,21 +11748,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
     },
     "done": true
   },
@@ -12006,51 +11760,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2024-12-27 23:20:32 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/chocolate": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-27 23:20:11 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:defeatundeadbosses": {
-    "criteria": {
-      "defeatundeadbosses_0": "2024-12-27 23:26:10 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat_0": "2024-12-27 23:11:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
     },
     "done": true
   },
@@ -12066,33 +11784,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/peach_sapling": {
-    "criteria": {
-      "has_peach": "2024-12-27 23:14:38 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/toast_with_jam": {
-    "criteria": {
-      "has_toast": "2024-12-27 22:37:00 +0000"
-    },
-    "done": true
-  },
   "ancient_aether:recipes/transportation/highsproot_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/peach_jam": {
-    "criteria": {
-      "has_peach": "2024-12-27 23:14:38 +0000"
     },
     "done": true
   },
@@ -12108,21 +11802,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bypassingthe_expiration_date": {
-    "criteria": {
-      "bypassingthe_expiration_date_0": "2024-12-27 23:05:16 +0000"
     },
     "done": true
   },
@@ -12138,51 +11820,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/mashed_potatoes": {
-    "criteria": {
-      "has_milk": "2024-12-27 23:20:32 +0000"
-    },
-    "done": true
-  },
-  "farmerscroptopia:recipes/farmersdelight_crafting/hot_cocoa": {
-    "criteria": {
-      "has_the_recipe": "2024-12-27 23:20:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
   "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-27 22:32:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/cheese": {
-    "criteria": {
-      "has_milk": "2024-12-27 23:20:32 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_toilet": {
-    "criteria": {
-      "has_dye": "2024-12-27 23:11:55 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:mygothgf": {
-    "criteria": {
-      "mygothgf_0": "2024-12-27 23:26:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/cheese": {
-    "criteria": {
-      "has_milk": "2024-12-27 23:20:32 +0000"
     },
     "done": true
   },
@@ -12192,9 +11832,749 @@
     },
     "done": true
   },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2024-12-27 22:37:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2024-12-27 22:37:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-27 22:58:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-12-27 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-27 23:08:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2024-12-27 23:09:16 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2024-12-27 23:11:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_dye": "2024-12-27 23:11:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2024-12-27 23:13:47 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/orange_juice": {
     "criteria": {
       "has_orange": "2024-12-27 23:13:47 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/peach_jam": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 23:14:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2024-12-27 23:14:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2024-12-27 23:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-27 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-27 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-27 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-27 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-27 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-27 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/chocolate": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-27 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-27 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-27 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/hot_cocoa": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/butter": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/cheese": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_milk": "2024-12-27 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-12-27 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2024-12-27 23:26:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-28 00:26:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2024-12-28 00:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-28 00:34:31 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/nine_tails": {
+    "criteria": {
+      "kill": "2024-12-28 00:35:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2024-12-28 00:45:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_tree_dark_forest": {
+    "criteria": {
+      "walnut_sapling": "2024-12-28 00:45:27 +0000",
+      "almond_sapling": "2024-12-28 00:45:29 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/ashen_shrub": {
+    "criteria": {
+      "has_ashen_sapling": "2024-12-28 00:45:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 00:45:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mangrove_shrub": {
+    "criteria": {
+      "has_mangrove_propagule": "2024-12-28 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/flowering_shrub": {
+    "criteria": {
+      "has_flowering_sapling": "2024-12-28 00:45:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dead_pine_shrub": {
+    "criteria": {
+      "has_dead_pine_sapling": "2024-12-28 00:45:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/joshua_shrub": {
+    "criteria": {
+      "has_joshua_sapling": "2024-12-28 00:46:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 00:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cypress_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 00:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2024-12-28 00:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cypress_branch_from_cypress_log": {
+    "criteria": {
+      "has_log": "2024-12-28 00:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 00:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cypress_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 00:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 00:46:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/kapok_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 00:46:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/kapok_shrub": {
+    "criteria": {
+      "has_kapok_sapling": "2024-12-28 00:47:02 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/building_blocks/stripped_sakura_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 00:47:06 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/building_blocks/sakura_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 00:47:06 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/decorations/sakura_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-28 00:47:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/transformation_planks": {
+    "criteria": {
+      "has_item": "2024-12-28 00:47:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 00:47:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/baobab_branch_from_baobab_log": {
+    "criteria": {
+      "has_log": "2024-12-28 00:47:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 00:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-28 00:47:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2024-12-28 00:54:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/glacian_planks": {
+    "criteria": {
+      "has_glacian_planks": "2024-12-28 01:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-28 01:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-28 01:33:31 +0000"
+    },
+    "done": true
+  },
+  "infinite_abyss:firey_depths": {
+    "criteria": {
+      "firey_depths": "2024-12-28 01:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-28 01:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-28 01:33:32 +0000",
+      "minecraft:warped_forest": "2024-12-28 02:22:28 +0000"
+    },
+    "done": false
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2024-12-28 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-28 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-28 01:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 01:39:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2024-12-28 01:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 01:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 01:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 01:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 01:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 01:39:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2024-12-28 01:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 01:39:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ivy/twisting_ivy": {
+    "criteria": {
+      "has_item": "2024-12-28 01:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-28 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-28 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-28 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "terramity:stone_mask_advancement": {
+    "criteria": {
+      "stone_mask_advancement_0": "2024-12-28 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_piece_of_otherworld": {
+    "criteria": {
+      "criteria": "2024-12-28 02:22:28 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2024-12-28 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2024-12-28 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-28 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2024-12-28 02:48:43 +0000"
     },
     "done": true
   },
