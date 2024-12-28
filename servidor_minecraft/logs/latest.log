@@ -2830,3 +2830,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 03:15:22.945] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, -28], pos: MutableBlockPos{x=323, y=66, z=-447}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
 [28Dec2024 03:15:22.957] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [21, -32], pos: MutableBlockPos{x=339, y=89, z=-498}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [28Dec2024 03:15:23.197] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[28Dec2024 03:16:56.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 lost connection: Disconnected
+[28Dec2024 03:16:56.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
+[28Dec2024 03:21:34.627] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
