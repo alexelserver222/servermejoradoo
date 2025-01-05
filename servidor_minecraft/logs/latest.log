@@ -2415,3 +2415,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 22:02:19.508] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
 [05Jan2025 22:02:47.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 lost connection: Timed out
 [05Jan2025 22:02:47.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 left the game
+[05Jan2025 22:06:00.627] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d41d73[id=<null>,name=Doom_Slayer246,properties={},legacy=false] (/127.252.35.23:45873) lost connection: Disconnected
+[05Jan2025 22:06:09.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:38821] logged in with entity id 880 at (-174.18951807900586, 62.67327738537039, 47.2519697661622)
+[05Jan2025 22:06:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[05Jan2025 22:06:11.602] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[05Jan2025 22:06:12.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[05Jan2025 22:06:13.040] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[05Jan2025 22:06:13.041] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[05Jan2025 22:06:13.041] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[05Jan2025 22:06:39.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 lost connection: Timed out
+[05Jan2025 22:06:39.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 left the game
+[05Jan2025 22:07:53.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:60897] logged in with entity id 1034 at (-174.18951807900586, 62.67327738537039, 47.2519697661622)
+[05Jan2025 22:07:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[05Jan2025 22:07:55.703] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[05Jan2025 22:08:24.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 lost connection: Timed out
+[05Jan2025 22:08:24.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 left the game
+[05Jan2025 22:10:29.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:40275] logged in with entity id 1184 at (-174.18951807900586, 62.67327738537039, 47.2519697661622)
+[05Jan2025 22:10:30.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[05Jan2025 22:10:30.645] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[05Jan2025 22:10:59.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 lost connection: Timed out
+[05Jan2025 22:10:59.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 left the game
+[05Jan2025 22:12:34.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:46141] logged in with entity id 1334 at (-174.18951807900586, 62.67327738537039, 47.2519697661622)
+[05Jan2025 22:12:36.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[05Jan2025 22:12:36.107] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[05Jan2025 22:13:04.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 lost connection: Timed out
+[05Jan2025 22:13:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 left the game
