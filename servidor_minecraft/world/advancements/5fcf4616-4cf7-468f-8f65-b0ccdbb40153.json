@@ -137,8 +137,10 @@
       "autumnal_maple_forest": "2024-10-27 00:39:23 -0500",
       "frozen_tundra": "2024-11-27 19:01:17 -0500",
       "blackwood_taiga": "2024-11-27 19:00:18 -0500",
+      "mycotoxic_undergrowth": "2024-12-28 00:23:26 -0500",
       "ochard": "2024-10-26 19:43:17 -0500",
       "frozen_pine_taiga": "2024-12-10 21:02:27 -0500",
+      "blackstone_basin": "2024-12-28 00:23:45 -0500",
       "cold_river": "2024-10-26 19:47:57 -0500",
       "gravel_beach": "2024-10-26 19:47:32 -0500",
       "golden_boreal_taiga": "2024-11-27 19:00:20 -0500"
@@ -239,6 +241,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombified_piglin": "2024-12-28 00:25:35 -0500",
+      "minecraft:wither_skeleton": "2024-12-28 00:28:26 -0500",
       "minecraft:zombie": "2024-10-26 19:46:14 -0500"
     },
     "done": false
@@ -3632,12 +3636,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-12-27 18:56:19 -0500"
-    },
-    "done": false
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-27 18:56:18 -0500"
@@ -3653,6 +3651,128 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-27 18:56:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-28 00:22:37 -0500",
+      "minecraft:nether_wastes": "2024-12-27 18:56:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-28 00:19:48 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2024-12-28 00:23:26 -0500",
+      "blackstone_basin": "2024-12-28 00:23:45 -0500"
+    },
+    "done": false
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-28 00:24:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-28 00:25:35 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-28 00:25:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-28 00:25:35 -0500"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-12-28 00:27:25 -0500"
+    },
+    "done": true
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2024-12-28 00:27:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-28 00:27:40 -0500"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2024-12-28 00:28:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-28 00:28:32 -0500"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/bone_broth": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 00:28:33 -0500"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2024-12-28 00:28:33 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-28 00:28:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-28 00:28:33 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-28 00:28:33 -0500"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2024-12-28 00:28:33 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-28 00:28:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-28 00:31:22 -0500"
     },
     "done": true
   },

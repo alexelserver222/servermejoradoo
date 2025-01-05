@@ -9306,10 +9306,11 @@
     "criteria": {
       "charm_collector_1": "2024-11-06 04:22:09 +0000",
       "charm_collector_0": "2024-11-09 04:31:07 +0000",
+      "charm_collector_4": "2025-01-04 04:07:59 +0000",
       "charm_collector_3": "2024-12-20 02:28:07 +0000",
       "charm_collector_2": "2024-12-20 02:28:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "enemyexpansion:wasp_drone_summon": {
     "criteria": {
@@ -19116,21 +19117,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+  "netherexp:recipes/geysers/basaltic": {
     "criteria": {
-      "has_glistering_nylium": "2024-12-28 03:13:43 +0000"
+      "has_item": "2024-12-28 03:05:16 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-28 03:08:18 +0000"
-    },
-    "done": true
-  },
-  "croptopia:knife": {
-    "criteria": {
-      "knife": "2024-12-28 03:08:20 +0000"
     },
     "done": true
   },
@@ -19143,12 +19138,6 @@
   "galosphere:recipes/combat/sterling_leggings_smithing": {
     "criteria": {
       "has_silver_ingot": "2024-12-28 03:08:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "diamond_knife": "2024-12-28 03:08:20 +0000"
     },
     "done": true
   },
@@ -19170,9 +19159,423 @@
     },
     "done": true
   },
-  "netherexp:recipes/geysers/basaltic": {
+  "croptopia:knife": {
     "criteria": {
-      "has_item": "2024-12-28 03:05:16 +0000"
+      "knife": "2024-12-28 03:08:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-12-28 03:08:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_glistering_nylium": "2024-12-28 03:13:43 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-04 02:36:41 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-01-04 02:47:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-01-04 02:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-01-04 02:52:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-01-04 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_cherry_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-01-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/cherry_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-01-04 04:13:05 +0000"
     },
     "done": true
   },

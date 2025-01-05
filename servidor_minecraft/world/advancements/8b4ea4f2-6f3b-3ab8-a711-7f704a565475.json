@@ -186,6 +186,7 @@
       "minecraft:dark_forest": "2024-12-13 21:36:15 +0000",
       "minecraft:river": "2024-12-14 00:51:26 +0000",
       "minecraft:stony_shore": "2024-12-13 00:22:53 +0000",
+      "minecraft:snowy_plains": "2025-01-04 04:37:29 +0000",
       "minecraft:jagged_peaks": "2024-12-24 02:40:16 +0000",
       "minecraft:cold_ocean": "2024-12-24 02:26:36 +0000",
       "minecraft:lush_caves": "2024-12-14 01:49:18 +0000",
@@ -195,6 +196,7 @@
       "minecraft:frozen_peaks": "2024-12-24 03:05:31 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-14 02:43:35 +0000",
       "minecraft:deep_dark": "2024-12-14 21:19:58 +0000",
+      "minecraft:meadow": "2025-01-04 04:37:01 +0000",
       "minecraft:plains": "2024-12-24 02:55:32 +0000"
     },
     "done": false
@@ -498,6 +500,7 @@
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
+      "pumpkin_fields": "2025-01-04 04:35:36 +0000",
       "pine_slopes": "2024-12-28 00:44:07 +0000",
       "golden_boreal_taiga": "2024-12-14 01:36:11 +0000",
       "lupine_plains": "2024-12-24 01:33:16 +0000"
@@ -515,6 +518,7 @@
       "highland_fields": "2024-12-24 01:32:04 +0000",
       "frozen_pine_taiga": "2024-12-13 00:51:44 +0000",
       "mountains": "2024-12-24 02:40:24 +0000",
+      "pumpkin_fields": "2025-01-04 04:35:36 +0000",
       "pine_slopes": "2024-12-28 00:44:07 +0000",
       "golden_boreal_taiga": "2024-12-14 01:36:11 +0000",
       "lupine_plains": "2024-12-24 01:33:16 +0000"
@@ -618,6 +622,7 @@
       "sweet_berries": "2024-12-18 01:52:28 +0000",
       "cooked_beef": "2024-12-13 01:14:22 +0000",
       "beef": "2024-12-24 02:50:45 +0000",
+      "baked_potato": "2025-01-04 02:28:25 +0000",
       "apple": "2024-12-13 01:01:42 +0000",
       "potato": "2024-12-14 19:13:42 +0000",
       "cooked_cod": "2024-12-24 02:39:20 +0000",
@@ -3349,6 +3354,7 @@
       "minecraft:creeper": "2024-12-28 00:23:25 +0000",
       "minecraft:zombified_piglin": "2024-12-28 02:23:47 +0000",
       "minecraft:witch": "2024-12-20 05:10:14 +0000",
+      "minecraft:husk": "2025-01-04 04:39:05 +0000",
       "minecraft:cave_spider": "2024-12-14 00:58:44 +0000",
       "minecraft:zombie": "2024-12-13 01:08:22 +0000",
       "minecraft:zombie_villager": "2024-12-20 02:26:31 +0000"
@@ -12575,6 +12581,30 @@
   "netherexp:recipes/basalt/wall": {
     "criteria": {
       "has_item": "2024-12-28 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-01-04 04:21:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-01-04 04:38:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-04 04:38:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-01-04 04:00:08 +0000"
     },
     "done": true
   },
