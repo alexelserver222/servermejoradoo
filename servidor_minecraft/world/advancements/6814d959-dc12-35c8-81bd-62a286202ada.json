@@ -22309,5 +22309,47 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 05:18:26 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/diamond_shard_to_diamond": {
+    "criteria": {
+      "has_diamond_shard": "2025-01-07 05:06:32 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaur": {
+    "criteria": {
+      "kill": "2025-01-07 05:06:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-07 05:09:56 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/food/golden_apple_pie": {
+    "criteria": {
+      "has_golden_apple_pie_slice": "2025-01-07 05:06:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-07 05:13:03 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/emerald_shard_to_emerald": {
+    "criteria": {
+      "has_emerald_shard": "2025-01-07 05:06:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
