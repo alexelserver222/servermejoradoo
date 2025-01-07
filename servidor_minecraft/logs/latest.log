@@ -3155,3 +3155,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 05:29:47.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> extraño el spore
 [07Jan2025 05:30:14.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=-15, z=680} BlockPos{x=-164, y=-15, z=680}
 [07Jan2025 05:30:14.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=-16, z=679} BlockPos{x=-166, y=-15, z=680}
+[07Jan2025 05:32:07.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-17, z=678} BlockPos{x=-168, y=-17, z=677}
+[07Jan2025 05:32:08.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-17, z=678} BlockPos{x=-168, y=-16, z=677}
+[07Jan2025 05:32:08.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-18, z=675} BlockPos{x=-168, y=-16, z=676}
+[07Jan2025 05:32:09.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-18, z=675} BlockPos{x=-168, y=-16, z=676}
+[07Jan2025 05:32:09.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-17, z=673} BlockPos{x=-169, y=-16, z=675}
+[07Jan2025 05:32:09.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-17, z=673} BlockPos{x=-169, y=-16, z=676}
+[07Jan2025 05:32:09.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-17, z=673} BlockPos{x=-169, y=-16, z=676}
+[07Jan2025 05:32:09.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-17, z=673} BlockPos{x=-169, y=-16, z=676}
+[07Jan2025 05:32:09.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-17, z=673} BlockPos{x=-169, y=-16, z=676}
+[07Jan2025 05:32:09.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-17, z=673} BlockPos{x=-169, y=-16, z=676}
+[07Jan2025 05:32:09.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=-17, z=673} BlockPos{x=-169, y=-16, z=676}
+[07Jan2025 05:32:09.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=-17, z=676} BlockPos{x=-169, y=-17, z=674}
+[07Jan2025 05:32:10.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=-16, z=674} BlockPos{x=-169, y=-17, z=674}
+[07Jan2025 05:32:10.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=-16, z=674} BlockPos{x=-169, y=-17, z=674}
+[07Jan2025 05:32:10.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=-16, z=674} BlockPos{x=-169, y=-17, z=674}
+[07Jan2025 05:32:10.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=-16, z=674} BlockPos{x=-169, y=-17, z=674}
+[07Jan2025 05:32:10.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=-16, z=673} BlockPos{x=-171, y=-16, z=676}
+[07Jan2025 05:32:10.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=-17, z=676} BlockPos{x=-170, y=-17, z=675}
+[07Jan2025 05:32:11.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=-17, z=674} BlockPos{x=-170, y=-17, z=674}
+[07Jan2025 05:32:11.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=-17, z=674} BlockPos{x=-171, y=-16, z=675}
+[07Jan2025 05:32:13.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=-14, z=674} BlockPos{x=-170, y=-15, z=675}
+[07Jan2025 05:32:13.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=-14, z=674} BlockPos{x=-170, y=-15, z=675}
+[07Jan2025 05:32:59.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=-16, z=673} BlockPos{x=-197, y=-22, z=696}
+[07Jan2025 05:33:03.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-17, z=696} BlockPos{x=-198, y=-18, z=697}
+[07Jan2025 05:33:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> iridium
+[07Jan2025 05:36:52.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oe no te dio la guia
+[07Jan2025 05:37:29.517] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.1622777f,range:8,source:{pos:[I;-171,-59,114],type:"minecraft:block"}}]
+[07Jan2025 05:37:29.519] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:1.4142135f,range:8,source:{pos:[I;-176,-57,125],type:"minecraft:block"}}]
+[07Jan2025 05:37:31.041] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1657608553,-181188645,-1970306320,-21935466],type:"minecraft:entity",y_offset:0.36f}}]
+[07Jan2025 05:37:31.042] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-492208151,2130201996,-1638321847,-236952269],type:"minecraft:entity",y_offset:0.36f}}]
+[07Jan2025 05:37:31.043] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1534938430,-1634907265,-1933425779,1714146874],type:"minecraft:entity",y_offset:0.36f}}]
+[07Jan2025 05:37:35.234] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.802439f,range:8,source:{pos:[I;-110,-47,214],type:"minecraft:block"}}]
+[07Jan2025 05:37:42.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oie
+[07Jan2025 05:39:12.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved wrongly!
+[07Jan2025 05:39:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 was slain by The Glitter
