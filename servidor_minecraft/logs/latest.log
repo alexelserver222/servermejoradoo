@@ -3190,3 +3190,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 05:37:42.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oie
 [07Jan2025 05:39:12.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved wrongly!
 [07Jan2025 05:39:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 was slain by The Glitter
+[07Jan2025 05:46:54.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oie
+[07Jan2025 05:47:01.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> k oe
+[07Jan2025 05:47:03.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> cual de tus aldeanos vende reparacion
+[07Jan2025 05:47:04.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> tsss
+[07Jan2025 05:47:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> grax
+[07Jan2025 05:47:34.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> muy caro
+[07Jan2025 05:47:39.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ya lo hago
+[07Jan2025 05:47:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> tengo desc
+[07Jan2025 05:47:50.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> desc?
+[07Jan2025 05:49:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> gracias
+[07Jan2025 05:51:32.857] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:51:32.858] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:51:32.858] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:51:32.859] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:51:36.907] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:51:36.908] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:51:36.908] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:51:36.909] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:51:36.909] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:54:07.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ioeeee
+[07Jan2025 05:54:15.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> no te dio el libro guia?? del terramity
+[07Jan2025 05:54:25.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> como se llamaba¡
+[07Jan2025 05:54:28.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> no me dio
+[07Jan2025 05:54:50.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> Patchouli guidebook
+[07Jan2025 05:55:32.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> no no ahi nada
+[07Jan2025 05:55:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> q verga
+[07Jan2025 05:55:41.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=50, y=66, z=-5} BlockPos{x=49, y=71, z=363}
+[07Jan2025 05:56:34.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=88, y=73, z=474} BlockPos{x=88, y=72, z=474}
+[07Jan2025 05:57:17.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=88, y=61, z=474} BlockPos{x=110, y=62, z=464}
+[07Jan2025 05:58:51.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=38, z=514} BlockPos{x=94, y=39, z=514}
+[07Jan2025 05:59:06.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=37, z=514} BlockPos{x=69, y=56, z=537}
+[07Jan2025 05:59:11.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=46, z=529} BlockPos{x=86, y=47, z=529}
+[07Jan2025 05:59:11.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=46, z=529} BlockPos{x=86, y=47, z=529}
+[07Jan2025 05:59:47.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=87, y=47, z=529} BlockPos{x=134, y=40, z=512}
+[07Jan2025 05:59:47.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=87, y=47, z=529} BlockPos{x=133, y=40, z=512}
+[07Jan2025 06:01:55.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=-15, z=458} BlockPos{x=54, y=-12, z=481}
+[07Jan2025 06:01:55.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=-15, z=458} BlockPos{x=53, y=-12, z=481}
