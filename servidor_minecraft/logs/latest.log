@@ -2992,3 +2992,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 04:50:53.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
 [07Jan2025 04:50:58.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> mmv estoy en mi base
 [07Jan2025 04:51:12.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> me dejastes la torreta bugueada ve
+[07Jan2025 04:52:10.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[07Jan2025 04:52:52.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oe loco
+[07Jan2025 04:52:58.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> te puedo pedir un favor
+[07Jan2025 04:53:05.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ??
+[07Jan2025 04:53:16.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> mira hay una webada q no tiene crafteo
+[07Jan2025 04:53:23.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> es un arma q no dispara
+[07Jan2025 04:53:30.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> print("negro")
+[07Jan2025 04:53:39.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> esq la hiba a poner como decoracion
+[07Jan2025 04:53:56.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> se llama glock grip
+[07Jan2025 04:54:01.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[07Jan2025 04:54:51.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> graciass
+[07Jan2025 04:55:05.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[07Jan2025 04:55:06.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[07Jan2025 04:55:14.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[07Jan2025 04:55:35.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[07Jan2025 04:56:30.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe
+[07Jan2025 04:56:33.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ande
+[07Jan2025 04:56:34.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ven mira xd
+[07Jan2025 04:56:35.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[07Jan2025 04:56:37.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[07Jan2025 04:56:43.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[07Jan2025 04:56:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> era abajo
+[07Jan2025 04:56:51.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> en tu casa xd
+[07Jan2025 04:57:06.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved wrongly!
+[07Jan2025 04:57:31.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> dio semen azul
+[07Jan2025 04:57:32.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> aca xd
+[07Jan2025 04:57:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> no sale?
+[07Jan2025 04:58:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> que raro
+[07Jan2025 04:58:10.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> no importa xd te aviso
+[07Jan2025 04:58:14.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oka
+[07Jan2025 04:58:38.765] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[07Jan2025 04:58:39.676] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1083294387, path: 3bd1b93a-bc4c-441f-a809-77bc697c6288/specter/air, elements: {}} attempted to update empty stack 0 air
+[07Jan2025 04:58:49.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 lost connection: Disconnected
+[07Jan2025 04:58:49.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 left the game
+[07Jan2025 04:58:54.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:43649] logged in with entity id 8402 at (35.57911560437109, 59.0, 10.266322351344211)
+[07Jan2025 04:58:55.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[07Jan2025 04:58:56.051] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[07Jan2025 04:58:59.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ??
+[07Jan2025 05:00:07.114] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 2084825886, path: a5155647-2386-423c-a378-760e61ac45bf/air, elements: {}} attempted to update empty stack 0 air
+[07Jan2025 05:00:07.114] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1188004730, path: a5155647-2386-423c-a378-760e61ac45bf/specter/air, elements: {}} attempted to update empty stack 0 air
+[07Jan2025 05:00:26.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 lost connection: Disconnected
+[07Jan2025 05:00:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 left the game
+[07Jan2025 05:00:32.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:58231] logged in with entity id 8767 at (35.169850832242396, 59.0, 8.668252146686042)
+[07Jan2025 05:00:34.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[07Jan2025 05:00:34.227] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[07Jan2025 05:01:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> todo bien?
+[07Jan2025 05:01:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> no sale mi skin
+[07Jan2025 05:01:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd

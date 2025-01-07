@@ -22267,35 +22267,29 @@
     },
     "done": true
   },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:45:12 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-01-07 04:45:11 +0000"
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+  "faded_conquest_2:faded_2": {
     "criteria": {
-      "has_netherite_scrap": "2025-01-07 04:47:29 +0000"
+      "faded_2_0": "2025-01-07 04:45:11 +0000"
     },
     "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:45:12 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-01-07 04:45:12 +0000"
     },
     "done": false
-  },
-  "faded_conquest_2:faded_2": {
-    "criteria": {
-      "faded_2_0": "2025-01-07 04:45:11 +0000"
-    },
-    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -22308,6 +22302,12 @@
       "log_spam_fixer": "2025-01-07 04:45:12 +0000"
     },
     "done": false
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-07 04:47:29 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
