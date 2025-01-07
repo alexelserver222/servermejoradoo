@@ -15333,12 +15333,6 @@
     },
     "done": true
   },
-  "sons_of_sins:lazarus_pit": {
-    "criteria": {
-      "lazarus_pit": "2024-12-03 07:19:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-03 07:27:57 +0000"
@@ -15534,12 +15528,6 @@
   "netherexp:recipes/bone_blocks/bone_fence": {
     "criteria": {
       "has_item": "2024-12-10 03:58:11 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:root": {
-    "criteria": {
-      "sample_trigger": "2024-12-10 03:58:11 +0000"
     },
     "done": true
   },
@@ -17406,13 +17394,6 @@
     },
     "done": true
   },
-  "hopo:minecraft/adventure/all_mineshaft": {
-    "criteria": {
-      "locate_vanilla_mineshaft": "2024-12-14 20:29:28 +0000",
-      "locate_vanilla_mineshaft_mesa": "2024-12-24 02:58:02 +0000"
-    },
-    "done": false
-  },
   "netherexp:recipes/misc/skeleton_skull_candle": {
     "criteria": {
       "has_item": "2024-12-14 20:32:19 +0000"
@@ -17958,12 +17939,6 @@
       "has_polished_cut_deepslate": "2024-12-18 02:56:28 +0000"
     },
     "done": true
-  },
-  "hopo:minecraft/adventure/locate_all_underwater_structures": {
-    "criteria": {
-      "locate_ruin_cold": "2024-12-18 03:57:07 +0000"
-    },
-    "done": false
   },
   "goety_spillage:root": {
     "criteria": {
@@ -19357,6 +19332,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-01-04 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-04 04:06:55 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/cherry_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-01-04 04:13:05 +0000"
@@ -19423,12 +19422,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-01-04 04:06:55 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/cherry_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-01-04 04:13:05 +0000"
@@ -19474,18 +19467,6 @@
   "expanded_combat:recipes/combat/cherry_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-01-04 04:13:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-01-04 04:06:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
-    "criteria": {
-      "has_log": "2025-01-04 04:06:55 +0000"
     },
     "done": true
   },
@@ -19567,17 +19548,68 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/acacia_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-04 04:06:55 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-01-04 04:13:05 +0000"
     },
     "done": true
+  },
+  "littlemaidrebirth:recipes/littlemaidrebirth.common/little_maid_spawn_egg": {
+    "criteria": {
+      "egg": "2025-01-07 04:36:01 +0000",
+      "cake": "2025-01-07 04:36:01 +0000",
+      "gold_ingot": "2025-01-07 04:36:01 +0000",
+      "sugar": "2025-01-07 04:36:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-07 04:36:01 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-07 04:36:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:36:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-01-07 04:36:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:36:03 +0000"
+    },
+    "done": false
+  },
+  "faded_conquest_2:faded_2": {
+    "criteria": {
+      "faded_2_0": "2025-01-07 04:36:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:36:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:36:03 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

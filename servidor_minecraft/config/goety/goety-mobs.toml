@@ -29,6 +29,9 @@
 	hellfireFireProtection = true
 	#Whether undead mobs in the Crypts remain hostile even if players wear Necro Set, Default: true
 	hostileCryptUndead = true
+	#Spawn Weight for Necromancer, Default: 1
+	#Range: > 0
+	necromancerSpawnWeight = 1
 	#Spawn Weight for Wraith, Default: 20
 	#Range: > 0
 	wraithSpawnWeight = 20
@@ -118,6 +121,19 @@
 		netherMinionHealCost = 1
 		#Whether Nether Servants can heal if summoned while wearing Nether Robe, Default: true
 		netherMinionHeal = true
+
+	[Servants."Water Servants"]
+		#How frequent Water Servants heal, count seconds, Default: 1
+		#Range: > 0
+		waterMinionHealTime = 1
+		#Whether Water Servants can heal if summoned while wearing Abyss Robe, Default: true
+		waterMinionHeal = true
+		#How much Health Water Servants heal, numerically, Default: 1.0
+		#Range: 0.0 ~ 1.7976931348623157E308
+		waterMinionHealAmount = 1.0
+		#How much Soul Energy it cost per second for a Water Servant to heal, Default: 1
+		#Range: > 0
+		waterMinionHealCost = 1
 
 	[Servants."Natural Servants"]
 		#How much Health Natural Servants heal, numerically, Default: 1.0
@@ -343,19 +359,15 @@
 
 	[Textures."Summoned Mobs"]
 
-		[Textures."Summoned Mobs"."Wild Servants"]
-			#If Poison-Quill Vine servants have custom textures, Default: true
-			poisonQuillVineTexture = true
-			#If Whisperer Servants have custom textures, Default: true
-			whispererTexture = true
-			#If Quick Growing Vine servants have custom textures, Default: true
-			quickGrowingVineTexture = true
-			#If Leapleaf Servants have custom textures, Default: true
-			leapleafTexture = true
-
 		[Textures."Summoned Mobs"."Wraith Servants"]
 			#If Wraith Servants have custom textures, Default: true
 			wraithServantTexture = true
+
+		[Textures."Summoned Mobs"."Phantom Servants"]
+			#If Phantom Servants have custom textures, Default: true
+			phantomServantTexture = true
+			#If Phantom Servants are translucent when upgraded, Default: true
+			phantomServantTranslucent = true
 
 		[Textures."Summoned Mobs"."Zombie Servants"]
 			#If Jungle Zombie Servants have custom textures, Default: true
@@ -369,12 +381,6 @@
 			#If Frozen Zombie Servants have custom textures, Default: true
 			frozenZombieServantTexture = true
 
-		[Textures."Summoned Mobs"."Blaze Servants"]
-			#If Blaze Servants have custom textures, Default: true
-			blazeServantTexture = true
-			#If Wildfires have custom textures, Default: true
-			wildfireTexture = true
-
 		[Textures."Summoned Mobs"."Slime Servants"]
 			#If Crypt Slime Servants have custom textures, Default: true
 			cryptSlimeServantTexture = true
@@ -382,6 +388,34 @@
 			magmaCubeServantTexture = true
 			#If Slime Servants have custom textures, Default: true
 			slimeServantTexture = true
+
+		[Textures."Summoned Mobs"."Ghast Servants"]
+			#If Ghast Servants have custom textures, Default: true
+			ghastServantTexture = true
+
+		[Textures."Summoned Mobs"."Spider Servants"]
+			#If Spiders Servants have custom textures, Default: true
+			spiderServantTexture = true
+			#If Bone Spiders Servants have custom textures, Default: true
+			boneSpiderServantTexture = true
+			#If Cave Spiders Servants have custom textures, Default: true
+			caveSpiderServantTexture = true
+
+		[Textures."Summoned Mobs"."Wild Servants"]
+			#If Poison-Quill Vine servants have custom textures, Default: true
+			poisonQuillVineTexture = true
+			#If Whisperer Servants have custom textures, Default: true
+			whispererTexture = true
+			#If Quick Growing Vine servants have custom textures, Default: true
+			quickGrowingVineTexture = true
+			#If Leapleaf Servants have custom textures, Default: true
+			leapleafTexture = true
+
+		[Textures."Summoned Mobs"."Blaze Servants"]
+			#If Blaze Servants have custom textures, Default: true
+			blazeServantTexture = true
+			#If Wildfires have custom textures, Default: true
+			wildfireTexture = true
 
 		[Textures."Summoned Mobs"."Skeleton Servants"]
 			#If Sunken Skeleton Servants have custom textures, Default: true
@@ -398,18 +432,6 @@
 			mossySkeletonServantTexture = true
 			#If Stray Servants have custom textures, Default: true
 			strayServantTexture = true
-
-		[Textures."Summoned Mobs"."Ghast Servants"]
-			#If Ghast Servants have custom textures, Default: true
-			ghastServantTexture = true
-
-		[Textures."Summoned Mobs"."Spider Servants"]
-			#If Spiders Servants have custom textures, Default: true
-			spiderServantTexture = true
-			#If Bone Spiders Servants have custom textures, Default: true
-			boneSpiderServantTexture = true
-			#If Cave Spiders Servants have custom textures, Default: true
-			caveSpiderServantTexture = true
 
 		[Textures."Summoned Mobs".Vexes]
 			#If Vexes have custom textures, Default: true

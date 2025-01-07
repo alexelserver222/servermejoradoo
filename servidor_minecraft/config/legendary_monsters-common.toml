@@ -32,6 +32,8 @@
 		#Multiplies health of Ambusher
 		#Range: 0.0 ~ 100.0
 		"Ambusher Health Multiplier" = 1.0
+		#Enables Projectile Damage For Ambusher
+		"Allow Ambusher Projectile Damage" = true
 
 	["Mob Settings"."Ancient Guardian Settings"]
 		#Multiplies damage dealt by Ancient Guardian
@@ -42,6 +44,8 @@
 		"Ancient Guardian Health Multiplier" = 1.0
 		#Enables/Disables Stun Ability for Ancient Guardian. §cNOTE: Disabling This may make the bossfight less fun.
 		"Allow Ancient Guardian Stun Ability" = true
+		#Enables Projectile Damage for Ancient Guardian
+		"Allow Ancient Guardian Projectile Damage" = true
 
 	["Mob Settings"."Haunted Knight Settings"]
 		#Multiplies damage dealt by Haunted Knight
@@ -50,6 +54,8 @@
 		#Multiplies health of Haunted Knight
 		#Range: 0.0 ~ 100.0
 		"Haunted Knight Health Multiplier" = 1.0
+		#Enables Projectile Damage For Haunted Knight
+		"Allow Haunted Knight Projectile Damage" = true
 
 	["Mob Settings"."Haunted Guard Settings"]
 		#Multiplies damage dealt by Haunted Guard
@@ -58,6 +64,8 @@
 		#Multiplies health of Haunted Guard
 		#Range: 0.0 ~ 100.0
 		"Haunted Guard Health Multiplier" = 1.0
+		#Enables Projectile Damage For Haunted Guard
+		"Allow Haunted Guard Projectile Damage" = true
 
 	["Mob Settings"."Posessed Paladin Settings"]
 		#Multiplies damage dealt by Posessed Paladin
@@ -68,6 +76,8 @@
 		"Posessed Paladin Health Multiplier" = 1.0
 		#Enables/Disables Stun Ability for Posessed Paladin
 		"Allow Posessed Paladin Stun Ability" = true
+		#Enables Projectile Damage Posessed Paladin
+		"Allow Posessed Paladin Projectile Damage" = true
 
 	["Mob Settings"."Overgrown Colosuss Settings"]
 		#Multiplies damage dealt by Overgrown Colosuss
@@ -78,6 +88,8 @@
 		"Overgrown Colosuss Health Multiplier" = 1.0
 		#Enables/Disables Stun Ability for Overgrown Colosuss. §cNOTE: Disabling This may make the bossfight less fun.
 		"Allow Overgrown Colosuss Stun Ability" = true
+		#Enables Projectile Damage for Overgrown Colosuss
+		"Allow Overgrown Colosuss Projectile Damage" = true
 
 	["Mob Settings"."Mossy Golem Settings"]
 		#Multiplies damage dealt by Mossy Golem
@@ -86,6 +98,8 @@
 		#Multiplies health of Mossy Golem
 		#Range: 0.0 ~ 100.0
 		"Mossy Golem Health Multiplier" = 1.0
+		#Enables Projectile Damage for Dune Sentinel
+		"Allow Dune Sentinel Projectile Damage" = true
 
 	["Mob Settings"."Cloud Golem Settings"]
 		#Multiplies damage dealt by Cloud Golem
@@ -94,6 +108,8 @@
 		#Multiplies health of Cloud Golem
 		#Range: 0.0 ~ 100.0
 		"Cloud Golem Health Multiplier" = 1.0
+		#Enables Projectile Damage for Cloud Golem
+		"Allow Cloud Golem Projectile Damage" = true
 
 	["Mob Settings"."Cloud Golem's Falling Cloud Settings"]
 		#Multiplies damage dealt by Falling Cloud
@@ -107,6 +123,8 @@
 		#Multiplies health of Frostbitten Golem
 		#Range: 0.0 ~ 100.0
 		"Frostbitten Golem Health Multiplier" = 1.0
+		#Enables Projectile Damage for Frostbitten Golem
+		"Allow Frostbitten Golem Projectile Damage" = true
 
 	["Mob Settings"."Dune Sentinel Settings"]
 		#Multiplies damage dealt by Dune Sentinel
@@ -137,6 +155,8 @@
 		#Multiplies health of Lava Eater
 		#Range: 0.0 ~ 100.0
 		"Lava Eater Health Multiplier" = 1.0
+		#Enables Projectile Damage for Lava Eater
+		"Allow Lava Eater Projectile Damage" = true
 
 	["Mob Settings"."Warped Fungussus Settings"]
 		#Multiplies damage dealt by Warped Fungussus
@@ -163,4 +183,6 @@
 		#Multiplies health of Shulker Mimic
 		#Range: 0.0 ~ 100.0
 		"Shulker Mimic Health Multiplier" = 1.0
+		#Enables Projectile Damage for Shulker Mimic
+		"Allow Shulker Mimic Projectile Damage" = true
 

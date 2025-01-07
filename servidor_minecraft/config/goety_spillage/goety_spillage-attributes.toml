@@ -31,3 +31,25 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			boundFreakagerAxeDamage = 8.0
 
+		[Attributes."Summoned Mobs"."Crocofang Servant"]
+			#How much natural armor points Crocofang Servants have, Default: 3.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			crocofangServantArmor = 3.0
+			#How much damage Crocofang Servants deals, Default: 8.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			crocofangServantDamage = 8.0
+			#How much Max Health Crocofang Servants have, Default: 40.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			crocofangServantHealth = 40.0
+
+		[Attributes."Summoned Mobs"."Bound Engineer"]
+			#How much natural armor points Bound Engineers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			boundEngineerArmor = 0.0
+			#How much damage Bound Engineers deals, Default: 5.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boundEngineerDamage = 5.0
+			#How much Max Health Bound Engineers have, Default: 30.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boundEngineerHealth = 30.0
+

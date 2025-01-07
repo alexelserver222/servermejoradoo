@@ -4,7 +4,7 @@
 	robesIronResist = true
 	#If Iron's Spells and Spellbooks is installed, certain curios provides Spell buffs. Default: true
 	ironBuff = true
-	#If enabled, Ender Dragon's Fireballs will leave clouds that damages even undead and will not hit itself. Default: true
+	#If enabled, Ender Dragon's Fireballs will leave clouds that damages even undead and will not hit itself. Default: false
 	betterDragonFireball = true
 	#If L_Ender Cataclysm is installed, certain loots are modified and change between this and the latter mod. Default: true
 	cataclysmLootCompat = true

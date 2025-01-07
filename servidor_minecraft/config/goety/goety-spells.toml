@@ -30,11 +30,14 @@
 	#Number of Necromancer Servants that an individual player can have in total, Default: 8
 	#Range: > 1
 	necromancerLimit = 8
+	#Number of Drowned Necromancer Servants that an individual player can have in total, Default: 2
+	#Range: > 1
+	drownedNecromancerLimit = 2
 
 [Spells]
 
 	[Spells."Killing Spell"]
-		#Killing Spell Cost, Default: 4000
+		#Killing Spell Cost, Default: 444
 		#Range: > 0
 		killingCost = 4000
 		#Killing Spell Cooldown, Default: 200
@@ -43,17 +46,6 @@
 		#Time to cast Killing Spell, Default: 60
 		#Range: 0 ~ 72000
 		killingTime = 60
-
-	[Spells."Monsoon Spell"]
-		#Monsoon Spell Cost, Default: 8
-		#Range: > 0
-		monsoonCost = 8
-		#Monsoon Spell Cooldown, Default: 100
-		#Range: > 0
-		monsoonCoolDown = 100
-		#Time to cast Monsoon Spell, Default: 40
-		#Range: 0 ~ 72000
-		monsoonTime = 40
 
 	[Spells."Whirlwind Spell"]
 		#Whirlwind Spell Cost, Default: 4
@@ -68,51 +60,6 @@
 		#Whirlwind Spell Cooldown, Default: 0
 		#Range: 0 ~ 72000
 		whirlwindCoolDown = 0
-
-	[Spells."Spooky Spell"]
-		#Spooky Spell Summon Down, Default: 300
-		#Range: 0 ~ 72000
-		wraithSummonDown = 300
-		#Spooky Spell Cooldown, Default: 100
-		#Range: > 0
-		wraithCoolDown = 100
-		#Time to cast Spooky Spell, Default: 60
-		#Range: 0 ~ 72000
-		wraithTime = 60
-		#Number of Wraith Servants that a player can have, Default: 6
-		#Range: > 1
-		wraithLimit = 6
-		#Spooky Spell Cost, Default: 24
-		#Range: > 0
-		wraithCost = 24
-
-	[Spells."Overgrowth Spell"]
-		#Time to cast Overgrowth Spell, Default: 0
-		#Range: 0 ~ 72000
-		overgrowthTime = 0
-		#Overgrowth Spell Cooldown, Default: 120
-		#Range: > 0
-		overgrowthCoolDown = 120
-		#Overgrowth Spell Cost, Default: 8
-		#Range: > 0
-		overgrowthCost = 8
-
-	[Spells."Osseous Spell"]
-		#Osseous Spell Cooldown, Default: 100
-		#Range: > 0
-		skeletonCoolDown = 100
-		#Osseous Spell Cost, Default: 8
-		#Range: > 0
-		skeletonCost = 8
-		#Osseous Spell Summon Down, Default: 120
-		#Range: 0 ~ 72000
-		skeletonSummonDown = 120
-		#Number of Skeleton Servants that an individual player can have in total, Default: 32
-		#Range: > 1
-		skeletonLimit = 32
-		#Time to cast Osseous Spell, Default: 60
-		#Range: 0 ~ 72000
-		skeletonTime = 60
 
 	[Spells."Burrowing Spell"]
 		#The initial breaking speed of the Burrowing spell, the lower the value the quicker, Default: 4
@@ -142,22 +89,6 @@
 		#Range: 1.0 ~ 1.7976931348623157E308
 		soulBoltDamage = 4.0
 
-	[Spells."Eruption Spell"]
-		#Eruption Spell Cost, Default: 32
-		#Range: > 0
-		eruptionCost = 32
-		#How much base damage Pyroclasts deal when directly hitting a mob, Default: 6.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		pyroclastDamage = 6.0
-		#Eruption Spell Cooldown, Default: 100
-		#Range: > 0
-		eruptionCoolDown = 100
-		#Enable Pyroclast projectile griefing, Default: true
-		pyroclastGriefing = true
-		#Time to cast Eruption Spell, Default: 60
-		#Range: 0 ~ 72000
-		eruptionTime = 60
-
 	[Spells."Magma Bomb Spell"]
 		#Magma Bomb Spell Cost, Default: 16
 		#Range: > 0
@@ -168,34 +99,6 @@
 		#Time to cast Magma Bomb Spell, Default: 100
 		#Range: 0 ~ 72000
 		magmaBombTime = 100
-
-	[Spells."Shredding Spell && Royal Spikes"]
-		#How much base damage Royal Spikes deals per second, Default: 1.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		spikeDamage = 1.0
-		#Shredding Spell Cooldown, Default: 100
-		#Range: > 0
-		spikeCoolDown = 100
-		#Shredding Spell Cost, Default: 16
-		#Range: > 0
-		spikeCost = 16
-		#Amount of Soul Energy Royal Spikes gives when hitting mob(s), Default: 1
-		#Range: > 0
-		spikeGainSouls = 1
-		#Time to cast Shredding Spell, Default: 160
-		#Range: 0 ~ 72000
-		spikeTime = 160
-
-	[Spells."Sword Spell"]
-		#Time to cast Flying Sword Spell, Default: 0
-		#Range: 0 ~ 72000
-		swordTime = 0
-		#Sword Spell Cost, Default: 16
-		#Range: > 0
-		swordCost = 16
-		#Sword Spell Cooldown, Default: 20
-		#Range: > 0
-		swordCoolDown = 20
 
 	[Spells."Lightning Spell"]
 		#Time to cast Lightning Spell, Default: 0
@@ -210,20 +113,6 @@
 		#How much base damage Lightning from the spell deals, Default: 5.0
 		#Range: 1.0 ~ 1.7976931348623157E308
 		lightningDamage = 5.0
-
-	[Spells."Hail Spell"]
-		#Time to cast Hail Spell, Default: 40
-		#Range: 0 ~ 72000
-		hailTime = 40
-		#Hail Spell Cooldown, Default: 20
-		#Range: > 0
-		hailCoolDown = 20
-		#How much base damage Hail deals, Default: 1.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		hailDamage = 1.0
-		#Hail Spell Cost, Default: 8
-		#Range: > 0
-		hailCost = 8
 
 	[Spells."Feasting Spell"]
 		#How many ticks the Feasting Spell much charge before casting, Default: 0
@@ -253,41 +142,19 @@
 		#Range: 0 ~ 72000
 		frostNovaTime = 0
 
-	[Spells."Ignite Spell"]
-		#How many seconds Ignite Spell sets target on fire unenchanted, Default: 5
-		#Range: > 1
-		igniteFireSeconds = 5
-		#Ignite Spell Cooldown, Default: 10
+	[Spells."Bouncy Bubble Spell"]
+		#Bouncy Bubble Spell Cost, Default: 8
 		#Range: > 0
-		igniteCoolDown = 10
-		#Ignite Spell Cost, Default: 2
+		bouncyBubbleCost = 8
+		#Bouncy Bubble Spell Cooldown, Default: 100
 		#Range: > 0
-		igniteCost = 2
-
-	[Spells."Hunting Spell"]
-		#Hunting Spell Summon Down, Default: 100
+		bouncyBubbleCoolDown = 100
+		#Time to cast Bouncy Bubble Spell, Default: 0
 		#Range: 0 ~ 72000
-		huntingSummonDown = 100
-		#Number of Black Wolves that can exist around the player, Default: 16
-		#Range: > 1
-		huntingLimit = 16
-		#Time to cast Hunting Spell, Default: 20
-		#Range: 0 ~ 72000
-		huntingTime = 20
-		#Hunting Spell Cost, Default: 8
-		#Range: > 0
-		huntingCost = 8
-		#Hunting Spell Cooldown, Default: 200
-		#Range: > 0
-		huntingCoolDown = 200
-
-	[Spells."Flight Spell"]
-		#Flight Spell Cost, Default: 4
-		#Range: > 0
-		flightCost = 4
-		#How many ticks the Flight Spell much charge before casting, Default: 0
-		#Range: > 0
-		flightChargeUp = 0
+		bouncyBubbleTime = 0
+		#How much base damage Bouncy Bubble from the spell deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		bouncyBubbleDamage = 4.0
 
 	[Spells."Sonic Boom Spell"]
 		#Time to cast Sonic Boom Spell, Default: 60
@@ -320,57 +187,6 @@
 		#Range: > 0
 		bulwarkCoolDown = 6000
 
-	[Spells."Leeching Spell"]
-		#How long the Leeching Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 0
-		#Range: 0 ~ 72000
-		leechingTime = 0
-		#Leeching Spell Cost, Default: 8
-		#Range: > 0
-		leechingCost = 8
-		#How much base damage Leeching Spell deals per second, Default: 1.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		leechingDamage = 1.0
-		#Leeching Spell Cooldown, Default: 0
-		#Range: 0 ~ 72000
-		leechingCoolDown = 0
-		#How many ticks the Leeching Spell much charge before casting, Default: 0
-		#Range: > 0
-		leechingChargeUp = 0
-		#Leeching Spell healing percentage, Default: 100
-		#Range: 1 ~ 100
-		leechingPercent = 100
-
-	[Spells."Teeth Spell"]
-		#Teeth Spell Cooldown, Default: 20
-		#Range: > 0
-		teethCoolDown = 20
-		#Time to cast Teeth Spell, Default: 60
-		#Range: 0 ~ 72000
-		teethTime = 60
-		#How much base damage Vicious Tooth deals, Default: 12.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		viciousToothDamage = 12.0
-		#Teeth Spell Cost, Default: 8
-		#Range: > 0
-		teethCost = 8
-
-	[Spells."Swarm Spell"]
-		#How long the Swarm Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
-		#Range: 0 ~ 72000
-		swarmTime = 100
-		#How many ticks the Swarm Spell much charge before casting, Default: 0
-		#Range: > 0
-		swarmChargeUp = 0
-		#How much base damage Swarm deals, Default: 2.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		swarmDamage = 2.0
-		#Swarm Spell Cost per second, Default: 2
-		#Range: > 0
-		swarmCost = 2
-		#Swarm Spell Cooldown, Default: 100
-		#Range: 0 ~ 72000
-		swarmCoolDown = 100
-
 	[Spells."Poison Dart Spell"]
 		#Poison Dart Spell Cooldown, Default: 20
 		#Range: > 0
@@ -384,53 +200,6 @@
 		#Poison Dart Spell Cost, Default: 8
 		#Range: > 0
 		poisonDartCost = 8
-
-	[Spells."Telekinesis Spell"]
-		#The highest maximum health an entity can possess to be affected by Telekinesis spell, Default: 100
-		#Range: > 1
-		telekinesisMaxHealth = 100
-		#Telekinesis Spell Cost, Default: 4
-		#Range: > 0
-		telekinesisCost = 4
-		#How many ticks the Telekinesis Spell much charge before casting, Default: 0
-		#Range: > 0
-		telekinesisChargeUp = 0
-		#Add mobs that Telekinesis Spell don't work on. 
-		#To do so, enter the namespace ID of the mob, like "minecraft:zombie, minecraft:skeleton".
-		telekinesisBlackList = []
-
-	[Spells."Fire Breath Spell"]
-		#How long the Fire Breath Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
-		#Range: 0 ~ 72000
-		fireBreathTime = 100
-		#Ring of the Dragon Fire Breath deals environmental damage, Default: true
-		dragonFireGriefing = true
-		#How much base damage Fire Breath deals, Default: 2.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		fireBreathDamage = 2.0
-		#Fire Breath Spell Cooldown, Default: 100
-		#Range: 0 ~ 72000
-		fireBreathCoolDown = 100
-		#Fire Breath Spell Cost per second, Default: 2
-		#Range: > 0
-		fireBreathCost = 2
-		#How many ticks the Fire Breath Spell much charge before casting, Default: 0
-		#Range: > 0
-		fireBreathChargeUp = 0
-
-	[Spells."Arrow Rain Spell"]
-		#Arrow Rain Spell Cost, Default: 4
-		#Range: > 0
-		arrowRainCost = 4
-		#How long the Arrow Rain Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
-		#Range: 0 ~ 72000
-		arrowRainTime = 100
-		#Arrow Rain Spell Cooldown, Default: 400
-		#Range: 0 ~ 72000
-		arrowRainCoolDown = 400
-		#How many ticks the Arrow Rain Spell much charge before casting, Default: 20
-		#Range: > 0
-		arrowRainChargeUp = 20
 
 	[Spells."Shocking Spell"]
 		#How much base damage Shocking Sparks deals, Default: 2.0
@@ -460,31 +229,6 @@
 		#Range: > 0
 		entanglingCost = 8
 
-	[Spells."Thunderbolt Spell"]
-		#How much base damage Thunderbolts deals, Default: 5.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		thunderboltDamage = 5.0
-		#Time to cast Thunderbolt Spell, Default: 40
-		#Range: 0 ~ 72000
-		thunderboltTime = 40
-		#Thunderbolt Spell Cooldown, Default: 0
-		#Range: > 0
-		thunderboltCoolDown = 0
-		#Thunderbolt Spell Cost, Default: 16
-		#Range: > 0
-		thunderboltCost = 16
-
-	[Spells."Barricade Spell"]
-		#Time to cast Barricade Spell, Default: 0
-		#Range: 0 ~ 72000
-		barricadeTime = 0
-		#Barricade Spell Cooldown, Default: 100
-		#Range: > 0
-		barricadeCoolDown = 100
-		#Barricade Spell Cost, Default: 16
-		#Range: > 0
-		barricadeCost = 16
-
 	[Spells."Whispering Spell"]
 		#Time to cast Whispering Spell, Default: 100
 		#Range: 0 ~ 72000
@@ -502,17 +246,6 @@
 		#Range: > 0
 		whisperCoolDown = 1200
 
-	[Spells."Recall Spell"]
-		#Time to cast Recall Spell, Default: 160
-		#Range: 0 ~ 72000
-		recallTime = 160
-		#Recall Spell Cooldown, Default: 100
-		#Range: > 0
-		recallCoolDown = 100
-		#Recall Spell Cost, Default: 1000
-		#Range: > 0
-		recallCost = 1000
-
 	[Spells."Soul Heal Spell"]
 		#Soul Heal Spell Cost, Default: 250
 		#Range: > 0
@@ -527,65 +260,6 @@
 		#Range: 0 ~ 72000
 		soulHealDuration = 0
 
-	[Spells."Fire Blast Spell"]
-		#How much base minimum damage Fire Blast Spell deals, Default: 6.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		fireBlastDamage = 6.0
-		#How much base maximum damage Fire Blast Spell deals, Default: 12.0
-		#Range: 2.0 ~ 1.7976931348623157E308
-		fireBlastMaxDamage = 12.0
-		#Fire Blast Spell Cooldown, Default: 100
-		#Range: > 0
-		fireBlastCoolDown = 100
-		#Fire Blast Spell Cost, Default: 40
-		#Range: > 0
-		fireBlastCost = 40
-		#Time to cast Fire Blast Spell, Default: 0
-		#Range: 0 ~ 72000
-		fireBlastDuration = 0
-
-	[Spells."Blazing Spell"]
-		#Blazing Spell Cost, Default: 16
-		#Range: > 0
-		blazeCost = 16
-		#Time to cast Blazing Spell, Default: 100
-		#Range: 0 ~ 72000
-		blazeDuration = 100
-		#Number of Blaze Servants that can exist around the player, Default: 16
-		#Range: > 1
-		blazeLimit = 16
-		#Blazing Spell Summon Down, Default: 400
-		#Range: 0 ~ 72000
-		blazeSummonDown = 400
-		#Blazing Spell Cooldown, Default: 200
-		#Range: > 0
-		blazeCoolDown = 200
-
-	[Spells."Troop Spell"]
-		#Troop Spell Cooldown, Default: 20
-		#Range: > 0
-		troopCoolDown = 20
-		#Time to cast Troop Spell, Default: 100
-		#Range: 0 ~ 72000
-		troopTime = 100
-		#Troop Spell Cost, Default: 32
-		#Range: > 0
-		troopCost = 32
-
-	[Spells."Updraft Spell"]
-		#Updraft Spell Cooldown, Default: 60
-		#Range: > 0
-		updraftCoolDown = 60
-		#Updraft Spell Cost, Default: 8
-		#Range: > 0
-		updraftCost = 8
-		#How much base damage Updraft Blasts deals, Default: 5.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		updraftBlastDamage = 5.0
-		#Time to cast Updraft Spell, Default: 0
-		#Range: 0 ~ 72000
-		updraftTime = 0
-
 	[Spells."Wind Blast Spell"]
 		#Wind Blast Spell Cost, Default: 4
 		#Range: > 0
@@ -597,44 +271,19 @@
 		#Range: > 0
 		windBlastCoolDown = 60
 
-	[Spells."Blackguard Spell"]
-		#Time to cast Blackguard Spell, Default: 180
+	[Spells."Prisma Beam Spell"]
+		#Time to cast Prisma Beam Spell, Default: 80
 		#Range: 0 ~ 72000
-		blackguardTime = 180
-		#Blackguard Spell Cooldown, Default: 1200
+		prismaBeamTime = 80
+		#Prisma Beam Spell Cooldown, Default: 20
 		#Range: > 0
-		blackguardCoolDown = 1200
-		#Blackguard Spell Cost, Default: 48
+		prismaBeamCoolDown = 20
+		#Prisma Beam Spell Cost, Default: 8
 		#Range: > 0
-		blackguardCost = 48
-		#Number of Blackguard Servants that an individual player can have in total, Default: 16
-		#Range: > 1
-		blackguardLimit = 16
-		#Blackguard Spell Summon Down, Default: 300
-		#Range: 0 ~ 72000
-		blackguardSummonDown = 300
-
-	[Spells."Chilling Spell"]
-		#Time to cast Chilling Spell, Default: 60
-		#Range: 0 ~ 72000
-		chillingTime = 60
-		#Chilling Spell Cooldown, Default: 500
-		#Range: > 0
-		chillingCoolDown = 500
-		#Chilling Spell Cost, Default: 48
-		#Range: > 0
-		chillingCost = 48
-
-	[Spells."Grapple Spell"]
-		#Grapple Spell Cost, Default: 4
-		#Range: > 0
-		grappleCost = 4
-		#Time to cast Grapple Spell, Default: 0
-		#Range: 0 ~ 72000
-		grappleTime = 0
-		#Grapple Spell Cooldown, Default: 20
-		#Range: > 0
-		grappleCoolDown = 20
+		prismaBeamCost = 8
+		#How much base damage the spell deals, Default: 6.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		prismaBeamDamage = 6.0
 
 	[Spells."Fireball Spell"]
 		#Enable Fireball projectile griefing, Default: true
@@ -652,30 +301,19 @@
 		#Range: 0 ~ 72000
 		fireballTime = 0
 
-	[Spells."Ice Storm Spell"]
-		#Ice Storm Spell Cooldown, Default: 100
+	[Spells."Steaming Spell"]
+		#Steaming Spell Cooldown, Default: 20
 		#Range: > 0
-		iceStormCoolDown = 100
-		#Ice Storm Spell Cost, Default: 16
-		#Range: > 0
-		iceStormCost = 16
-		#Time to cast Ice Storm Spell, Default: 40
+		steamingCoolDown = 20
+		#Time to cast Steaming Spell, Default: 0
 		#Range: 0 ~ 72000
-		iceStormTime = 40
-		#How much base damage Ice Storm deals, Default: 5.0
+		steamingTime = 0
+		#Steaming Spell Cost, Default: 4
+		#Range: > 0
+		steamingCost = 4
+		#How much base damage Steam Missiles deals, Default: 4.0
 		#Range: 1.0 ~ 1.7976931348623157E308
-		iceStormDamage = 5.0
-
-	[Spells."Crafting Spell"]
-		#Crafting Spell Cooldown, Default: 20
-		#Range: > 0
-		craftingCoolDown = 20
-		#Crafting Spell Cost, Default: 2
-		#Range: > 0
-		craftingCost = 2
-		#Time to cast Crafting Spell, Default: 0
-		#Range: 0 ~ 72000
-		craftingDuration = 0
+		steamingDamage = 4.0
 
 	[Spells."Lava Bomb Spell"]
 		#Time to cast Lava Bomb Spell, Default: 40
@@ -715,20 +353,6 @@
 		#Range: 0 ~ 72000
 		callTime = 100
 
-	[Spells."Magic Bolt Spell"]
-		#Time to cast Magic Bolt Spell, Default: 0
-		#Range: 0 ~ 72000
-		magicBoltTime = 0
-		#How much base damage Magic Bolts deals, Default: 4.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		magicBoltDamage = 4.0
-		#Magic Bolt Spell Cooldown, Default: 20
-		#Range: > 0
-		magicBoltCoolDown = 20
-		#Magic Bolt Spell Cost, Default: 8
-		#Range: > 0
-		magicBoltCost = 8
-
 	[Spells."Blink Spell"]
 		#Blink Spell Cost, Default: 8
 		#Range: > 0
@@ -739,42 +363,6 @@
 		#Time to cast Blink Spell, Default: 0
 		#Range: 0 ~ 72000
 		blinkDuration = 0
-
-	[Spells."Skull Spell"]
-		#Number of Haunted Skulls that can a player can have, Default: 8
-		#Range: > 1
-		skullLimit = 8
-		#How much base damage Haunted Skulls deal when directly hitting a mob, Default: 5.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		hauntedSkullDamage = 5.0
-		#Skull Spell Cost, Default: 16
-		#Range: > 0
-		hauntedSkullCost = 16
-		#Skull Spell Summon Down, Default: 0
-		#Range: 0 ~ 72000
-		hauntedSkullSummonDown = 0
-		#Skull Spell Cooldown, Default: 20
-		#Range: > 0
-		hauntedSkullCoolDown = 20
-		#Enable Haunted Skull projectile griefing, Default: true
-		hauntedSkullGriefing = true
-		#Time to cast Haunted Skull Spell, Default: 20
-		#Range: 0 ~ 72000
-		hauntedSkullTime = 20
-
-	[Spells."Rupture Spell"]
-		#Rupture Spell Cooldown, Default: 6000
-		#Range: > 0
-		ruptureCoolDown = 6000
-		#How much base damage the Void Rift deals, Default: 2.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		ruptureDamage = 2.0
-		#Time to cast Rupture Spell, Default: 120
-		#Range: 0 ~ 72000
-		ruptureTime = 120
-		#Rupture Spell Cost, Default: 250
-		#Range: > 0
-		ruptureCost = 250
 
 	[Spells."Quaking Spell"]
 		#Time to cast Quaking Spell, Default: 20
@@ -807,26 +395,6 @@
 		#Range: > 0
 		shockwaveCost = 80
 
-	[Spells."Vexing Spell"]
-		#Vexing Spell Cooldown, Default: 340
-		#Range: > 0
-		vexCoolDown = 340
-		#Vexing Spell Cost, Default: 18
-		#Range: > 0
-		vexCost = 18
-		#Number of Vex Servants that can be spawn with a wand, without instantly dying, around the player, Default: 8
-		#Range: > 1
-		wandVexLimit = 8
-		#Number of Vex Servants that can be spawn with a staff, without instantly dying, around the player, Default: 16
-		#Range: > 1
-		staffVexLimit = 16
-		#Vexing Spell Summon Down, Default: 340
-		#Range: 0 ~ 72000
-		vexSummonDown = 340
-		#Time to cast Vexing Spell, Default: 100
-		#Range: 0 ~ 72000
-		vexTime = 100
-
 	[Spells."Frostborn Spell"]
 		#Number of Ice Golems that can exist around the player, Default: 2
 		#Range: > 1
@@ -852,48 +420,6 @@
 		#Range: > 0
 		rotationCoolDown = 0
 
-	[Spells."Ghastly Spell"]
-		#Number of Mini Ghasts that can exist around the player, Default: 8
-		#Range: > 1
-		ghastLimit = 8
-		#Ghastly Spell Cost, Default: 24
-		#Range: > 0
-		ghastCost = 24
-		#Ghastly Spell Cooldown, Default: 200
-		#Range: > 0
-		ghastCoolDown = 200
-		#Time to cast Ghastly Spell, Default: 100
-		#Range: 0 ~ 72000
-		ghastDuration = 100
-		#Ghastly Spell Summon Down, Default: 300
-		#Range: 0 ~ 72000
-		ghastSummonDown = 300
-
-	[Spells."Blizzard Spell"]
-		#Blizzard Spell Cooldown, Default: 400
-		#Range: 0 ~ 72000
-		blizzardCoolDown = 400
-		#How many ticks the Blizzard Spell much charge before casting, Default: 20
-		#Range: > 0
-		blizzardChargeUp = 20
-		#How long the Blizzard Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
-		#Range: 0 ~ 72000
-		blizzardTime = 100
-		#Blizzard Spell Cost, Default: 8
-		#Range: > 0
-		blizzardCost = 8
-
-	[Spells."Trembling Spell"]
-		#Trembling Spell Cost, Default: 8
-		#Range: > 0
-		tremblingCost = 8
-		#Trembling Spell Cooldown, Default: 200
-		#Range: > 0
-		tremblingCoolDown = 200
-		#Time to cast Trembling Spell, Default: 0
-		#Range: 0 ~ 72000
-		tremblingTime = 0
-
 	[Spells."Biting Spell && Magic Fangs"]
 		#Biting Spell Cost, Default: 8
 		#Range: > 0
@@ -910,17 +436,6 @@
 		#Time to cast Biting Spell, Default: 40
 		#Range: 0 ~ 72000
 		fangTime = 40
-
-	[Spells."Soul Light Spell"]
-		#Time to cast Soul Light Spell, Default: 0
-		#Range: 0 ~ 72000
-		soulLightTime = 0
-		#Soul Light Spell Cooldown, Default: 10
-		#Range: > 0
-		soulLightCoolDown = 10
-		#Soul Light Spell Cost, Default: 1
-		#Range: > 0
-		soulLightCost = 1
 
 	[Spells."Mauling Spell"]
 		#Number of Bear Servants that can exist around the player, Default: 8
@@ -952,25 +467,6 @@
 		#Electro Orb Spell Cost, Default: 8
 		#Range: > 0
 		electroOrbCost = 8
-
-	[Spells."Frost Breath Spell"]
-		#How many ticks the Frost Breath Spell much charge before casting, Default: 0
-		#Range: > 0
-		frostBreathChargeUp = 0
-		#Frost Breath Spell Cost per second, Default: 2
-		#Range: > 0
-		frostBreathCost = 2
-		#Frost Breath Spell Cooldown, Default: 100
-		#Range: 0 ~ 72000
-		frostBreathCoolDown = 100
-		#Ring of the Dragon Frost Breath deals environmental damage, Default: true
-		dragonFrostGriefing = true
-		#How much base damage Frost Breath deals, Default: 1.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		frostBreathDamage = 1.0
-		#How long the Frost Breath Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
-		#Range: 0 ~ 72000
-		frostBreathTime = 100
 
 	[Spells."Bolting Spell"]
 		#Bolting Spell Cost, Default: 40
@@ -1052,6 +548,671 @@
 		#Range: 0 ~ 72000
 		ghostFireTime = 40
 
+	[Spells."Trident Storm Spell"]
+		#Trident Storm Spell Cooldown, Default: 200
+		#Range: > 0
+		tridentStormCoolDown = 200
+		#How much base damage Trident Storm from the spell deals, Default: 16.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		tridentStormDamage = 16.0
+		#Trident Storm Spell Cost, Default: 48
+		#Range: > 0
+		tridentStormCost = 48
+
+	[Spells."Glow Light Spell"]
+		#Time to cast Glow Light Spell, Default: 0
+		#Range: 0 ~ 72000
+		glowLightTime = 0
+		#Glow Light Spell Cost, Default: 2
+		#Range: > 0
+		glowLightCost = 2
+		#Glow Light Spell Cooldown, Default: 10
+		#Range: > 0
+		glowLightCoolDown = 10
+
+	[Spells."Tunnel Spell"]
+		#Tunnel Spell Cooldown, Default: 100
+		#Range: > 0
+		tunnelCoolDown = 100
+		#The initial distance of the Tunnel, Default: 8
+		#Range: > 0
+		tunnelDefaultDistance = 8
+		#The initial duration for the Tunnel lifespan in ticks, Default: 100
+		#Range: > 0
+		tunnelDefaultLifespan = 100
+		#Whether Tunnel Holes disallows certain mobs from falling or moving through it, Default: true
+		tunnelHaveBlacklist = true
+		#Tunnel Spell Cost, Default: 16
+		#Range: > 0
+		tunnelCost = 16
+
+	[Spells."Mirror Spell"]
+		#Time to cast Mirror Spell, Default: 40
+		#Range: 0 ~ 72000
+		illusionTime = 40
+		#Mirror Spell Cost, Default: 20
+		#Range: > 0
+		illusionCost = 20
+		#Mirror Spell Cooldown, Default: 340
+		#Range: > 0
+		illusionCoolDown = 340
+
+	[Spells."Cushion Spell"]
+		#Time to cast Cushion Spell, Default: 0
+		#Range: 0 ~ 72000
+		cushionTime = 0
+		#Cushion Spell Cooldown, Default: 40
+		#Range: > 0
+		cushionCoolDown = 40
+		#Cushion Spell Cost, Default: 8
+		#Range: > 0
+		cushionCost = 8
+
+	[Spells."Cyclone Spell"]
+		#Cyclone Spell Cooldown, Default: 300
+		#Range: > 0
+		cycloneCoolDown = 300
+		#Cyclone Spell Cost, Default: 16
+		#Range: > 0
+		cycloneCost = 16
+		#Time to cast Cyclone Spell, Default: 0
+		#Range: 0 ~ 72000
+		cycloneTime = 0
+
+	[Spells."Vanguard Spell"]
+		#Number of Vanguard Servants that an individual player can have in total, Default: 16
+		#Range: > 1
+		vanguardLimit = 16
+		#Time to cast Vanguard Spell, Default: 180
+		#Range: 0 ~ 72000
+		vanguardTime = 180
+		#Vanguard Spell Cooldown, Default: 100
+		#Range: > 0
+		vanguardCoolDown = 100
+		#Vanguard Spell Cost, Default: 24
+		#Range: > 0
+		vanguardCost = 24
+		#Vanguard Spell Summon Down, Default: 300
+		#Range: 0 ~ 72000
+		vanguardSummonDown = 300
+
+	[Spells."Monsoon Spell"]
+		#Monsoon Spell Cost, Default: 8
+		#Range: > 0
+		monsoonCost = 8
+		#Monsoon Spell Cooldown, Default: 100
+		#Range: > 0
+		monsoonCoolDown = 100
+		#Time to cast Monsoon Spell, Default: 40
+		#Range: 0 ~ 72000
+		monsoonTime = 40
+
+	[Spells."Spooky Spell"]
+		#Spooky Spell Summon Down, Default: 300
+		#Range: 0 ~ 72000
+		wraithSummonDown = 300
+		#Spooky Spell Cooldown, Default: 100
+		#Range: > 0
+		wraithCoolDown = 100
+		#Time to cast Spooky Spell, Default: 60
+		#Range: 0 ~ 72000
+		wraithTime = 60
+		#Number of Wraith Servants that a player can have, Default: 6
+		#Range: > 1
+		wraithLimit = 6
+		#Spooky Spell Cost, Default: 24
+		#Range: > 0
+		wraithCost = 24
+
+	[Spells."Overgrowth Spell"]
+		#Time to cast Overgrowth Spell, Default: 0
+		#Range: 0 ~ 72000
+		overgrowthTime = 0
+		#Overgrowth Spell Cooldown, Default: 120
+		#Range: > 0
+		overgrowthCoolDown = 120
+		#Overgrowth Spell Cost, Default: 8
+		#Range: > 0
+		overgrowthCost = 8
+
+	[Spells."Osseous Spell"]
+		#Osseous Spell Cooldown, Default: 100
+		#Range: > 0
+		skeletonCoolDown = 100
+		#Osseous Spell Cost, Default: 8
+		#Range: > 0
+		skeletonCost = 8
+		#Osseous Spell Summon Down, Default: 120
+		#Range: 0 ~ 72000
+		skeletonSummonDown = 120
+		#Number of Skeleton Servants that an individual player can have in total, Default: 32
+		#Range: > 1
+		skeletonLimit = 32
+		#Time to cast Osseous Spell, Default: 60
+		#Range: 0 ~ 72000
+		skeletonTime = 60
+
+	[Spells."Eruption Spell"]
+		#Eruption Spell Cost, Default: 32
+		#Range: > 0
+		eruptionCost = 32
+		#How much base damage Pyroclasts deal when directly hitting a mob, Default: 6.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		pyroclastDamage = 6.0
+		#Eruption Spell Cooldown, Default: 100
+		#Range: > 0
+		eruptionCoolDown = 100
+		#Enable Pyroclast projectile griefing, Default: true
+		pyroclastGriefing = true
+		#Time to cast Eruption Spell, Default: 60
+		#Range: 0 ~ 72000
+		eruptionTime = 60
+
+	[Spells."Shredding Spell && Royal Spikes"]
+		#How much base damage Royal Spikes deals per second, Default: 1.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		spikeDamage = 1.0
+		#Shredding Spell Cooldown, Default: 100
+		#Range: > 0
+		spikeCoolDown = 100
+		#Shredding Spell Cost, Default: 16
+		#Range: > 0
+		spikeCost = 16
+		#Amount of Soul Energy Royal Spikes gives when hitting mob(s), Default: 1
+		#Range: > 0
+		spikeGainSouls = 1
+		#Time to cast Shredding Spell, Default: 160
+		#Range: 0 ~ 72000
+		spikeTime = 160
+
+	[Spells."Sword Spell"]
+		#Time to cast Flying Sword Spell, Default: 0
+		#Range: 0 ~ 72000
+		swordTime = 0
+		#Sword Spell Cost, Default: 16
+		#Range: > 0
+		swordCost = 16
+		#Sword Spell Cooldown, Default: 20
+		#Range: > 0
+		swordCoolDown = 20
+
+	[Spells."Hail Spell"]
+		#Time to cast Hail Spell, Default: 40
+		#Range: 0 ~ 72000
+		hailTime = 40
+		#Hail Spell Cooldown, Default: 20
+		#Range: > 0
+		hailCoolDown = 20
+		#How much base damage Hail deals, Default: 1.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		hailDamage = 1.0
+		#Hail Spell Cost, Default: 8
+		#Range: > 0
+		hailCost = 8
+
+	[Spells."Ignite Spell"]
+		#How many seconds Ignite Spell sets target on fire unenchanted, Default: 5
+		#Range: > 1
+		igniteFireSeconds = 5
+		#Ignite Spell Cooldown, Default: 10
+		#Range: > 0
+		igniteCoolDown = 10
+		#Ignite Spell Cost, Default: 2
+		#Range: > 0
+		igniteCost = 2
+
+	[Spells."Hunting Spell"]
+		#Hunting Spell Summon Down, Default: 100
+		#Range: 0 ~ 72000
+		huntingSummonDown = 100
+		#Number of Black Wolves that can exist around the player, Default: 16
+		#Range: > 1
+		huntingLimit = 16
+		#Time to cast Hunting Spell, Default: 20
+		#Range: 0 ~ 72000
+		huntingTime = 20
+		#Hunting Spell Cost, Default: 8
+		#Range: > 0
+		huntingCost = 8
+		#Hunting Spell Cooldown, Default: 200
+		#Range: > 0
+		huntingCoolDown = 200
+
+	[Spells."Flight Spell"]
+		#Flight Spell Cost, Default: 4
+		#Range: > 0
+		flightCost = 4
+		#How many ticks the Flight Spell much charge before casting, Default: 0
+		#Range: > 0
+		flightChargeUp = 0
+
+	[Spells."Leeching Spell"]
+		#How long the Leeching Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 0
+		#Range: 0 ~ 72000
+		leechingTime = 0
+		#Leeching Spell Cost, Default: 8
+		#Range: > 0
+		leechingCost = 8
+		#How much base damage Leeching Spell deals per second, Default: 1.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		leechingDamage = 1.0
+		#Leeching Spell Cooldown, Default: 0
+		#Range: 0 ~ 72000
+		leechingCoolDown = 0
+		#How many ticks the Leeching Spell much charge before casting, Default: 0
+		#Range: > 0
+		leechingChargeUp = 0
+		#Leeching Spell healing percentage, Default: 100
+		#Range: 1 ~ 100
+		leechingPercent = 100
+
+	[Spells."Teeth Spell"]
+		#Teeth Spell Cooldown, Default: 20
+		#Range: > 0
+		teethCoolDown = 20
+		#Time to cast Teeth Spell, Default: 60
+		#Range: 0 ~ 72000
+		teethTime = 60
+		#How much base damage Vicious Tooth deals, Default: 12.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		viciousToothDamage = 12.0
+		#Teeth Spell Cost, Default: 8
+		#Range: > 0
+		teethCost = 8
+
+	[Spells."Swarm Spell"]
+		#How long the Swarm Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
+		#Range: 0 ~ 72000
+		swarmTime = 100
+		#How many ticks the Swarm Spell much charge before casting, Default: 0
+		#Range: > 0
+		swarmChargeUp = 0
+		#How much base damage Swarm deals, Default: 2.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		swarmDamage = 2.0
+		#Swarm Spell Cost per second, Default: 2
+		#Range: > 0
+		swarmCost = 2
+		#Swarm Spell Cooldown, Default: 100
+		#Range: 0 ~ 72000
+		swarmCoolDown = 100
+
+	[Spells."Telekinesis Spell"]
+		#The highest maximum health an entity can possess to be affected by Telekinesis spell, Default: 100
+		#Range: > 1
+		telekinesisMaxHealth = 100
+		#Telekinesis Spell Cost, Default: 4
+		#Range: > 0
+		telekinesisCost = 4
+		#How many ticks the Telekinesis Spell much charge before casting, Default: 0
+		#Range: > 0
+		telekinesisChargeUp = 0
+		#Add mobs that Telekinesis Spell don't work on. 
+		#To do so, enter the namespace ID of the mob, like "minecraft:zombie, minecraft:skeleton".
+		telekinesisBlackList = []
+
+	[Spells."Fire Breath Spell"]
+		#How long the Fire Breath Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
+		#Range: 0 ~ 72000
+		fireBreathTime = 100
+		#Ring of the Dragon Fire Breath deals environmental damage, Default: true
+		dragonFireGriefing = true
+		#How much base damage Fire Breath deals, Default: 2.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		fireBreathDamage = 2.0
+		#Fire Breath Spell Cooldown, Default: 100
+		#Range: 0 ~ 72000
+		fireBreathCoolDown = 100
+		#Fire Breath Spell Cost per second, Default: 2
+		#Range: > 0
+		fireBreathCost = 2
+		#How many ticks the Fire Breath Spell much charge before casting, Default: 0
+		#Range: > 0
+		fireBreathChargeUp = 0
+
+	[Spells."Arrow Rain Spell"]
+		#Arrow Rain Spell Cost, Default: 4
+		#Range: > 0
+		arrowRainCost = 4
+		#How long the Arrow Rain Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
+		#Range: 0 ~ 72000
+		arrowRainTime = 100
+		#Arrow Rain Spell Cooldown, Default: 400
+		#Range: 0 ~ 72000
+		arrowRainCoolDown = 400
+		#How many ticks the Arrow Rain Spell much charge before casting, Default: 20
+		#Range: > 0
+		arrowRainChargeUp = 20
+
+	[Spells."Thunderbolt Spell"]
+		#How much base damage Thunderbolts deals, Default: 5.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		thunderboltDamage = 5.0
+		#Time to cast Thunderbolt Spell, Default: 40
+		#Range: 0 ~ 72000
+		thunderboltTime = 40
+		#Thunderbolt Spell Cooldown, Default: 0
+		#Range: > 0
+		thunderboltCoolDown = 0
+		#Thunderbolt Spell Cost, Default: 16
+		#Range: > 0
+		thunderboltCost = 16
+
+	[Spells."Barricade Spell"]
+		#Time to cast Barricade Spell, Default: 0
+		#Range: 0 ~ 72000
+		barricadeTime = 0
+		#Barricade Spell Cooldown, Default: 100
+		#Range: > 0
+		barricadeCoolDown = 100
+		#Barricade Spell Cost, Default: 16
+		#Range: > 0
+		barricadeCost = 16
+
+	[Spells."Recall Spell"]
+		#Time to cast Recall Spell, Default: 160
+		#Range: 0 ~ 72000
+		recallTime = 160
+		#Recall Spell Cooldown, Default: 100
+		#Range: > 0
+		recallCoolDown = 100
+		#Recall Spell Cost, Default: 1000
+		#Range: > 0
+		recallCost = 1000
+
+	[Spells."Fire Blast Spell"]
+		#How much base minimum damage Fire Blast Spell deals, Default: 6.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		fireBlastDamage = 6.0
+		#How much base maximum damage Fire Blast Spell deals, Default: 12.0
+		#Range: 2.0 ~ 1.7976931348623157E308
+		fireBlastMaxDamage = 12.0
+		#Fire Blast Spell Cooldown, Default: 100
+		#Range: > 0
+		fireBlastCoolDown = 100
+		#Fire Blast Spell Cost, Default: 40
+		#Range: > 0
+		fireBlastCost = 40
+		#Time to cast Fire Blast Spell, Default: 0
+		#Range: 0 ~ 72000
+		fireBlastDuration = 0
+
+	[Spells."Blazing Spell"]
+		#Blazing Spell Cost, Default: 16
+		#Range: > 0
+		blazeCost = 16
+		#Time to cast Blazing Spell, Default: 100
+		#Range: 0 ~ 72000
+		blazeDuration = 100
+		#Number of Blaze Servants that can exist around the player, Default: 16
+		#Range: > 1
+		blazeLimit = 16
+		#Blazing Spell Summon Down, Default: 400
+		#Range: 0 ~ 72000
+		blazeSummonDown = 400
+		#Blazing Spell Cooldown, Default: 200
+		#Range: > 0
+		blazeCoolDown = 200
+
+	[Spells."Troop Spell"]
+		#Troop Spell Cooldown, Default: 20
+		#Range: > 0
+		troopCoolDown = 20
+		#Time to cast Troop Spell, Default: 100
+		#Range: 0 ~ 72000
+		troopTime = 100
+		#Troop Spell Cost, Default: 32
+		#Range: > 0
+		troopCost = 32
+
+	[Spells."Updraft Spell"]
+		#Updraft Spell Cooldown, Default: 60
+		#Range: > 0
+		updraftCoolDown = 60
+		#Updraft Spell Cost, Default: 8
+		#Range: > 0
+		updraftCost = 8
+		#How much base damage Updraft Blasts deals, Default: 5.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		updraftBlastDamage = 5.0
+		#Time to cast Updraft Spell, Default: 0
+		#Range: 0 ~ 72000
+		updraftTime = 0
+
+	[Spells."Blackguard Spell"]
+		#Time to cast Blackguard Spell, Default: 180
+		#Range: 0 ~ 72000
+		blackguardTime = 180
+		#Blackguard Spell Cooldown, Default: 1200
+		#Range: > 0
+		blackguardCoolDown = 1200
+		#Blackguard Spell Cost, Default: 48
+		#Range: > 0
+		blackguardCost = 48
+		#Number of Blackguard Servants that an individual player can have in total, Default: 16
+		#Range: > 1
+		blackguardLimit = 16
+		#Blackguard Spell Summon Down, Default: 300
+		#Range: 0 ~ 72000
+		blackguardSummonDown = 300
+
+	[Spells."Chilling Spell"]
+		#Time to cast Chilling Spell, Default: 60
+		#Range: 0 ~ 72000
+		chillingTime = 60
+		#Chilling Spell Cooldown, Default: 500
+		#Range: > 0
+		chillingCoolDown = 500
+		#Chilling Spell Cost, Default: 48
+		#Range: > 0
+		chillingCost = 48
+
+	[Spells."Grapple Spell"]
+		#Grapple Spell Cost, Default: 4
+		#Range: > 0
+		grappleCost = 4
+		#Time to cast Grapple Spell, Default: 0
+		#Range: 0 ~ 72000
+		grappleTime = 0
+		#Grapple Spell Cooldown, Default: 20
+		#Range: > 0
+		grappleCoolDown = 20
+
+	[Spells."Ice Storm Spell"]
+		#Ice Storm Spell Cooldown, Default: 100
+		#Range: > 0
+		iceStormCoolDown = 100
+		#Ice Storm Spell Cost, Default: 16
+		#Range: > 0
+		iceStormCost = 16
+		#Time to cast Ice Storm Spell, Default: 40
+		#Range: 0 ~ 72000
+		iceStormTime = 40
+		#How much base damage Ice Storm deals, Default: 5.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		iceStormDamage = 5.0
+
+	[Spells."Crafting Spell"]
+		#Crafting Spell Cooldown, Default: 20
+		#Range: > 0
+		craftingCoolDown = 20
+		#Crafting Spell Cost, Default: 2
+		#Range: > 0
+		craftingCost = 2
+		#Time to cast Crafting Spell, Default: 0
+		#Range: 0 ~ 72000
+		craftingDuration = 0
+
+	[Spells."Weakening Spell"]
+		#Weakening Spell Cost, Default: 100
+		#Range: > 0
+		weakeningCost = 100
+		#Time to cast Weakening Spell, Default: 0
+		#Range: 0 ~ 72000
+		weakeningDuration = 0
+		#Weakening Spell Cooldown, Default: 400
+		#Range: > 0
+		weakeningCoolDown = 400
+
+	[Spells."Magic Bolt Spell"]
+		#Time to cast Magic Bolt Spell, Default: 0
+		#Range: 0 ~ 72000
+		magicBoltTime = 0
+		#How much base damage Magic Bolts deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		magicBoltDamage = 4.0
+		#Magic Bolt Spell Cooldown, Default: 20
+		#Range: > 0
+		magicBoltCoolDown = 20
+		#Magic Bolt Spell Cost, Default: 8
+		#Range: > 0
+		magicBoltCost = 8
+
+	[Spells."Skull Spell"]
+		#Number of Haunted Skulls that can a player can have, Default: 8
+		#Range: > 1
+		skullLimit = 8
+		#How much base damage Haunted Skulls deal when directly hitting a mob, Default: 5.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		hauntedSkullDamage = 5.0
+		#Skull Spell Cost, Default: 16
+		#Range: > 0
+		hauntedSkullCost = 16
+		#Skull Spell Summon Down, Default: 0
+		#Range: 0 ~ 72000
+		hauntedSkullSummonDown = 0
+		#Skull Spell Cooldown, Default: 20
+		#Range: > 0
+		hauntedSkullCoolDown = 20
+		#Enable Haunted Skull projectile griefing, Default: true
+		hauntedSkullGriefing = true
+		#Time to cast Haunted Skull Spell, Default: 20
+		#Range: 0 ~ 72000
+		hauntedSkullTime = 20
+
+	[Spells."Rupture Spell"]
+		#Rupture Spell Cooldown, Default: 6000
+		#Range: > 0
+		ruptureCoolDown = 6000
+		#How much base damage the Void Rift deals, Default: 2.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		ruptureDamage = 2.0
+		#Time to cast Rupture Spell, Default: 120
+		#Range: 0 ~ 72000
+		ruptureTime = 120
+		#Rupture Spell Cost, Default: 250
+		#Range: > 0
+		ruptureCost = 250
+
+	[Spells."Vexing Spell"]
+		#Vexing Spell Cooldown, Default: 340
+		#Range: > 0
+		vexCoolDown = 340
+		#Vexing Spell Cost, Default: 18
+		#Range: > 0
+		vexCost = 18
+		#Number of Vex Servants that can be spawn with a wand, without instantly dying, around the player, Default: 8
+		#Range: > 1
+		wandVexLimit = 8
+		#Number of Vex Servants that can be spawn with a staff, without instantly dying, around the player, Default: 16
+		#Range: > 1
+		staffVexLimit = 16
+		#Vexing Spell Summon Down, Default: 340
+		#Range: 0 ~ 72000
+		vexSummonDown = 340
+		#Time to cast Vexing Spell, Default: 100
+		#Range: 0 ~ 72000
+		vexTime = 100
+
+	[Spells."Ghastly Spell"]
+		#Number of Mini Ghasts that can exist around the player, Default: 8
+		#Range: > 1
+		ghastLimit = 8
+		#Ghastly Spell Cost, Default: 24
+		#Range: > 0
+		ghastCost = 24
+		#Ghastly Spell Cooldown, Default: 200
+		#Range: > 0
+		ghastCoolDown = 200
+		#Time to cast Ghastly Spell, Default: 100
+		#Range: 0 ~ 72000
+		ghastDuration = 100
+		#Ghastly Spell Summon Down, Default: 300
+		#Range: 0 ~ 72000
+		ghastSummonDown = 300
+
+	[Spells."Blizzard Spell"]
+		#Blizzard Spell Cooldown, Default: 400
+		#Range: 0 ~ 72000
+		blizzardCoolDown = 400
+		#How many ticks the Blizzard Spell much charge before casting, Default: 20
+		#Range: > 0
+		blizzardChargeUp = 20
+		#How long the Blizzard Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
+		#Range: 0 ~ 72000
+		blizzardTime = 100
+		#Blizzard Spell Cost, Default: 8
+		#Range: > 0
+		blizzardCost = 8
+
+	[Spells."Trembling Spell"]
+		#Trembling Spell Cost, Default: 8
+		#Range: > 0
+		tremblingCost = 8
+		#Trembling Spell Cooldown, Default: 200
+		#Range: > 0
+		tremblingCoolDown = 200
+		#Time to cast Trembling Spell, Default: 0
+		#Range: 0 ~ 72000
+		tremblingTime = 0
+
+	[Spells."Soul Light Spell"]
+		#Time to cast Soul Light Spell, Default: 0
+		#Range: 0 ~ 72000
+		soulLightTime = 0
+		#Soul Light Spell Cooldown, Default: 10
+		#Range: > 0
+		soulLightCoolDown = 10
+		#Soul Light Spell Cost, Default: 1
+		#Range: > 0
+		soulLightCost = 1
+
+	[Spells."Frost Breath Spell"]
+		#How many ticks the Frost Breath Spell much charge before casting, Default: 0
+		#Range: > 0
+		frostBreathChargeUp = 0
+		#Frost Breath Spell Cost per second, Default: 2
+		#Range: > 0
+		frostBreathCost = 2
+		#Frost Breath Spell Cooldown, Default: 100
+		#Range: 0 ~ 72000
+		frostBreathCoolDown = 100
+		#Ring of the Dragon Frost Breath deals environmental damage, Default: true
+		dragonFrostGriefing = true
+		#How much base damage Frost Breath deals, Default: 1.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		frostBreathDamage = 1.0
+		#How long the Frost Breath Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
+		#Range: 0 ~ 72000
+		frostBreathTime = 100
+
+	[Spells."Phantasm Spell"]
+		#Time to cast Phantasm Spell, Default: 60
+		#Range: 0 ~ 72000
+		phantomTime = 60
+		#Phantasm Spell Cooldown, Default: 100
+		#Range: > 0
+		phantomCoolDown = 100
+		#Number of Phantom Servants that a player can have, Default: 16
+		#Range: > 1
+		phantomLimit = 16
+		#Phantasm Spell Cost, Default: 24
+		#Range: > 0
+		phantomCost = 24
+		#Phantasm Spell Summon Down, Default: 300
+		#Range: 0 ~ 72000
+		phantomSummonDown = 300
+
 	[Spells."Sensing Spell"]
 		#Time to cast Sensing Spell, Default: 20
 		#Range: 0 ~ 72000
@@ -1091,17 +1252,6 @@
 		#Range: > 0
 		iceChunkCoolDown = 300
 
-	[Spells."Trident Storm Spell"]
-		#Trident Storm Spell Cooldown, Default: 200
-		#Range: > 0
-		tridentStormCoolDown = 200
-		#How much base damage Trident Storm from the spell deals, Default: 16.0
-		#Range: 1.0 ~ 1.7976931348623157E308
-		tridentStormDamage = 16.0
-		#Trident Storm Spell Cost, Default: 48
-		#Range: > 0
-		tridentStormCost = 48
-
 	[Spells."Discharge Spell"]
 		#Time to cast Discharge Spell, Default: 0
 		#Range: 0 ~ 72000
@@ -1119,6 +1269,23 @@
 		#Range: 1.0 ~ 1.7976931348623157E308
 		dischargeMinDamage = 6.0
 
+	[Spells."Slimy Spell"]
+		#Slimy Spell Cooldown, Default: 200
+		#Range: > 0
+		slimyCoolDown = 200
+		#Time to cast Slimy Spell, Default: 20
+		#Range: 0 ~ 72000
+		slimyTime = 20
+		#Number of Slime Servants and variants a player can have, Default: 16
+		#Range: > 1
+		slimyLimit = 16
+		#Slimy Spell Cost, Default: 16
+		#Range: > 0
+		slimyCost = 16
+		#Slimy Spell Summon Down, Default: 100
+		#Range: 0 ~ 72000
+		slimySummonDown = 100
+
 	[Spells."Blossoming Spell"]
 		#Blossoming Spell Cost, Default: 32
 		#Range: > 0
@@ -1133,32 +1300,22 @@
 		#Range: 1.0 ~ 1.7976931348623157E308
 		blossomDamage = 6.0
 
-	[Spells."Glow Light Spell"]
-		#Time to cast Glow Light Spell, Default: 0
+	[Spells."Bubble Stream Spell"]
+		#How much base damage Bubble Stream deals, Default: 1.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		bubbleStreamDamage = 1.0
+		#Bubble Stream Spell Cost per second, Default: 2
+		#Range: > 0
+		bubbleStreamCost = 2
+		#Bubble Stream Spell Cooldown, Default: 100
 		#Range: 0 ~ 72000
-		glowLightTime = 0
-		#Glow Light Spell Cost, Default: 2
+		bubbleStreamCoolDown = 100
+		#How long the Bubble Stream Spell can be casted, setting it to 0 will allow the spell to be cast indefinitely, Default: 100
+		#Range: 0 ~ 72000
+		bubbleStreamTime = 100
+		#How many ticks the Bubble Stream Spell much charge before casting, Default: 0
 		#Range: > 0
-		glowLightCost = 2
-		#Glow Light Spell Cooldown, Default: 10
-		#Range: > 0
-		glowLightCoolDown = 10
-
-	[Spells."Tunnel Spell"]
-		#Tunnel Spell Cooldown, Default: 100
-		#Range: > 0
-		tunnelCoolDown = 100
-		#The initial distance of the Tunnel, Default: 8
-		#Range: > 0
-		tunnelDefaultDistance = 8
-		#The initial duration for the Tunnel lifespan in ticks, Default: 100
-		#Range: > 0
-		tunnelDefaultLifespan = 100
-		#Whether Tunnel Holes disallows certain mobs from falling or moving through it, Default: true
-		tunnelHaveBlacklist = true
-		#Tunnel Spell Cost, Default: 16
-		#Range: > 0
-		tunnelCost = 16
+		bubbleStreamChargeUp = 0
 
 	[Spells."Ice Spike Spell"]
 		#How much base damage Ice Spike deals, Default: 3.0
@@ -1221,17 +1378,6 @@
 		#Range: > 0
 		banishCost = 16
 
-	[Spells."Mirror Spell"]
-		#Time to cast Mirror Spell, Default: 40
-		#Range: 0 ~ 72000
-		illusionTime = 40
-		#Mirror Spell Cost, Default: 20
-		#Range: > 0
-		illusionCost = 20
-		#Mirror Spell Cooldown, Default: 340
-		#Range: > 0
-		illusionCoolDown = 340
-
 	[Spells."End Walker Spell"]
 		#End Walk Spell Cost, Default: 48
 		#Range: > 0
@@ -1257,16 +1403,16 @@
 		#Range: > 0
 		ironHideCost = 24
 
-	[Spells."Cushion Spell"]
-		#Time to cast Cushion Spell, Default: 0
+	[Spells."Tidal Spell"]
+		#Tidal Spell Cost, Default: 24
+		#Range: > 0
+		tidalCost = 24
+		#Tidal Spell Cooldown, Default: 60
+		#Range: > 0
+		tidalCoolDown = 60
+		#Time to cast Tidal Spell, Default: 20
 		#Range: 0 ~ 72000
-		cushionTime = 0
-		#Cushion Spell Cooldown, Default: 40
-		#Range: > 0
-		cushionCoolDown = 40
-		#Cushion Spell Cost, Default: 8
-		#Range: > 0
-		cushionCost = 8
+		tidalTime = 20
 
 	[Spells."Pulverize Spell"]
 		#Pulverize Spell Cooldown, Default: 20
@@ -1276,33 +1422,16 @@
 		#Range: > 0
 		pulverizeCost = 16
 
-	[Spells."Cyclone Spell"]
-		#Cyclone Spell Cooldown, Default: 300
+	[Spells."Biomine Spell"]
+		#Biomine Spell Cost, Default: 16
 		#Range: > 0
-		cycloneCoolDown = 300
-		#Cyclone Spell Cost, Default: 16
+		biomineCost = 16
+		#Biomine Spell Cooldown, Default: 200
 		#Range: > 0
-		cycloneCost = 16
-		#Time to cast Cyclone Spell, Default: 0
+		biomineCoolDown = 200
+		#Time to cast Biomine Spell, Default: 40
 		#Range: 0 ~ 72000
-		cycloneTime = 0
-
-	[Spells."Vanguard Spell"]
-		#Number of Vanguard Servants that an individual player can have in total, Default: 16
-		#Range: > 1
-		vanguardLimit = 16
-		#Time to cast Vanguard Spell, Default: 180
-		#Range: 0 ~ 72000
-		vanguardTime = 180
-		#Vanguard Spell Cooldown, Default: 100
-		#Range: > 0
-		vanguardCoolDown = 100
-		#Vanguard Spell Cost, Default: 24
-		#Range: > 0
-		vanguardCost = 24
-		#Vanguard Spell Summon Down, Default: 300
-		#Range: 0 ~ 72000
-		vanguardSummonDown = 300
+		biomineTime = 40
 
 [Enchantments]
 	#Soul Eater Maximum Enchantment Level, Default: 5
@@ -1335,6 +1464,8 @@
 	ownerHitKill = true
 	#Certain spells can damage the Ender Dragon, Default: true
 	spellDamageEnderDragon = true
+	#Casting Spells will cause the caster to completely stop moving, Default: false
+	fullStopCast = false
 	#Spells cost double soul cost if enchanted, Default: true
 	enchantMultiCost = true
 	#Certain spells that summons servants will give player Summon Down effect, Default: true

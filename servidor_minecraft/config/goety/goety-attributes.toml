@@ -358,6 +358,17 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			spiderServantHealth = 16.0
 
+		[Attributes."Summoned Mobs".Snapper]
+			#How much damage Snappers melee attack deals, Default: 4.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			snapperDamage = 4.0
+			#How much natural Armor Snappers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			snapperArmor = 0.0
+			#How much Max Health Snappers have, Default: 10.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			snapperHealth = 10.0
+
 		[Attributes."Summoned Mobs"."Squall Golem"]
 			#How much damage Squall Golems deals, Default: 16.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -379,6 +390,20 @@
 			#How much damage Web Spider Servants melee attack deals, Default: 2.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			webSpiderServantDamage = 2.0
+
+		[Attributes."Summoned Mobs"."Phantom Servant"]
+			#How much damage Phantom Servants deals initially, Default: 2.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			phantomServantInitialDamage = 2.0
+			#How much Max Health Phantom Servants have, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			phantomServantHealth = 20.0
+			#How much damage is increased per Phantom Servants size, Default: 6.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			phantomServantSizeDamage = 6.0
+			#How much Armor Phantom Servants have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			phantomServantArmor = 0.0
 
 		[Attributes."Summoned Mobs"."Skeleton Servant"]
 			#How much extra damage Skeleton Servants range attack deals, Default: 0.0
@@ -512,6 +537,17 @@
 			#How much Max Health Poison-Quill Vines have, Default: 40.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			poisonQuillVineHealth = 40.0
+
+		[Attributes."Summoned Mobs"."Skeleton Wolf"]
+			#How much Max Health Skeleton Wolves have, Default: 10.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			skeletonWolfHealth = 10.0
+			#How much natural Armor Skeleton Wolves have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			skeletonWolfArmor = 0.0
+			#How much damage Skeleton Wolves melee attack deals, Default: 4.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			skeletonWolfDamage = 4.0
 
 		[Attributes."Summoned Mobs"."Zombie Servant"]
 			#How much natural armor points Zombie Servants have, Default: 2.0
