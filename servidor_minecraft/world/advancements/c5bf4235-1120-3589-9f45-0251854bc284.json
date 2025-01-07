@@ -19554,6 +19554,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 05:31:14 +0000"
+    },
+    "done": true
+  },
   "littlemaidrebirth:recipes/littlemaidrebirth.common/little_maid_spawn_egg": {
     "criteria": {
       "egg": "2025-01-07 04:36:01 +0000",

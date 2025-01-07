@@ -22333,6 +22333,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_meef": "2025-01-07 05:30:54 +0000"
+    },
+    "done": false
+  },
   "grimoireofgaia:recipes/food/golden_apple_pie": {
     "criteria": {
       "has_golden_apple_pie_slice": "2025-01-07 05:06:32 +0000"

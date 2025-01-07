@@ -3120,3 +3120,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 05:21:24.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=-46, z=663} BlockPos{x=-128, y=-50, z=651}
 [07Jan2025 05:21:24.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=-46, z=663} BlockPos{x=-128, y=-50, z=651}
 [07Jan2025 05:21:24.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=-46, z=663} BlockPos{x=-128, y=-50, z=651}
+[07Jan2025 05:21:41.347] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:21:41.348] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:21:41.349] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:21:41.350] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:21:41.490] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:21:41.491] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:21:41.491] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:21:41.492] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:08.141] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:08.142] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:08.142] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:08.143] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:08.143] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:08.448] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:08.449] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:11.265] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:11.266] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:11.613] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:23:11.613] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[07Jan2025 05:24:14.446] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.395869f,range:8,source:{pos:[I;-110,-47,184],type:"minecraft:block"}}]
+[07Jan2025 05:24:45.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved wrongly!
+[07Jan2025 05:25:24.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oewe
+[07Jan2025 05:25:30.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> k xd
+[07Jan2025 05:26:21.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> so
+[07Jan2025 05:26:29.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ya se donde buscar profanun
+[07Jan2025 05:27:16.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ya voy a cerrar el server
+[07Jan2025 05:27:20.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> MMV
+[07Jan2025 05:27:29.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> disculpa xd
+[07Jan2025 05:28:13.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=-36, z=655} BlockPos{x=-153, y=-36, z=655}
+[07Jan2025 05:29:21.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=-43, z=663} BlockPos{x=-138, y=-42, z=663}
+[07Jan2025 05:29:21.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=-43, z=663} BlockPos{x=-138, y=-42, z=663}
+[07Jan2025 05:29:21.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=-43, z=663} BlockPos{x=-138, y=-41, z=664}
+[07Jan2025 05:29:47.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> extraño el spore
+[07Jan2025 05:30:14.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=-15, z=680} BlockPos{x=-164, y=-15, z=680}
+[07Jan2025 05:30:14.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=-16, z=679} BlockPos{x=-166, y=-15, z=680}
