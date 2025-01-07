@@ -15910,27 +15910,9 @@
     },
     "done": true
   },
-  "sons_of_sins:its_morbin_time": {
-    "criteria": {
-      "its_morbin_time": "2024-12-03 06:58:00 +0000"
-    },
-    "done": true
-  },
-  "sons_of_sins:slice_all": {
-    "criteria": {
-      "slice_all": "2024-12-03 06:58:01 +0000"
-    },
-    "done": true
-  },
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2024-12-03 06:59:31 +0000"
-    },
-    "done": true
-  },
-  "sons_of_sins:to_dust_you_shall_return": {
-    "criteria": {
-      "to_dust_you_shall_return": "2024-12-03 07:09:21 +0000"
     },
     "done": true
   },
@@ -16009,12 +15991,6 @@
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2024-12-03 07:19:29 +0000"
-    },
-    "done": true
-  },
-  "sons_of_sins:lazarus_pit": {
-    "criteria": {
-      "lazarus_pit": "2024-12-03 07:19:40 +0000"
     },
     "done": true
   },
@@ -16201,12 +16177,6 @@
   "croptopia:root": {
     "criteria": {
       "root": "2024-12-10 03:59:01 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:root": {
-    "criteria": {
-      "sample_trigger": "2024-12-10 03:59:01 +0000"
     },
     "done": true
   },
@@ -18152,13 +18122,6 @@
     },
     "done": true
   },
-  "hopo:minecraft/adventure/all_mineshaft": {
-    "criteria": {
-      "locate_vanilla_mineshaft": "2024-12-11 04:01:23 +0000",
-      "locate_vanilla_mineshaft_mesa": "2024-12-14 06:25:59 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting": {
     "criteria": {
       "has_waxed_weathered_copper": "2024-12-11 04:02:20 +0000"
@@ -19075,14 +19038,6 @@
     },
     "done": true
   },
-  "hopo:minecraft/adventure/locate_all_underwater_structures": {
-    "criteria": {
-      "locate_shipwreck": "2024-12-14 22:10:04 +0000",
-      "locate_underwater_small_ruins": "2024-12-18 03:55:35 +0000",
-      "locate_ruin_cold": "2024-12-14 07:18:40 +0000"
-    },
-    "done": false
-  },
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2024-12-14 07:40:24 +0000"
@@ -19410,12 +19365,6 @@
   "goety:goety/gain_fragment": {
     "criteria": {
       "forbidden_piece": "2024-12-14 22:32:04 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:regular_tower": {
-    "criteria": {
-      "regular": "2024-12-14 22:34:30 +0000"
     },
     "done": true
   },
@@ -22302,6 +22251,63 @@
       "reach_level_50_0": "2024-12-28 03:45:59 +0000"
     },
     "done": true
+  },
+  "littlemaidrebirth:recipes/littlemaidrebirth.common/little_maid_spawn_egg": {
+    "criteria": {
+      "egg": "2025-01-07 04:45:11 +0000",
+      "cake": "2025-01-07 04:45:11 +0000",
+      "gold_ingot": "2025-01-07 04:45:11 +0000",
+      "sugar": "2025-01-07 04:45:11 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-07 04:45:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:45:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-01-07 04:45:11 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-07 04:47:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:45:12 +0000"
+    },
+    "done": false
+  },
+  "faded_conquest_2:faded_2": {
+    "criteria": {
+      "faded_2_0": "2025-01-07 04:45:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:45:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:45:12 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
