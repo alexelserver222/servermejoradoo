@@ -2775,3 +2775,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 04:03:16.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
 [08Jan2025 04:03:19.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 lost connection: Disconnected
 [08Jan2025 04:03:19.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
+[08Jan2025 04:06:39.119] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-769, y=20, z=-732}
+[08Jan2025 04:07:24.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=-31, z=-697} BlockPos{x=-563, y=-32, z=-697}
+[08Jan2025 04:07:24.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=-31, z=-697} BlockPos{x=-563, y=-32, z=-697}
+[08Jan2025 04:07:24.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=-31, z=-697} BlockPos{x=-563, y=-32, z=-697}
+[08Jan2025 04:08:14.394] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-788, y=2, z=-740}
+[08Jan2025 04:08:14.395] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-787, y=3, z=-740}
+[08Jan2025 04:08:14.841] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-789, y=2, z=-781}
+[08Jan2025 04:08:15.210] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[08Jan2025 04:12:25.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-568, y=-31, z=-678} BlockPos{x=-568, y=-32, z=-678}
+[08Jan2025 04:12:25.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-568, y=-31, z=-678} BlockPos{x=-568, y=-32, z=-678}
+[08Jan2025 04:12:25.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-568, y=-31, z=-678} BlockPos{x=-568, y=-32, z=-678}
+[08Jan2025 04:12:25.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-568, y=-31, z=-678} BlockPos{x=-568, y=-32, z=-678}
+[08Jan2025 04:12:27.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-568, y=-31, z=-675} BlockPos{x=-568, y=-32, z=-675}
+[08Jan2025 04:18:12.688] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 04:18:12.689] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 04:18:12.690] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 04:18:12.690] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 04:18:13.010] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 04:18:13.011] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 04:18:13.011] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 04:18:13.012] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 04:23:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 was slain by The Moonflower
