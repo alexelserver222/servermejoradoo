@@ -2715,3 +2715,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 03:52:22.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-31, z=-587} BlockPos{x=-534, y=-32, z=-586}
 [08Jan2025 03:53:09.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
 [08Jan2025 03:53:10.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[08Jan2025 03:57:24.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 moved wrongly!
+[08Jan2025 03:57:37.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-32, z=-651} BlockPos{x=-534, y=-32, z=-652}
+[08Jan2025 03:57:38.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-31, z=-651} BlockPos{x=-534, y=-32, z=-652}
+[08Jan2025 03:57:38.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-31, z=-651} BlockPos{x=-534, y=-32, z=-652}
+[08Jan2025 03:57:38.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-31, z=-651} BlockPos{x=-534, y=-32, z=-652}
+[08Jan2025 03:57:39.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-31, z=-651} BlockPos{x=-534, y=-32, z=-652}
+[08Jan2025 03:57:41.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-32, z=-657} BlockPos{x=-534, y=-32, z=-655}
+[08Jan2025 03:57:41.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-32, z=-657} BlockPos{x=-534, y=-32, z=-655}
+[08Jan2025 03:57:42.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-32, z=-657} BlockPos{x=-534, y=-31, z=-656}
+[08Jan2025 03:57:42.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-32, z=-657} BlockPos{x=-534, y=-31, z=-656}
+[08Jan2025 03:57:42.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-32, z=-657} BlockPos{x=-534, y=-31, z=-656}
+[08Jan2025 03:57:43.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-534, y=-32, z=-658} BlockPos{x=-534, y=-32, z=-657}
+[08Jan2025 03:57:46.055] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 03:57:46.057] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 03:57:46.070] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 03:57:46.071] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 03:57:46.072] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 03:57:46.072] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 03:57:46.073] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 03:58:06.260] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 03:58:06.261] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 03:58:06.325] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 03:58:06.326] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 04:00:00.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe
+[08Jan2025 04:00:02.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> donde andas
+[08Jan2025 04:00:02.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ane
+[08Jan2025 04:00:06.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> minando
+[08Jan2025 04:00:17.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> pq
+[08Jan2025 04:00:21.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to Doom_Slayer246]
+[08Jan2025 04:00:34.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ese bloque es bonito xd
+[08Jan2025 04:00:40.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> mirta
+[08Jan2025 04:00:40.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> parece hueso
+[08Jan2025 04:00:44.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ¡
+[08Jan2025 04:00:48.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> pa q es
+[08Jan2025 04:00:51.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> eso pa algo despues
+[08Jan2025 04:00:53.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[08Jan2025 04:00:59.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> damelo
+[08Jan2025 04:01:20.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> dame xd
+[08Jan2025 04:01:32.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ya lo vi
+[08Jan2025 04:01:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[08Jan2025 04:01:33.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> xd
+[08Jan2025 04:01:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> pero no tenemios raids
+[08Jan2025 04:01:50.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> me voy acabe el contenido del proximo stream xd
+[08Jan2025 04:02:03.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ?
+[08Jan2025 04:02:06.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> tengo uno de esos aldeanos secuestrado
+[08Jan2025 04:02:11.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> los malor
+[08Jan2025 04:02:13.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> aa
+[08Jan2025 04:02:19.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> me voy por que hare programacion
+[08Jan2025 04:02:20.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> profanum
+[08Jan2025 04:02:24.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oka
+[08Jan2025 04:02:29.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> si se cierra el server me avisas
+[08Jan2025 04:02:33.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> dale
+[08Jan2025 04:02:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[08Jan2025 04:02:40.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[08Jan2025 04:02:50.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
+[08Jan2025 04:02:54.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
+[08Jan2025 04:03:13.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Teleported Alexten22 to 0.500000, 100.000000, 0.500000]
+[08Jan2025 04:03:16.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[08Jan2025 04:03:19.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexten22 lost connection: Disconnected
+[08Jan2025 04:03:19.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexten22 left the game
