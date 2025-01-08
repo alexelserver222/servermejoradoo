@@ -511,6 +511,7 @@
       "cookie": "2024-11-10 06:21:48 +0000",
       "melon_slice": "2024-10-29 07:24:23 +0000",
       "golden_carrot": "2024-12-10 07:33:15 +0000",
+      "mushroom_stew": "2025-01-07 06:20:57 +0000",
       "cod": "2024-11-06 05:58:11 +0000",
       "carrot": "2024-10-27 06:38:00 +0000"
     },
@@ -6145,12 +6146,6 @@
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_dried_kelp_block": "2024-10-31 21:50:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-10-31 22:14:13 +0000"
     },
     "done": true
   },
@@ -17437,6 +17432,7 @@
       "canopy_sapling": "2024-12-27 03:10:50 +0000",
       "root": "2024-12-27 03:04:38 +0000",
       "time_wood": "2024-12-18 03:40:38 +0000",
+      "twilight_oak_chest": "2025-01-08 03:26:29 +0000",
       "twilight_oak_log": "2024-12-27 03:07:41 +0000",
       "twilight_oak_sapling": "2024-12-27 03:07:41 +0000",
       "time_planks": "2024-12-28 01:27:46 +0000",
@@ -22309,12 +22305,6 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/void_lily": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-07 05:18:26 +0000"
-    },
-    "done": true
-  },
   "grimoireofgaia:recipes/misc/diamond_shard_to_diamond": {
     "criteria": {
       "has_diamond_shard": "2025-01-07 05:06:32 +0000"
@@ -22327,27 +22317,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/television_remote": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-07 05:09:56 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/witch": {
-    "criteria": {
-      "kill": "2025-01-07 05:55:40 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "cooked_meef": "2025-01-07 05:30:54 +0000"
-    },
-    "done": false
-  },
   "grimoireofgaia:recipes/food/golden_apple_pie": {
     "criteria": {
       "has_golden_apple_pie_slice": "2025-01-07 05:06:32 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/emerald_shard_to_emerald": {
+    "criteria": {
+      "has_emerald_shard": "2025-01-07 05:06:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-07 05:09:56 +0000"
     },
     "done": true
   },
@@ -22357,11 +22341,137 @@
     },
     "done": true
   },
-  "grimoireofgaia:recipes/misc/emerald_shard_to_emerald": {
+  "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
-      "has_emerald_shard": "2025-01-07 05:06:32 +0000"
+      "has_amethyst_shard": "2025-01-07 05:18:26 +0000"
     },
     "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_meef": "2025-01-07 05:30:54 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/witch": {
+    "criteria": {
+      "kill": "2025-01-07 05:55:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-07 06:20:57 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_maverick": {
+    "criteria": {
+      "kill_a_warlock": "2025-01-07 06:34:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-08 01:36:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-08 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-08 01:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-01-08 02:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-01-08 02:53:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-08 03:53:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

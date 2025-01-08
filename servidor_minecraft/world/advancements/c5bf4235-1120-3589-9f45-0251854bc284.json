@@ -6420,12 +6420,6 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-10-31 22:14:07 +0000"
-    },
-    "done": true
-  },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "minecraft:fortress": "2024-10-31 22:14:07 +0000",
@@ -19554,12 +19548,6 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/void_lily": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-07 05:31:14 +0000"
-    },
-    "done": true
-  },
   "littlemaidrebirth:recipes/littlemaidrebirth.common/little_maid_spawn_egg": {
     "criteria": {
       "egg": "2025-01-07 04:36:01 +0000",
@@ -19581,23 +19569,11 @@
     },
     "done": true
   },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:36:03 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-01-07 04:36:01 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:36:03 +0000"
-    },
-    "done": false
   },
   "faded_conquest_2:faded_2": {
     "criteria": {
@@ -19605,11 +19581,17 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+  "incendium:technical/using/ragnarok": {
     "criteria": {
-      "has_upgrade_base": "2025-01-07 06:04:24 +0000"
+      "log_spam_fixer": "2025-01-07 04:36:03 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-07 04:36:03 +0000"
+    },
+    "done": false
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -19622,6 +19604,84 @@
       "log_spam_fixer": "2025-01-07 04:36:03 +0000"
     },
     "done": false
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 05:31:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-07 06:04:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-07 06:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 06:36:46 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-08 01:36:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-08 01:39:02 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-08 02:18:33 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/craft_magic_emerald": {
+    "criteria": {
+      "magic_emerald": "2025-01-08 02:46:03 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/craft_dark_altar": {
+    "criteria": {
+      "dark_altar": "2025-01-08 02:46:12 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/craft_cursed_ingot": {
+    "criteria": {
+      "cursed_ingot": "2025-01-08 02:48:11 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-08 03:17:52 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-01-08 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/craft_totem": {
+    "criteria": {
+      "totem_of_souls": "2025-01-08 03:41:14 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
