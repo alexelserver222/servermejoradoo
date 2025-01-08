@@ -3131,3 +3131,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 06:16:19.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:46885] logged in with entity id 199120 at (47.139483445147214, 64.0625, -1.842271097793352)
 [08Jan2025 06:16:20.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
 [08Jan2025 06:16:20.855] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[08Jan2025 06:28:51.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 has made the advancement [To Dust You Shall Return]
+[08Jan2025 06:31:28.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 has made the advancement [An Ash Diamond]
+[08Jan2025 06:32:26.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=63, z=0} BlockPos{x=49, y=70, z=14}
+[08Jan2025 06:34:03.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 has made the advancement [Freddy's Favorite Alloy]

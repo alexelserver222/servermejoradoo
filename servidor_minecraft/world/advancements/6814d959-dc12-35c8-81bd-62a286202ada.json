@@ -22517,5 +22517,17 @@
     },
     "done": true
   },
+  "sons_of_sins:ash_diamond": {
+    "criteria": {
+      "ash_diamond_0": "2025-01-08 06:31:28 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:to_dust_you_shall_return": {
+    "criteria": {
+      "to_dust_you_shall_return_0": "2025-01-08 06:28:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
