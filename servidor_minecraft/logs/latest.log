@@ -3053,3 +3053,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 05:22:27.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1240, y=-58, z=-873} BlockPos{x=-1239, y=-57, z=-873}
 [08Jan2025 05:22:27.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1238, y=-58, z=-873} BlockPos{x=-1239, y=-56, z=-873}
 [08Jan2025 05:25:25.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1159, y=-20, z=-909} BlockPos{x=-1159, y=-19, z=-910}
+[08Jan2025 05:27:39.705] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 05:27:39.705] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 05:27:39.706] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 05:27:39.706] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 05:27:39.707] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 05:27:39.784] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 05:27:39.791] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 05:27:39.791] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 05:27:39.792] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[08Jan2025 05:29:42.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved wrongly!
+[08Jan2025 05:32:54.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1155, y=-34, z=-840} BlockPos{x=-1158, y=-36, z=-840}
+[08Jan2025 05:32:56.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1155, y=-34, z=-840} BlockPos{x=-1158, y=-34, z=-832}
+[08Jan2025 05:33:00.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1158, y=-35, z=-833} BlockPos{x=-1157, y=-36, z=-834}
+[08Jan2025 05:33:00.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1158, y=-35, z=-833} BlockPos{x=-1157, y=-36, z=-834}
+[08Jan2025 05:33:37.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 drowned
