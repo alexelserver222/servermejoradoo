@@ -19385,3 +19385,309 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 04:25:49.887] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew2
 [08Jan2025 04:25:50.247] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:shipwreck/shipwreck7
 [08Jan2025 04:26:36.290] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[08Jan2025 04:27:13.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[08Jan2025 04:27:13.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/bottom
+[08Jan2025 04:27:14.148] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[08Jan2025 04:27:14.156] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[08Jan2025 04:27:15.846] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of goety:secluded_igloo/secluded_igloo
+[08Jan2025 04:28:50.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 04:28:50.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 04:30:57.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=67, z=-33} BlockPos{x=41, y=68, z=-23}
+[08Jan2025 04:32:42.045] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[08Jan2025 04:32:43.205] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[08Jan2025 04:32:43.206] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[08Jan2025 04:32:43.208] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[08Jan2025 04:32:43.208] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[08Jan2025 04:32:43.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[08Jan2025 04:32:43.210] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[08Jan2025 04:32:43.215] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[08Jan2025 04:32:43.217] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[08Jan2025 04:32:43.218] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[08Jan2025 04:32:43.220] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[08Jan2025 04:32:43.221] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[08Jan2025 04:32:43.223] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[08Jan2025 04:32:43.224] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[08Jan2025 04:32:43.225] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[08Jan2025 04:32:43.226] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[08Jan2025 04:32:43.227] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[08Jan2025 04:32:43.228] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[08Jan2025 04:32:43.229] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[08Jan2025 04:32:43.231] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[08Jan2025 04:32:43.232] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[08Jan2025 04:32:43.234] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[08Jan2025 04:32:43.234] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[08Jan2025 04:32:43.235] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[08Jan2025 04:32:43.237] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[08Jan2025 04:32:43.238] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[08Jan2025 04:32:43.239] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[08Jan2025 04:32:43.240] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[08Jan2025 04:32:43.241] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[08Jan2025 04:32:43.241] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[08Jan2025 04:32:43.242] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[08Jan2025 04:32:43.243] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[08Jan2025 04:32:43.244] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[08Jan2025 04:32:43.245] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[08Jan2025 04:32:43.246] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[08Jan2025 04:32:43.246] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[08Jan2025 04:32:43.247] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[08Jan2025 04:32:43.248] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[08Jan2025 04:32:43.250] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[08Jan2025 04:32:43.252] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[08Jan2025 04:32:43.253] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[08Jan2025 04:32:43.254] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[08Jan2025 04:32:43.255] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[08Jan2025 04:32:43.256] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[08Jan2025 04:32:43.256] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[08Jan2025 04:32:43.257] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[08Jan2025 04:32:43.258] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[08Jan2025 04:32:43.259] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[08Jan2025 04:32:43.260] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[08Jan2025 04:32:43.261] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[08Jan2025 04:32:43.262] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[08Jan2025 04:32:43.262] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[08Jan2025 04:32:43.263] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[08Jan2025 04:32:43.264] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[08Jan2025 04:32:43.264] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[08Jan2025 04:32:43.265] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[08Jan2025 04:32:43.265] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[08Jan2025 04:32:43.265] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[08Jan2025 04:32:43.267] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[08Jan2025 04:32:43.268] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[08Jan2025 04:32:43.269] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[08Jan2025 04:32:43.269] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[08Jan2025 04:32:43.270] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[08Jan2025 04:32:43.271] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[08Jan2025 04:32:43.271] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[08Jan2025 04:32:43.272] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[08Jan2025 04:32:43.273] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[08Jan2025 04:32:43.274] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[08Jan2025 04:32:43.275] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[08Jan2025 04:32:43.275] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[08Jan2025 04:32:43.276] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[08Jan2025 04:32:43.277] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[08Jan2025 04:32:43.277] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[08Jan2025 04:32:43.278] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[08Jan2025 04:32:43.279] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[08Jan2025 04:32:43.279] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[08Jan2025 04:32:43.280] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[08Jan2025 04:32:43.281] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[08Jan2025 04:32:43.282] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[08Jan2025 04:32:43.283] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[08Jan2025 04:32:43.284] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[08Jan2025 04:32:43.286] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[08Jan2025 04:32:43.287] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[08Jan2025 04:32:43.287] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[08Jan2025 04:32:43.288] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[08Jan2025 04:32:43.288] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[08Jan2025 04:32:43.289] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[08Jan2025 04:32:43.290] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[08Jan2025 04:32:43.290] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[08Jan2025 04:32:43.291] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[08Jan2025 04:32:43.291] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[08Jan2025 04:32:43.292] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[08Jan2025 04:32:43.292] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[08Jan2025 04:32:43.293] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[08Jan2025 04:32:43.294] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[08Jan2025 04:32:43.294] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[08Jan2025 04:32:43.294] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[08Jan2025 04:32:43.295] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[08Jan2025 04:32:43.296] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[08Jan2025 04:32:43.296] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[08Jan2025 04:32:43.297] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[08Jan2025 04:32:43.297] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[08Jan2025 04:32:43.298] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[08Jan2025 04:32:43.298] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[08Jan2025 04:32:43.299] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[08Jan2025 04:32:43.300] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[08Jan2025 04:32:43.300] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 handling client fire request
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1623549028 to 0
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 - obtained hit result in 0ms
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 - obtained hit result in 0ms
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 - obtained hit result in 0ms
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 - obtained hit result in 0ms
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 - obtained hit result in 0ms
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 - obtained hit result in 0ms
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 - obtained hit result in 0ms
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 - obtained hit result in 0ms
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 - obtained hit result in 0ms
+[08Jan2025 04:33:15.744] [Server thread/DEBUG] [pointblank/]: 95744 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 1ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 - obtained hit result in 0ms
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: 95745 obtained hit results
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@620d0649
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.745] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@192cc8d2
+[08Jan2025 04:33:15.746] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.746] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@256ef980
+[08Jan2025 04:33:15.746] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.746] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71f0be54
+[08Jan2025 04:33:15.750] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.750] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7bc5c16d
+[08Jan2025 04:33:15.750] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.750] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@450fc9f
+[08Jan2025 04:33:15.750] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.750] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@56a0b76c
+[08Jan2025 04:33:15.752] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.752] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2256b1f2
+[08Jan2025 04:33:15.752] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.752] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@77cdd27c
+[08Jan2025 04:33:15.752] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.752] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@747a6c1e
+[08Jan2025 04:33:15.752] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.752] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@27b2ae2a
+[08Jan2025 04:33:15.752] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.752] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@30fc420f
+[08Jan2025 04:33:15.754] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@29bb285e
+[08Jan2025 04:33:15.754] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.754] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e06abeb
+[08Jan2025 04:33:15.758] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.758] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6ec94654
+[08Jan2025 04:33:15.758] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.758] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1ec06a0b
+[08Jan2025 04:33:15.758] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.758] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2522d3cb
+[08Jan2025 04:33:15.759] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.759] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@25ea60ef
+[08Jan2025 04:33:15.759] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.759] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@13579e0
+[08Jan2025 04:33:15.759] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.759] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1c38dbff
+[08Jan2025 04:33:15.759] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.759] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2fb7ff38
+[08Jan2025 04:33:15.759] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.759] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@592c1f39
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@737c8785
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@29c14d36
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@399f3909
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@f33cd4
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1724c3e0
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@34af94cf
+[08Jan2025 04:33:15.760] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.761] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7438b422
+[08Jan2025 04:33:15.761] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:15.761] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d3423ed
+[08Jan2025 04:33:15.761] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=52.33, y=71.02, z=-0.35]
+[08Jan2025 04:33:16.458] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1623549028 to 1
+[08Jan2025 04:33:18.295] [Server thread/DEBUG] [pointblank/]: 98295 handling client fire request
+[08Jan2025 04:33:18.295] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1623549028 to 0
+[08Jan2025 04:33:18.295] [Server thread/DEBUG] [pointblank/]: 98295 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 1ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.296] [Server thread/DEBUG] [pointblank/]: 98296 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 1ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 - obtained hit result in 0ms
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: 98297 obtained hit results
+[08Jan2025 04:33:18.297] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2acc7a
+[08Jan2025 04:33:18.301] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.301] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7f4ddee9
+[08Jan2025 04:33:18.301] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.301] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@707e2b32
+[08Jan2025 04:33:18.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.303] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@40ac255d
+[08Jan2025 04:33:18.304] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.304] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1633682e
+[08Jan2025 04:33:18.304] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.304] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7984697
+[08Jan2025 04:33:18.304] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.304] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6bedaed
+[08Jan2025 04:33:18.304] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.304] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@279991aa
+[08Jan2025 04:33:18.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.308] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a66ef6f
+[08Jan2025 04:33:18.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.308] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6f0fb84a
+[08Jan2025 04:33:18.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.308] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f967ef4
+[08Jan2025 04:33:18.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@74e9a86d
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@69e92c08
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7bb60497
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@577ba4cb
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6ee8c489
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e412c30
+[08Jan2025 04:33:18.309] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5980bd3
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@f4faa57
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@27abfbbb
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@60cc63d2
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@25cf2a8b
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@57202177
+[08Jan2025 04:33:18.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.311] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2fae6e0b
+[08Jan2025 04:33:18.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.311] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2cff4adf
+[08Jan2025 04:33:18.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.311] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7038b6b9
+[08Jan2025 04:33:18.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.311] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26c51a50
+[08Jan2025 04:33:18.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.311] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a47f6b5
+[08Jan2025 04:33:18.312] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.312] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2cb8e290
+[08Jan2025 04:33:18.312] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.312] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@190014c0
+[08Jan2025 04:33:18.312] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44] sends hit scan notification to ServerPlayer['Doom_Slayer246'/317, l='ServerLevel[world]', x=50.82, y=70.00, z=1.44]
+[08Jan2025 04:33:18.852] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1623549028 to 1
+[08Jan2025 04:33:50.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 04:33:50.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 04:33:56.939] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: ships:secondary

@@ -2797,3 +2797,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 04:18:13.011] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [08Jan2025 04:18:13.012] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [08Jan2025 04:23:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 was slain by The Moonflower
+[08Jan2025 04:30:57.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=67, z=-33} BlockPos{x=41, y=68, z=-23}
+[08Jan2025 04:33:56.939] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: ships:secondary
