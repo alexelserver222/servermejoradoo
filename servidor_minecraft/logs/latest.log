@@ -2728,3 +2728,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 00:54:59.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Spectator Mode]
 [10Jan2025 00:55:00.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Creative Mode]
 [10Jan2025 00:55:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexten22: Set own game mode to Survival Mode]
+[10Jan2025 01:07:48.762] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'totw_modded:root' in progress file ./world/advancements/34b40136-b9b3-3c85-9dcd-a653aa99d433.json - it doesn't exist anymore?
+[10Jan2025 01:07:48.763] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'hopo:minecraft/adventure/all_mineshaft' in progress file ./world/advancements/34b40136-b9b3-3c85-9dcd-a653aa99d433.json - it doesn't exist anymore?
+[10Jan2025 01:07:48.779] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'terramity:ranged_damage_bonus'
+[10Jan2025 01:07:48.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadyx28x[/127.92.210.240:35793] logged in with entity id 17823 at (-86.69999998807907, 56.0, -63.326095820949995)
+[10Jan2025 01:07:50.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x joined the game
+[10Jan2025 01:07:50.597] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
