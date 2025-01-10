@@ -7851,107 +7851,11 @@
     },
     "done": true
   },
-  "croptopia:recipes/pork_jerky": {
-    "criteria": {
-      "has_pork": "2025-01-10 01:50:22 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-01-10 02:10:52 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-01-10 02:12:13 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/orange_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "infinity_cave:display/root": {
-    "criteria": {
-      "location": "2025-01-10 02:15:01 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-01-10 01:50:22 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-01-10 02:10:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-01-10 01:50:22 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-01-10 01:07:50 +0000"
     },
     "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-01-10 01:23:41 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
   },
   "littlemaidrebirth:recipes/littlemaidrebirth.common/little_maid_spawn_egg": {
     "criteria": {
@@ -7962,262 +7866,9 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/stone_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/yellow_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/television_remote": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-10 01:10:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-01-10 02:12:13 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pink_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
-    "criteria": {
-      "has_bleeding_heart": "2025-01-10 01:23:41 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
-  },
-  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-01-10 02:20:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_broad_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/frying/glow_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2025-01-10 01:51:15 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:every_bit_of_the_rainbow": {
-    "criteria": {
-      "white_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
-  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-10 01:07:50 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/building_blocks/green_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 01:07:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-01-10 02:10:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-01-10 01:23:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/gray_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-01-10 02:23:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/light_gray_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_boots_repairing": {
-    "criteria": {
-      "has_golden_boots": "2025-01-10 01:51:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2025-01-10 02:12:13 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/white_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-01-10 02:20:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
-    "criteria": {
-      "has_spruce_sapling": "2025-01-10 02:23:04 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_spear_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/lime_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-01-10 02:20:28 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/ivy/weeping_ivy": {
-    "criteria": {
-      "has_item": "2025-01-10 01:51:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-01-10 01:23:44 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/minotaurus": {
-    "criteria": {
-      "kill": "2025-01-10 02:00:03 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-01-10 02:44:37 +0000",
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:parry": {
-    "criteria": {
-      "parry_0": "2025-01-10 02:12:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-01-10 01:51:15 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/brown_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "memory_of_the_past:first_level_up": {
-    "criteria": {
-      "first_level_up_0": "2025-01-10 01:26:01 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/pork_jerky": {
-    "criteria": {
-      "has_the_recipe": "2025-01-10 01:50:22 +0000"
     },
     "done": true
   },
@@ -8227,9 +7878,129 @@
     },
     "done": true
   },
-  "farmerscroptopia:recipes/farmersdelight_crafting/noodle_soup": {
+  "faded_conquest_2:faded_2": {
     "criteria": {
-      "has_the_recipe": "2025-01-10 01:50:22 +0000"
+      "faded_2_0": "2025-01-10 01:07:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 01:07:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 01:07:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 01:07:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 01:07:51 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-10 01:10:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-10 01:23:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
+    "criteria": {
+      "has_bleeding_heart": "2025-01-10 01:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-10 01:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-10 01:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-10 01:23:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:every_bit_of_the_rainbow": {
+    "criteria": {
+      "white_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/green_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
     },
     "done": true
   },
@@ -8251,45 +8022,81 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
+  "regions_unexplored:recipes/building_blocks/purple_snowbelle": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 01:07:51 +0000"
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "expanded_combat:recipes/combat/stone_great_hammer_conditional_shaped": {
+  "regions_unexplored:recipes/building_blocks/blue_snowbelle": {
     "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_snowbelle": {
+    "criteria": {
+      "has_white_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "memory_of_the_past:first_level_up": {
+    "criteria": {
+      "first_level_up_0": "2025-01-10 01:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-10 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/noodle_soup": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 01:50:22 +0000"
     },
     "done": true
   },
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
       "has_pork": "2025-01-10 01:50:22 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
-  },
-  "expanded_combat:recipes/combat/stone_claymore_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-01-10 02:20:26 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-01-10 02:44:02 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/bone_knight": {
-    "criteria": {
-      "kill": "2025-01-10 02:43:54 +0000"
     },
     "done": true
   },
@@ -8305,24 +8112,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/purple_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "faded_conquest_2:faded_2": {
-    "criteria": {
-      "faded_2_0": "2025-01-10 01:07:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-01-10 01:41:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-10 01:50:22 +0000"
@@ -8335,41 +8124,155 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "netherexp:recipes/ivy/weeping_ivy": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:44:38 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/building_blocks/blue_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+      "has_item": "2025-01-10 01:51:08 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/light_blue_snowbelle": {
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
     "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+      "has_ingredient": "2025-01-10 01:51:15 +0000"
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 01:07:51 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/misc/white_dye_from_white_snowbelle": {
-    "criteria": {
-      "has_white_snowbelle": "2025-01-10 01:23:45 +0000"
+      "has_glow_berries": "2025-01-10 01:51:15 +0000"
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
+  "aether:recipes/combat/golden_boots_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 01:07:51 +0000"
+      "has_golden_boots": "2025-01-10 01:51:31 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-01-10 02:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-10 02:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-10 02:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-10 02:10:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-10 02:12:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-10 02:12:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-01-10 02:12:13 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-01-10 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-01-10 02:13:03 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/root": {
+    "criteria": {
+      "location": "2025-01-10 02:15:01 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
   },
   "expanded_combat:recipes/combat/stone_battle_staff_conditional_shaped": {
     "criteria": {
@@ -8383,29 +8286,59 @@
     },
     "done": true
   },
-  "undead_revamp2:mygothgf": {
-    "criteria": {
-      "mygothgf_0": "2025-01-10 02:13:03 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/stone_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-01-10 02:20:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
-      "has_snowball": "2025-01-10 01:23:44 +0000"
+      "has_raw_silver": "2025-01-10 02:20:28 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/black_snowbelle": {
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
-      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+      "has_raw_silver": "2025-01-10 02:20:28 +0000"
     },
     "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-01-10 02:23:04 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2025-01-10 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-01-10 02:44:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-10 03:21:51 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

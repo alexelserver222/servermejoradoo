@@ -22600,9 +22600,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-01-10 03:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-01-10 03:19:44 +0000"
+    },
+    "done": true
+  },
   "farmerscroptopia:recipes/croptopia_cooking/dough": {
     "criteria": {
       "has_the_recipe": "2025-01-10 02:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_copper": "2025-01-10 03:19:44 +0000"
     },
     "done": true
   },
@@ -22624,15 +22642,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-01-10 03:19:44 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/noodles": {
     "criteria": {
       "has_flour": "2025-01-10 02:24:18 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-01-10 03:12:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-01-10 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-01-10 03:14:45 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/tortilla": {
     "criteria": {
       "took_flour": "2025-01-10 02:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-01-10 03:19:44 +0000"
     },
     "done": true
   },
@@ -22654,6 +22702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper": {
+    "criteria": {
+      "has_weathered_copper": "2025-01-10 03:19:44 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-01-10 02:43:31 +0000"
@@ -22663,6 +22717,12 @@
   "croptopia:recipes/misc/chile_pepper_seed": {
     "criteria": {
       "has_chile_pepper": "2025-01-10 02:00:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-01-10 03:14:57 +0000"
     },
     "done": true
   },
