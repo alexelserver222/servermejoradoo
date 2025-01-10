@@ -22587,6 +22587,12 @@
     },
     "done": true
   },
+  "luminousworld:kill_king_crab": {
+    "criteria": {
+      "kill_king_crab_0": "2025-01-10 02:13:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
     "criteria": {
       "has_dead_bush": "2025-01-10 01:59:32 +0000"

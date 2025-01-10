@@ -7855,15 +7855,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-10 02:10:52 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-10 02:12:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/orange_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
     },
     "done": true
   },
+  "infinity_cave:display/root": {
+    "criteria": {
+      "location": "2025-01-10 02:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-10 02:10:52 +0000"
     },
     "done": true
   },
@@ -7894,6 +7930,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/yellow_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
@@ -7906,15 +7948,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-10 02:12:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pink_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
     "criteria": {
       "has_bleeding_heart": "2025-01-10 01:23:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
     },
     "done": true
   },
@@ -7936,6 +8002,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/green_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
@@ -7948,6 +8020,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-10 02:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-01-10 01:23:41 +0000"
@@ -7957,6 +8035,12 @@
   "regions_unexplored:recipes/building_blocks/gray_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
     },
     "done": true
   },
@@ -7972,15 +8056,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-01-10 02:12:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/lime_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 02:20:28 +0000"
     },
     "done": true
   },
@@ -7999,6 +8113,12 @@
   "grimoireofgaia:main/minotaurus": {
     "criteria": {
       "kill": "2025-01-10 02:00:03 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-01-10 02:12:45 +0000"
     },
     "done": true
   },
@@ -8062,9 +8182,21 @@
     },
     "done": false
   },
+  "expanded_combat:recipes/combat/stone_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
       "has_pork": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
     },
     "done": true
   },
@@ -8139,6 +8271,30 @@
       "log_spam_fixer": "2025-01-10 01:07:51 +0000"
     },
     "done": false
+  },
+  "expanded_combat:recipes/combat/stone_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-01-10 02:13:03 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {

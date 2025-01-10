@@ -3097,6 +3097,7 @@
       "minecraft:vindicator": "2024-12-14 01:09:16 +0000",
       "minecraft:spider": "2024-12-11 04:51:30 +0000",
       "minecraft:creeper": "2024-12-20 02:57:53 +0000",
+      "minecraft:slime": "2025-01-10 02:17:19 +0000",
       "minecraft:phantom": "2025-01-04 03:03:29 +0000",
       "minecraft:cave_spider": "2024-12-14 00:57:38 +0000",
       "minecraft:vex": "2024-12-14 01:06:18 +0000",
@@ -9076,9 +9077,63 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-10 02:12:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 02:08:42 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
   "sons_of_sins:lazarus_pit": {
     "criteria": {
       "lazarus_pit_0": "2025-01-10 01:43:18 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
     },
     "done": true
   },
@@ -9088,9 +9143,81 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 02:08:42 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-10 02:09:35 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 02:08:42 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-10 02:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-10 02:09:35 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-01-10 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-01-10 02:14:19 +0000"
     },
     "done": true
   },
