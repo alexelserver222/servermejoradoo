@@ -17054,3 +17054,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 01:07:48.782] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 1190 classes
 [10Jan2025 01:07:50.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x joined the game
 [10Jan2025 01:07:50.597] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
+[10Jan2025 01:11:25.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:11:25.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:11:39.060] [Server thread/DEBUG] [pointblank/]: Handling client projectile file request
+[10Jan2025 01:11:39.060] [Server thread/DEBUG] [pointblank/]: Received client projectile file request
+[10Jan2025 01:11:39.060] [Server thread/DEBUG] [pointblank/]: 99060 initializing projectile trajectory
+[10Jan2025 01:11:39.060] [Server thread/DEBUG] [pointblank/]: 99060 performed projectile shot
+[10Jan2025 01:11:39.060] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1012880306 to 19
+[10Jan2025 01:11:44.010] [Server thread/DEBUG] [pointblank/]: Handling client projectile file request
+[10Jan2025 01:11:44.010] [Server thread/DEBUG] [pointblank/]: Received client projectile file request
+[10Jan2025 01:11:44.010] [Server thread/DEBUG] [pointblank/]: 4010 initializing projectile trajectory
+[10Jan2025 01:11:44.010] [Server thread/DEBUG] [pointblank/]: 4010 performed projectile shot
+[10Jan2025 01:11:44.010] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1012880306 to 18
+[10Jan2025 01:11:45.510] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1012880306 to 19
+[10Jan2025 01:16:14.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[10Jan2025 01:16:14.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[10Jan2025 01:16:25.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:16:25.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:17:27.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
+[10Jan2025 01:17:27.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Jan2025 01:17:27.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Jan2025 01:17:27.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Jan2025 01:17:27.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Jan2025 01:17:27.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[10Jan2025 01:17:28.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[10Jan2025 01:21:25.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:21:25.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

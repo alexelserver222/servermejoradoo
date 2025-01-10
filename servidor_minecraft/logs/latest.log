@@ -2734,3 +2734,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 01:07:48.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadyx28x[/127.92.210.240:35793] logged in with entity id 17823 at (-86.69999998807907, 56.0, -63.326095820949995)
 [10Jan2025 01:07:50.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x joined the game
 [10Jan2025 01:07:50.597] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
+[10Jan2025 01:16:14.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
+[10Jan2025 01:16:14.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
