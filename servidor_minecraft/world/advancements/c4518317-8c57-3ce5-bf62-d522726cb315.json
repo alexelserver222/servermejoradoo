@@ -9091,6 +9091,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/deathword": {
+    "criteria": {
+      "kill": "2025-01-10 02:42:35 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-01-10 02:14:19 +0000"
@@ -9136,6 +9142,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-10 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/creep": {
+    "criteria": {
+      "kill": "2025-01-10 02:45:33 +0000"
     },
     "done": true
   },
@@ -9208,6 +9220,12 @@
   "sons_of_sins:lazarus_pit": {
     "criteria": {
       "lazarus_pit_0": "2025-01-10 01:43:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-01-10 02:44:29 +0000"
     },
     "done": true
   },

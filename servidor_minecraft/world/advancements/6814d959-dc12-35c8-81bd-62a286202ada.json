@@ -22648,6 +22648,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-01-10 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-10 02:43:31 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/chile_pepper_seed": {
     "criteria": {
       "has_chile_pepper": "2025-01-10 02:00:34 +0000"
