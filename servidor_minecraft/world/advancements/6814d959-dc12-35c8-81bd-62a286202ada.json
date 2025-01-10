@@ -22594,6 +22594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-01-10 03:23:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
     "criteria": {
       "has_dead_bush": "2025-01-10 01:59:32 +0000"
@@ -22711,6 +22717,12 @@
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-01-10 02:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-01-10 03:28:06 +0000"
     },
     "done": true
   },

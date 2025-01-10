@@ -5831,7 +5831,8 @@
     "criteria": {
       "tomato": "2024-12-14 01:09:44 +0000",
       "potato": "2024-12-20 02:33:14 +0000",
-      "red_mushroom": "2025-01-04 03:18:25 +0000"
+      "red_mushroom": "2025-01-04 03:18:25 +0000",
+      "carrot": "2025-01-10 03:24:03 +0000"
     },
     "done": false
   },
@@ -9579,9 +9580,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-10 03:30:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-01-10 03:13:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-10 03:30:34 +0000"
     },
     "done": true
   },
