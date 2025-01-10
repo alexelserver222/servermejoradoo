@@ -16650,7 +16650,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "pecan_pie": "2024-12-14 02:40:34 +0000"
+      "pecan_pie": "2024-12-14 02:40:34 +0000",
+      "glowing_calamari": "2025-01-10 02:40:22 +0000"
     },
     "done": false
   },
@@ -19711,81 +19712,45 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "galosphere:recipes/building_blocks/amethyst_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 02:22:01 +0000"
-    },
-    "done": false
+    "done": true
   },
   "croptopia:recipes/pepperoni": {
     "criteria": {
       "has_pepper": "2025-01-10 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-01-10 02:40:22 +0000"
     },
     "done": true
   },
@@ -19795,9 +19760,57 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-01-10 02:40:22 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/chile_pepper_seed": {
     "criteria": {
       "has_chile_pepper": "2025-01-10 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-10 02:35:00 +0000"
     },
     "done": true
   },

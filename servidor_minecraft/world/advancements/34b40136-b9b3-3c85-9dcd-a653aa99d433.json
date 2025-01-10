@@ -135,6 +135,7 @@
       "frozen_tundra": "2024-12-02 00:53:37 +0000",
       "redstone_caves": "2025-01-04 03:46:40 +0000",
       "poppy_fields": "2024-12-10 04:40:57 +0000",
+      "scorching_caves": "2025-01-10 02:22:28 +0000",
       "blackwood_taiga": "2024-12-14 00:53:04 +0000",
       "frozen_pine_taiga": "2024-12-10 04:19:32 +0000",
       "cold_river": "2024-12-10 04:40:41 +0000",
@@ -6758,6 +6759,7 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-01-04 03:46:40 +0000",
+      "scorching_caves": "2025-01-10 02:22:28 +0000",
       "bioshroom_caves": "2024-12-28 02:35:33 +0000",
       "ancient_delta": "2024-12-28 02:35:41 +0000"
     },
@@ -8044,6 +8046,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-10 02:23:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_gray_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
@@ -8077,6 +8085,12 @@
   "expanded_combat:recipes/combat/stone_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-01-10 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-01-10 02:23:04 +0000"
     },
     "done": true
   },
