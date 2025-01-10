@@ -7846,9 +7846,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/orange_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 01:50:22 +0000"
     },
     "done": true
   },
@@ -7894,6 +7912,12 @@
   "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
     "criteria": {
       "has_bleeding_heart": "2025-01-10 01:23:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-01-10 01:51:15 +0000"
     },
     "done": true
   },
@@ -7951,9 +7975,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2025-01-10 01:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-10 01:23:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-01-10 01:51:15 +0000"
     },
     "done": true
   },
@@ -7969,9 +8005,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-01-10 01:07:50 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/noodle_soup": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 01:50:22 +0000"
     },
     "done": true
   },
@@ -7999,6 +8047,24 @@
     },
     "done": false
   },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
@@ -8008,6 +8074,24 @@
   "faded_conquest_2:faded_2": {
     "criteria": {
       "faded_2_0": "2025-01-10 01:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-10 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 01:50:22 +0000"
     },
     "done": true
   },
