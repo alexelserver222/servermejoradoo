@@ -477,6 +477,7 @@
       "flower_fields": "2024-12-11 05:14:17 +0000",
       "frozen_pine_taiga": "2024-12-11 04:59:11 +0000",
       "mountains": "2024-12-24 02:40:21 +0000",
+      "temperate_grove": "2025-01-10 02:54:52 +0000",
       "cold_river": "2025-01-09 02:52:15 +0000",
       "pine_slopes": "2024-12-24 02:44:10 +0000",
       "gravel_beach": "2025-01-09 02:49:10 +0000",
@@ -498,6 +499,7 @@
       "flower_fields": "2024-12-11 05:14:17 +0000",
       "frozen_pine_taiga": "2024-12-11 04:59:11 +0000",
       "mountains": "2024-12-24 02:40:21 +0000",
+      "temperate_grove": "2025-01-10 02:54:52 +0000",
       "cold_river": "2025-01-09 02:52:15 +0000",
       "pine_slopes": "2024-12-24 02:44:10 +0000",
       "gravel_beach": "2025-01-09 02:49:10 +0000",
@@ -9193,6 +9195,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-01-10 03:01:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-10 02:34:46 +0000"
@@ -9280,6 +9288,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-10 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-01-10 03:01:57 +0000"
     },
     "done": true
   },
