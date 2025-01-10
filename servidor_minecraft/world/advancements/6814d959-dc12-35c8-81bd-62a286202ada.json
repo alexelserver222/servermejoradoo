@@ -17581,6 +17581,7 @@
   "croptopia:gather_all": {
     "criteria": {
       "bellpepper_seed": "2024-12-27 21:54:45 +0000",
+      "chile_pepper_seed": "2025-01-10 02:00:34 +0000",
       "kiwi_seed": "2024-12-11 03:15:33 +0000",
       "soybean_seed": "2024-12-11 03:15:18 +0000",
       "barley_seed": "2024-12-11 03:17:15 +0000",
@@ -17597,6 +17598,7 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "chile_pepper_seed": "2025-01-10 02:00:34 +0000",
       "bellpepper_seed": "2024-12-27 21:54:45 +0000",
       "corn_seed": "2024-12-11 03:17:15 +0000",
       "mustard_seed": "2024-12-11 03:17:12 +0000",
@@ -22582,6 +22584,30 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-01-09 03:25:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-01-10 01:59:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pepperoni": {
+    "criteria": {
+      "has_pepper": "2025-01-10 02:00:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/chile_pepper_seed": {
+    "criteria": {
+      "has_chile_pepper": "2025-01-10 02:00:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/paprika": {
+    "criteria": {
+      "has_chile_peppers": "2025-01-10 02:00:34 +0000"
     },
     "done": true
   },

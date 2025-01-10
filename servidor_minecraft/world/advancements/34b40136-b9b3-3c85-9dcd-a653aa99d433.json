@@ -128,6 +128,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-12-10 04:41:10 +0000",
+      "shrubland": "2025-01-10 01:57:06 +0000",
       "pine_taiga": "2025-01-04 03:46:52 +0000",
       "autumnal_maple_forest": "2024-12-10 04:41:36 +0000",
       "ancient_delta": "2024-12-28 02:35:41 +0000",
@@ -147,6 +148,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2024-12-10 04:41:10 +0000",
+      "shrubland": "2025-01-10 01:57:06 +0000",
       "pine_taiga": "2025-01-04 03:46:52 +0000",
       "autumnal_maple_forest": "2024-12-10 04:41:36 +0000",
       "frozen_tundra": "2024-12-02 00:53:37 +0000",
@@ -1647,7 +1649,8 @@
       "minecraft:cold_ocean": "2024-12-10 04:40:28 +0000",
       "minecraft:deep_cold_ocean": "2024-12-10 04:39:56 +0000",
       "minecraft:ocean": "2024-12-10 04:06:26 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-10 04:23:42 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-10 04:23:42 +0000",
+      "minecraft:plains": "2025-01-10 01:56:53 +0000"
     },
     "done": false
   },
@@ -7963,6 +7966,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-01-10 01:51:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_snowbelle": {
     "criteria": {
       "has_snowbelle": "2025-01-10 01:23:45 +0000"
@@ -7984,6 +7993,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-10 01:23:44 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-01-10 02:00:03 +0000"
     },
     "done": true
   },

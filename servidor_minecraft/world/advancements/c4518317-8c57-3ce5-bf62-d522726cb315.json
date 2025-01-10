@@ -464,6 +464,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-01-10 01:56:59 +0000",
       "cold_deciduous_forest": "2024-12-24 02:36:07 +0000",
       "pine_taiga": "2024-12-14 00:28:54 +0000",
       "muddy_river": "2024-12-14 01:03:09 +0000",
@@ -486,6 +487,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-01-10 01:56:59 +0000",
       "cold_deciduous_forest": "2024-12-24 02:36:07 +0000",
       "pine_taiga": "2024-12-14 00:28:54 +0000",
       "muddy_river": "2024-12-14 01:03:09 +0000",
