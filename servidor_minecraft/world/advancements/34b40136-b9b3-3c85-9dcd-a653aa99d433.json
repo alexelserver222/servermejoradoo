@@ -7846,9 +7846,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/orange_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-01-10 01:07:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-10 01:23:41 +0000"
     },
     "done": true
   },
@@ -7861,15 +7873,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/yellow_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_copper_ingot": "2025-01-10 01:10:52 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pink_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
+    "criteria": {
+      "has_bleeding_heart": "2025-01-10 01:23:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:every_bit_of_the_rainbow": {
+    "criteria": {
+      "white_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": false
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-10 01:07:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
     },
     "done": true
   },
@@ -7879,9 +7921,75 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-10 01:23:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-10 01:23:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "memory_of_the_past:first_level_up": {
+    "criteria": {
+      "first_level_up_0": "2025-01-10 01:26:01 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-01-10 01:07:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
     },
     "done": true
   },
@@ -7891,9 +7999,27 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/building_blocks/purple_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
   "faded_conquest_2:faded_2": {
     "criteria": {
       "faded_2_0": "2025-01-10 01:07:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
     },
     "done": true
   },
@@ -7903,11 +8029,29 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/misc/white_dye_from_white_snowbelle": {
+    "criteria": {
+      "has_white_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-01-10 01:07:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-10 01:23:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-01-10 01:23:45 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

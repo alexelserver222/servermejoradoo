@@ -2736,3 +2736,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 01:07:50.597] [Server thread/INFO] [Jade/]: Syncing config to Shadyx28x (34b40136-b9b3-3c85-9dcd-a653aa99d433)
 [10Jan2025 01:16:14.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueplayer66 lost connection: Disconnected
 [10Jan2025 01:16:14.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueplayer66 left the game
+[10Jan2025 01:26:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has made the advancement [Level Up]
+[10Jan2025 01:28:26.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doom_Slayer246[/127.252.35.23:59785] logged in with entity id 21897 at (46.72816607038693, 64.0625, -1.9042227380565502)
+[10Jan2025 01:28:28.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 joined the game
+[10Jan2025 01:28:28.213] [Server thread/INFO] [Jade/]: Syncing config to Doom_Slayer246 (6814d959-dc12-35c8-81bd-62a286202ada)
+[10Jan2025 01:28:28.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadyx28x moved too quickly! -9.705629014426108,0.0,3.02567057597307
+[10Jan2025 01:28:51.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe tu no duermes
+[10Jan2025 01:28:54.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oeee
+[10Jan2025 01:28:57.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> abreee serverrr
+[10Jan2025 01:29:01.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=56, z=-69} BlockPos{x=-17, y=62, z=3}
+[10Jan2025 01:29:04.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> pendejo xd
+[10Jan2025 01:30:14.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shadyx28x> olis
+[10Jan2025 01:30:17.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oal
+[10Jan2025 01:35:22.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> como consigo witherite
+[10Jan2025 01:35:58.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> aun no se puede
+[10Jan2025 01:36:10.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> es un gefe que vamos a matar despues xd
+[10Jan2025 01:36:20.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> chuzo
+[10Jan2025 01:36:27.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> por que?
+[10Jan2025 01:36:35.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> pq queria hacer una vaina
+[10Jan2025 01:37:08.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> se me bloqueo la pc
+[10Jan2025 01:37:12.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ????
+[10Jan2025 01:37:16.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> asi de la nada
+[10Jan2025 01:37:25.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> se fue a la pantalla de la contraseña
+[10Jan2025 01:38:30.263] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5cdc8cad[id=<null>,name=Namty,properties={},legacy=false] (/127.82.141.237:50269) lost connection: Disconnected
+[10Jan2025 01:38:38.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namty[/127.82.141.237:55533] logged in with entity id 23679 at (3.0298838983302385, 108.0, -29.461289522371896)
+[10Jan2025 01:38:39.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namty joined the game
+[10Jan2025 01:38:40.057] [Server thread/INFO] [Jade/]: Syncing config to Namty (c4518317-8c57-3ce5-bf62-d522726cb315)
+[10Jan2025 01:41:02.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe
+[10Jan2025 01:41:09.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> encontrastes unas botas?
+[10Jan2025 01:41:10.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ande
+[10Jan2025 01:41:26.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> q botas
+[10Jan2025 01:41:31.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> nada xd
+[10Jan2025 01:41:33.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x has made the advancement [Enchanter]
