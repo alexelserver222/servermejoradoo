@@ -22606,6 +22606,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-01-10 03:43:54 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
       "enter_acid_with_armor": "2025-01-10 03:13:17 +0000"
@@ -22731,6 +22737,13 @@
       "has_chile_pepper": "2025-01-10 02:00:34 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "pants": "2025-01-10 03:43:44 +0000",
+      "boots": "2025-01-10 03:50:25 +0000"
+    },
+    "done": false
   },
   "alexscaves:alexscaves/toxic_paste": {
     "criteria": {
