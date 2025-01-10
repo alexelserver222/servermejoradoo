@@ -3408,3 +3408,113 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 03:53:36.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namty left the game
 [10Jan2025 03:53:46.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
 [10Jan2025 03:54:38.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10Jan2025 03:55:26.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Jan2025 03:55:44.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10Jan2025 03:56:07.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[10Jan2025 03:56:25.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
+[10Jan2025 03:56:25.694] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:56:25.694] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:56:25.695] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:56:25.695] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:56:25.815] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:56:31.128] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:56:31.129] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:56:31.129] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:56:31.129] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:57:11.754] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[10Jan2025 03:57:22.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[10Jan2025 03:57:22.701] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:57:27.914] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:57:27.914] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:57:27.915] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 03:57:27.915] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2025 04:00:01.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadyx28x lost connection: Disconnected
+[10Jan2025 04:00:01.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadyx28x left the game
+[10Jan2025 04:01:09.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oeee
+[10Jan2025 04:01:20.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 has reached the goal [Troll Hunter]
+[10Jan2025 04:02:26.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doom_Slayer246 moved wrongly!
+[10Jan2025 04:03:49.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> me rob aron
+[10Jan2025 04:03:52.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doom_Slayer246 tried to swim in lava
+[10Jan2025 04:05:02.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ?????
+[10Jan2025 04:05:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> estaba ocupado
+[10Jan2025 04:05:12.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> que te robaron
+[10Jan2025 04:05:23.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> el puto casco
+[10Jan2025 04:05:28.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ya no importa
+[10Jan2025 04:05:33.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oeee
+[10Jan2025 04:05:38.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> mate un creeper nuclear
+[10Jan2025 04:05:52.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> es que los zombis te qutan el casco
+[10Jan2025 04:06:04.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe fuiste a una alex cave?
+[10Jan2025 04:06:06.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> eso me tiene de la verga oe
+[10Jan2025 04:06:17.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> puta mecanica
+[10Jan2025 04:06:28.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe pero fuiste?
+[10Jan2025 04:06:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> a donde}
+[10Jan2025 04:06:39.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> a la nuclear cave?
+[10Jan2025 04:06:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> so
+[10Jan2025 04:06:43.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> si
+[10Jan2025 04:06:50.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> que vestia
+[10Jan2025 04:06:52.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> me olvide de llevar teleport xd
+[10Jan2025 04:06:58.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe tsss
+[10Jan2025 04:07:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ahora tengo que reiniciarlo de nuevo oeeee
+[10Jan2025 04:07:14.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> aviiisaaaaa xd
+[10Jan2025 04:07:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> andate a la chucha
+[10Jan2025 04:07:24.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> spameale a sambrsano
+[10Jan2025 04:07:50.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣿⣿⣿⣿⣿⣿⣿⢁⠲⠒⠄⡄⠄⠄⡄⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⣠⡂⠡⠄⠁⠁⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⠄⡀⣿⣷⣄⠄⢀⠄⠸⡀⠁⠄⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠐⣲⣬⣟⣻⣽⣿⡇⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠄⠻⣿⡿⠿⣿⡿⠁⠸⠄⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⡿⢟⣋⣁⣀⣀⠄⢀⢀⠍⠛⠋⢀⠄⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿ ⣿⡿⢛⣥⣶⣿⣿⣿⣿⣿⣿⣦⣕⢶⣶⣶⣤⣰⣶⣴⣬⣍⢛⠻⣿⣿⣿⣿ ⣿⢡⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠙⠙⢚⣻⣛⡳⡣⢽⣼⠇⢹⣿⣿⣿ ⡏⣼⠇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢈⣠⣤⣶⣶⣤⠄⠋⠄
+[10Jan2025 04:07:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ??¡¡?¡¡??
+[10Jan2025 04:08:02.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> mañana vas ?
+[10Jan2025 04:08:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣿⣿⣿⣿⣿⣿⣿⢁⠲⠒⠄⡄⠄⠄⡄⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⣠⡂⠡⠄⠁⠁⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⠄⡀⣿⣷⣄⠄⢀⠄⠸⡀⠁⠄⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠐⣲⣬⣟⣻⣽⣿⡇⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠄⠻⣿⡿⠿⣿⡿⠁⠸⠄⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⡿⢟⣋⣁⣀⣀⠄⢀⢀⠍⠛⠋⢀⠄⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿ ⣿⡿⢛⣥⣶⣿⣿⣿⣿⣿⣿⣦⣕⢶⣶⣶⣤⣰⣶⣴⣬⣍⢛⠻⣿⣿⣿⣿ ⣿⢡⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠙⠙⢚⣻⣛⡳⡣⢽⣼⠇⢹⣿⣿⣿ ⡏⣼⠇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢈⣠⣤⣶⣶⣤⠄⠋⠄
+[10Jan2025 04:08:13.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> apoura
+[10Jan2025 04:08:13.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> que verga xd
+[10Jan2025 04:08:18.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe tssss
+[10Jan2025 04:08:26.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ya me voy indignado
+[10Jan2025 04:08:33.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> XD
+[10Jan2025 04:08:36.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> webon
+[10Jan2025 04:09:05.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> espera
+[10Jan2025 04:09:08.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> como consigo sal rosada
+[10Jan2025 04:09:28.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣿⣿⣿⣿⣿⣿⣿⢁⠲⠒⠄⡄⠄⠄⡄⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿
+[10Jan2025 04:09:40.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⣠⡂⠡⠄⠁⠁⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿
+[10Jan2025 04:09:49.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣿⣿⣿⣿⣿⣿⣿⠄⡀⣿⣷⣄⠄⢀⠄⠸⡀⠁⠄⣿⣿⣿⣿⣿⣿⣿⣿
+[10Jan2025 04:09:58.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠐⣲⣬⣟⣻⣽⣿⡇⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿
+[10Jan2025 04:10:08.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⠄⠻⣿⡿⠿⣿⡿⠁⠸⠄⣿⣿⣿⣿⣿⣿⣿⣿
+[10Jan2025 04:10:30.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣿⣿⣿⡿⢟⣋⣁⣀⣀⠄⢀⢀⠍⠛⠋⢀⠄⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿
+[10Jan2025 04:10:35.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> no sapata no
+[10Jan2025 04:10:39.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> noooo
+[10Jan2025 04:10:43.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> XDDDDD
+[10Jan2025 04:10:43.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> pendejo espera xd
+[10Jan2025 04:10:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⡿⢛⣥⣶⣿⣿⣿⣿⣿⣿⣦⣕⢶⣶⣶⣤⣰⣶⣴⣬⣍⢛⠻⣿⣿⣿⣿
+[10Jan2025 04:10:54.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⢡⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠙⠙⢚⣻⣛⡳⡣⢽⣼⠇⢹⣿⣿⣿
+[10Jan2025 04:11:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⡏⣼⠇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢈⣠⣤⣶⣶⣤⠄⠋⠄⠸⣿⣿⣿
+[10Jan2025 04:11:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣧⠉⣾⣮⠭⢅⣩⣿⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣷⣄⠄⠄⢹⣿⣿
+[10Jan2025 04:11:20.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⠉⣾⣿⣿⣖⣭⠍⣭⣭⣿⣿⣿⣿⠟⣰⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠸⣿⣿
+[10Jan2025 04:11:29.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⠄⠉⢩⣭⣅⣐⣛⣿⣿⣿⣿⣿⠏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⢹⣿
+[10Jan2025 04:11:37.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⡏⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠈⢿
+[10Jan2025 04:11:46.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣦⠄⠈⠙⠛⠿⠿⠿⠛⣏⡀⢹⣿⣿⣿⣿⣿⣿⡟⠻⢿⡿⠟⠿⢃⠄⠘
+[10Jan2025 04:11:55.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣿⣷⣄⣀⡀⣶⣶⣶⣿⣿⣿⣆⠻⣿⣿⣿⣿⣿⠿⣶⡦⢌⣱⣾⣿⡆⠄
+[10Jan2025 04:12:02.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ⣿⣿⣿⣿⣿⣇⢹⣿⣿⣿⣿⣿⣿⣷⣌⡛⠿⣿⣿⣷⡶⠶⢙⡋⠉⠉⠄
+[10Jan2025 04:12:04.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> ya esta xd
+[10Jan2025 04:12:18.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> oe mira xd
+[10Jan2025 04:12:19.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> borra la cuenta
+[10Jan2025 04:12:25.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oe
+[10Jan2025 04:12:29.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> taaaa chato
+[10Jan2025 04:12:37.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> tienes pensado reiniciar el nether?
+[10Jan2025 04:13:01.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> tengo 4 iridium
+[10Jan2025 04:13:06.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> y 13 profano
+[10Jan2025 04:13:07.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[10Jan2025 04:13:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> yo 64
+[10Jan2025 04:13:15.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> no puedes tener eso
+[10Jan2025 04:13:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> y no hice mada mas que explorar cuevbas
+[10Jan2025 04:13:25.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[10Jan2025 04:13:28.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> oe
+[10Jan2025 04:13:35.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> coomo chucha
+[10Jan2025 04:13:41.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> si es con un pico en especifico
+[10Jan2025 04:13:44.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> bueno el crikoso suena te dejo con ese nos vemos
+[10Jan2025 04:13:48.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> nooooo
+[10Jan2025 04:13:51.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> deja de usar creativo
+[10Jan2025 04:13:53.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> es con mi super pico x
+[10Jan2025 04:14:03.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> estaba hasta con mis amigos y ellos vieron xd
+[10Jan2025 04:14:44.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> me hare el pico devastador
+[10Jan2025 04:14:48.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> mil disculpa
+[10Jan2025 04:14:54.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> cual chuchas es eso
+[10Jan2025 04:15:08.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> es devastation
+[10Jan2025 04:15:09.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexten22> xd
+[10Jan2025 04:15:19.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> a
+[10Jan2025 04:15:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doom_Slayer246> ya decia yo

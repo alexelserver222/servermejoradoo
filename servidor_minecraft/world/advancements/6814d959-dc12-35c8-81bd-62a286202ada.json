@@ -18201,6 +18201,7 @@
     "criteria": {
       "calamari": "2024-12-14 06:33:04 +0000",
       "pork_jerky": "2024-12-13 22:16:57 +0000",
+      "glowing_calamari": "2025-01-10 03:51:54 +0000",
       "strawberry_jam": "2024-12-11 04:26:03 +0000"
     },
     "done": false
@@ -22696,6 +22697,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-01-10 03:51:54 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/sweet_crepes": {
     "criteria": {
       "took_flour": "2025-01-10 02:24:18 +0000"
@@ -22729,6 +22736,18 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2025-01-10 03:28:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-01-10 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-01-10 04:01:20 +0000"
     },
     "done": true
   },
