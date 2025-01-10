@@ -22795,6 +22795,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
+    "criteria": {
+      "has_felicia_daisy": "2025-01-10 04:33:04 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/paprika": {
     "criteria": {
       "has_chile_peppers": "2025-01-10 02:00:34 +0000"

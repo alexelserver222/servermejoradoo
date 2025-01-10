@@ -1725,12 +1725,6 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-10-31 22:15:06 +0000"
-    },
-    "done": true
-  },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "minecraft:fortress": "2024-10-31 22:15:06 +0000",
@@ -11536,12 +11530,6 @@
     },
     "done": true
   },
-  "totw_modded:root": {
-    "criteria": {
-      "sample_trigger": "2024-12-18 03:01:37 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-18 03:01:37 +0000"
@@ -12647,69 +12635,9 @@
     },
     "done": true
   },
-  "goety:goety/get_crying_obsidian": {
+  "croptopia:recipes/shaped_water_bottle": {
     "criteria": {
-      "crying_obsidian": "2024-12-27 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
-    "criteria": {
-      "has_obsidian": "2024-12-27 21:24:26 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/aerogel_stairs_from_aerogel_stonecutting": {
-    "criteria": {
-      "has_aerogel": "2024-12-27 20:59:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/tools/barometer": {
-    "criteria": {
-      "has_redstone": "2024-12-27 21:48:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/weeping": {
-    "criteria": {
-      "has_item": "2024-12-27 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2024-12-27 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/pillar": {
-    "criteria": {
-      "has_item": "2024-12-27 21:45:07 +0000"
+      "has_water": "2024-12-27 20:47:12 +0000"
     },
     "done": true
   },
@@ -12719,9 +12647,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+  "aether:recipes/building_blocks/aerogel_stairs_from_aerogel_stonecutting": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-27 22:06:23 +0000"
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
     },
     "done": true
   },
@@ -12743,15 +12671,27 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "aether:recipes/decorations/aerogel_wall": {
     "criteria": {
-      "crying_obsidian": "2024-12-27 22:24:58 +0000"
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
     },
     "done": true
   },
-  "croptopia:knife": {
+  "ancient_aether:recipes/building_blocks/aerogel_glass": {
     "criteria": {
-      "knife": "2024-12-27 22:07:29 +0000"
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/aerogel_slab": {
+    "criteria": {
+      "has_aerogel": "2024-12-27 20:59:57 +0000"
+    },
+    "done": true
+  },
+  "aether:hammer_loot": {
+    "criteria": {
+      "hammer_loot": "2024-12-27 21:00:00 +0000"
     },
     "done": true
   },
@@ -12761,27 +12701,75 @@
     },
     "done": true
   },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2024-12-27 21:41:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
-    },
-    "done": true
-  },
   "ancient_aether:recipes/misc/mosaic_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "smithing_templates": "2024-12-27 21:00:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
-      "has_obsidian": "2024-12-27 22:24:58 +0000"
+      "has_obsidian": "2024-12-27 21:24:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-27 21:41:06 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2024-12-27 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2024-12-27 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-27 21:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/pillar": {
+    "criteria": {
+      "has_item": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
     },
     "done": true
   },
@@ -12809,39 +12797,9 @@
     },
     "done": true
   },
-  "aether:hammer_loot": {
-    "criteria": {
-      "hammer_loot": "2024-12-27 21:00:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/combat/sterling_chestplate_smithing": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
-    "criteria": {
-      "has_polished_blackstone_slab": "2024-12-27 22:10:27 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/combat/sterling_leggings_smithing": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/aerogel_wall": {
-    "criteria": {
-      "has_aerogel": "2024-12-27 20:59:57 +0000"
     },
     "done": true
   },
@@ -12851,33 +12809,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "diamond_knife": "2024-12-27 22:07:29 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_monstrosity": {
-    "criteria": {
-      "netheritemonstrosity": "2024-12-27 21:45:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/combat/sterling_boots_smithing": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/twisting": {
-    "criteria": {
-      "has_item": "2024-12-27 21:41:14 +0000"
     },
     "done": true
   },
@@ -12887,9 +12821,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2024-12-27 21:48:25 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/soul_magma_block": {
     "criteria": {
       "has_item": "2024-12-27 22:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-27 22:05:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-27 22:06:23 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_leggings_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_boots_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 22:06:23 +0000"
     },
     "done": true
   },
@@ -12905,35 +12887,98 @@
     },
     "done": true
   },
-  "ancient_aether:recipes/building_blocks/aerogel_glass": {
+  "croptopia:knife": {
     "criteria": {
-      "has_aerogel": "2024-12-27 20:59:57 +0000"
+      "knife": "2024-12-27 22:07:29 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/shaped_water_bottle": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "has_water": "2024-12-27 20:47:12 +0000"
+      "diamond_knife": "2024-12-27 22:07:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+      "has_polished_blackstone_slab": "2024-12-27 22:10:27 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/aerogel_slab": {
+  "goety:goety/get_crying_obsidian": {
     "criteria": {
-      "has_aerogel": "2024-12-27 20:59:57 +0000"
+      "crying_obsidian": "2024-12-27 22:24:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-27 21:45:07 +0000"
+      "crying_obsidian": "2024-12-27 22:24:58 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-27 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-10 04:34:32 +0000"
+    },
+    "done": true
+  },
+  "littlemaidrebirth:recipes/littlemaidrebirth.common/little_maid_spawn_egg": {
+    "criteria": {
+      "egg": "2025-01-10 04:34:32 +0000",
+      "cake": "2025-01-10 04:34:32 +0000",
+      "gold_ingot": "2025-01-10 04:34:32 +0000",
+      "sugar": "2025-01-10 04:34:32 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-10 04:34:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:34:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-01-10 04:34:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:34:33 +0000"
+    },
+    "done": false
+  },
+  "faded_conquest_2:faded_2": {
+    "criteria": {
+      "faded_2_0": "2025-01-10 04:34:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:34:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-10 04:34:33 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
