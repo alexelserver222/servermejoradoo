@@ -18199,6 +18199,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "tortilla": "2025-01-10 04:13:59 +0000",
       "calamari": "2024-12-14 06:33:04 +0000",
       "pork_jerky": "2024-12-13 22:16:57 +0000",
       "glowing_calamari": "2025-01-10 03:51:54 +0000",
@@ -22601,6 +22602,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/enchilada": {
+    "criteria": {
+      "has_tortilla": "2025-01-10 04:13:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
     "criteria": {
       "has_dead_bush": "2025-01-10 01:59:32 +0000"
@@ -22733,6 +22740,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/taco": {
+    "criteria": {
+      "has_tortilla": "2025-01-10 04:13:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/quesadilla": {
+    "criteria": {
+      "has_tortilla": "2025-01-10 04:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2025-01-10 03:28:06 +0000"
@@ -22763,6 +22782,12 @@
       "boots": "2025-01-10 03:50:25 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/tostada": {
+    "criteria": {
+      "has_tortilla": "2025-01-10 04:13:59 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/toxic_paste": {
     "criteria": {
